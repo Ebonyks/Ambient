@@ -1,12 +1,12 @@
 {
-  "verified_revision": "e8a358cbb684b81cf52d2ba5a432bd2fae796a52",
+  "verified_revision": "7b03515b6faae1d3a37b7ac8b2f54dcb33755814",
   "repository": "https://github.com/Ebonyks/Ambient",
   "access_mode": "anonymous HTTPS; no Authorization header or cookies",
-  "checked_at_utc": "2026-09-26T17:21:01.638821+00:00",
-  "payload_file_count": 113,
+  "checked_at_utc": "2026-09-26T17:38:12.223455+00:00",
+  "payload_file_count": 130,
   "all_payload_bytes_and_sha256_match": true,
-  "manifest_sha256": "1e3bc017bb0766b9a1696d8cbb215b6f06346a22be4447a90957433e54f3f06e",
-  "manifest_url": "https://raw.githubusercontent.com/Ebonyks/Ambient/e8a358cbb684b81cf52d2ba5a432bd2fae796a52/DELIVERY_MANIFEST.json",
+  "manifest_sha256": "e1b59afe50c28c7cda1c3e0e0cc18619b953089f866e4d049b894992cc793271",
+  "manifest_url": "https://raw.githubusercontent.com/Ebonyks/Ambient/7b03515b6faae1d3a37b7ac8b2f54dcb33755814/DELIVERY_MANIFEST.json",
   "files": [
     {
       "path": ".gitattributes",
@@ -14,9 +14,94 @@
       "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
     },
     {
+      "path": "protocols/hecker-harmony-v1/build_protocol.py",
+      "bytes": 7837,
+      "sha256": "794555c656b1ccec366350e8ee1a4efa1aa8f136c32d08cbf0820a7f82628074"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/corpus_statistics.json",
+      "bytes": 4976,
+      "sha256": "c0ae2860cc42d0beccc92314bd1660f0e2899cf728e42b7779ec00eab9c42c4f"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/common_tone_clarity.json",
+      "bytes": 3814,
+      "sha256": "8152c33205c33bfdfdf0cefb2ed846a95b9dfd7ab01c4a57f09dc87b927fa878"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/common_tone_clarity.mid",
+      "bytes": 470,
+      "sha256": "15cb5542535098b2b1356f78cec8e0f55acb6fc9d91f45e4650bf7bfc3d14b30"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/low_beating_field.json",
+      "bytes": 3194,
+      "sha256": "c4d941acdecab59198f8d99d3a69a4a212dfe8ff32ca57daad5db4fef2ea9c1c"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/low_beating_field.mid",
+      "bytes": 433,
+      "sha256": "c1ae5f39de337f8abc333c12c61c7713125ccb94ccdcc94a49abbc91cb082010"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/mirages_pressure.json",
+      "bytes": 3461,
+      "sha256": "3d61f29ff4acd04f0e67baba5e362e8c5cb9a26c4840785b1a6ad85d8dc533ca"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/mirages_pressure.mid",
+      "bytes": 496,
+      "sha256": "7e76f107019d05b73ddfe8582201c930d8c4da383d8f498f64e2c0198925d272"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/radio_suspended.json",
+      "bytes": 4820,
+      "sha256": "9ebd90d1fe86b51099c85063f7ee9eba5af050cf699da0d9153fdbe774eb279c"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/radio_suspended.mid",
+      "bytes": 507,
+      "sha256": "48a06e6b41d7a8eb1ea18acf372fb04c1d60fd23f364e8458f3862f45eaaec8b"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/validation.json",
+      "bytes": 1344,
+      "sha256": "6197002eebb9332b28e45e689e3dd389905b879df17ffccc23f3ce59efe81ac5"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/harmony_tool.py",
+      "bytes": 11118,
+      "sha256": "6836239457ebc4237e98caf5bd768bc1faca08fe1de8b9a0d9d242e28aef388e"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/make_examples.py",
+      "bytes": 846,
+      "sha256": "827a8bd4e64ddf0966e7537384ed896f75029472d84e8ff5fa7ed5b102f04aaf"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/protocol.json",
+      "bytes": 13443,
+      "sha256": "02b262c2bf1ef8ceef800cf6ce3db88605ccf1a612cd60f4430a71d1eef85501"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/QA.json",
+      "bytes": 324,
+      "sha256": "b547e83201b323359de161f04988ea4009333db2eaf24710155fa48b4a857b0f"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/README.md",
+      "bytes": 24630,
+      "sha256": "b941ef7230cc272caec1ac1fe2d66552c90406f804450e7eeedc1c677a228360"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/test_harmony_tool.py",
+      "bytes": 3709,
+      "sha256": "8bf5ac70734d652405a051c9ac003a831673761193a617883084ca3b4f2fa9b1"
+    },
+    {
       "path": "README.md",
-      "bytes": 1057,
-      "sha256": "4c3f622723436b9500d235a4556b9d2e735cad5ae074389c5741718187f31f61"
+      "bytes": 1767,
+      "sha256": "f741df11b69f8ba70cf93ef39287988f2078b68a955269e807ea91e9c3417d7a"
     },
     {
       "path": "studies/tim-hecker/candidate_events.csv",
