@@ -1,0 +1,59 @@
+  <TRACK {6F865254-8847-42C7-9CE6-CC444BA747F9}
+    NAME 01_Anchor_bypasses_drive
+    PEAKCOL 26832517
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6F865254-8847-42C7-9CE6-CC444BA747F9}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {33462A18-7CA2-4221-8409-6392CD5F0458}
+      ACT 1 -1
+      VIS 0 1 1
+      LANEHEIGHT 45 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.03 0 1 0 0 0
+      FADEOUT 1 0.25 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 0
+      IGUID {5816D687-1A4C-405B-9B9C-0166761988DC}
+      IID 138
+      NAME C_body
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7299BC24-BD83-4948-B42B-66699788A79F}
+      <SOURCE FLAC
+        FILE "Media/01_Anchor_bypasses_drive.flac"
+      >
+    >
+  >

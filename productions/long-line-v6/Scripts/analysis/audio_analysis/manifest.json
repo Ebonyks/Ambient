@@ -1,0 +1,22 @@
+[
+  {
+    "album": "long_line",
+    "track_num": 5,
+    "title": "Revision 5 baseline",
+    "duration": 112,
+    "page": "original user composition; no reference-artist audio",
+    "stream_sha256": "8d06a4983921c10a0f0bd550ddb040c2018bae6d727727712569156a43be0b61",
+    "source_quality": "lossless 22050 Hz analysis-input FLAC, derived from 48 kHz 24-bit native REAPER WAV",
+    "analysis_wav_path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v6\\Audit\\audio_inputs\\baseline_22050.flac"
+  },
+  {
+    "album": "long_line",
+    "track_num": 8,
+    "title": "Full-length final study draft",
+    "duration": 336,
+    "page": "original user composition; no reference-artist audio",
+    "stream_sha256": "930f8b8dca62801d30682d7afc8b2e0e947c7b033fcc7c3ca80b463acef86a50",
+    "source_quality": "lossless 22050 Hz analysis-input FLAC, derived from 48 kHz 24-bit native REAPER WAV",
+    "analysis_wav_path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v6\\Audit\\audio_inputs\\full_draft_22050.flac"
+  }
+]

@@ -1,0 +1,67 @@
+  <TRACK {6D1B6DB2-0B42-4F43-B0AE-C46B8D85DC2F}
+    NAME 02_Tied_inner_voices
+    PEAKCOL 26373773
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6D1B6DB2-0B42-4F43-B0AE-C46B8D85DC2F}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {81896FAD-B605-413C-8418-C02EC316C78C}
+      ACT 1 -1
+      VIS 0 1 1
+      LANEHEIGHT 45 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 142 1 0
+      PT 162 0.84 0
+      PT 202 0.74 0
+      PT 220 0.7 0
+      PT 240 0.7 0
+      PT 265 0.84 0
+      PT 292 1 0
+      PT 336 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.03 0 1 0 0 0
+      FADEOUT 1 0.25 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 0
+      IGUID {7733A6F8-D5A5-4DE0-9EA0-1F2E1857AA43}
+      IID 139
+      NAME C_arch
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACF65A3F-0782-49CC-A66C-98A3223BDBD6}
+      <SOURCE FLAC
+        FILE "Media/02_Tied_inner_voices.flac"
+      >
+    >
+  >

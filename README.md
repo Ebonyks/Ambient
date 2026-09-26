@@ -1,4 +1,4 @@
-# Ambient — music production research
+# Ambient â€” music production research
 
 ## Harmony protocol and construction tools
 
@@ -24,3 +24,7 @@ An audio-derived study covering all 22 Bandcamp recordings in 233 analysis windo
 - [Publication manifest and hashes](DELIVERY_MANIFEST.json)
 
 Measured spectral components, inferred harmonies and proposed settings are distinguished. This is not a verified score, a recovered original session, or a trained model. Source recordings are not redistributed.
+
+## Original production in progress
+
+[Long Line — 5:36 full-length study draft](productions/long-line-v6/README.md): editable REAPER session, source media, synthesis and harmony audit, listening log and production-impact journal.

@@ -1,0 +1,67 @@
+  <TRACK {37D5D78C-D553-4874-9535-8ACABC5791BC}
+    NAME 04_Eroded_motif_return
+    PEAKCOL 25456285
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {37D5D78C-D553-4874-9535-8ACABC5791BC}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {FF98D1B3-487B-4974-9756-FFBAF40FD004}
+      ACT 1 -1
+      VIS 0 1 1
+      LANEHEIGHT 45 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 142 1 0
+      PT 162 1.4 0
+      PT 202 1.7 0
+      PT 220 1.8 0
+      PT 240 1.8 0
+      PT 265 1.35 0
+      PT 292 1 0
+      PT 336 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.03 0 1 0 0 0
+      FADEOUT 1 0.25 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 0
+      IGUID {FFEF8C5A-9DBA-4710-B796-6CC099A55785}
+      IID 141
+      NAME C_memory
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9F2A4E8-5B19-4BEC-B79C-2FEEF341B0C6}
+      <SOURCE FLAC
+        FILE "Media/04_Eroded_motif_coda.flac"
+      >
+    >
+  >

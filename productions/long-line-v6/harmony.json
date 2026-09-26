@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "protocol_version": "1.0",
+  "profile": "common_tone_clarity",
+  "duration_s": 336,
+  "seed": 260926,
+  "cadential_plan": "nonfunctional",
+  "status": "authored_expansion_of_Long_Line_original_motif",
+  "states": [
+    {
+      "index": 0,
+      "start_s": 0,
+      "end_s": 70,
+      "family": "major_add_ninth",
+      "anchor_midi": 38,
+      "transition": "initial",
+      "title": "D / F# A E",
+      "notes": [
+        {
+          "midi": 38,
+          "cents": 1.95,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 54,
+          "cents": -2.6,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 57,
+          "cents": 1.3,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 64,
+          "cents": 2.6,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -15,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": -3,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    },
+    {
+      "index": 1,
+      "start_s": 70,
+      "end_s": 112,
+      "family": "minor_seventh",
+      "anchor_midi": 35,
+      "transition": "common_tone_revoicing",
+      "title": "B below retained F# and A",
+      "notes": [
+        {
+          "midi": 35,
+          "cents": -1.95,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 54,
+          "cents": -2.6,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 57,
+          "cents": 1.3,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 62,
+          "cents": -1.95,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -14,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": -2,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    },
+    {
+      "index": 2,
+      "start_s": 112,
+      "end_s": 160,
+      "family": "major_seventh",
+      "anchor_midi": 43,
+      "transition": "common_tone_revoicing",
+      "title": "G below retained F# and D",
+      "notes": [
+        {
+          "midi": 43,
+          "cents": -1.3,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 54,
+          "cents": -2.6,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 59,
+          "cents": 0.0,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 62,
+          "cents": -1.95,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -17,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": -5,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    },
+    {
+      "index": 3,
+      "start_s": 160,
+      "end_s": 208,
+      "family": "major_seventh",
+      "anchor_midi": 36,
+      "transition": "common_tone_revoicing",
+      "title": "C with B retained as a major seventh",
+      "notes": [
+        {
+          "midi": 36,
+          "cents": -2.6,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 55,
+          "cents": 2.6,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 59,
+          "cents": 0.0,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 64,
+          "cents": 2.6,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -13,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": -2,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    },
+    {
+      "index": 4,
+      "start_s": 208,
+      "end_s": 252,
+      "family": "minor_seventh",
+      "anchor_midi": 40,
+      "transition": "common_tone_revoicing",
+      "title": "E below retained G and B",
+      "notes": [
+        {
+          "midi": 40,
+          "cents": 0.65,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 55,
+          "cents": 2.6,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 59,
+          "cents": 0.0,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 62,
+          "cents": -1.95,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -9,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": 0,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    },
+    {
+      "index": 5,
+      "start_s": 252,
+      "end_s": 294,
+      "family": "minor_seventh",
+      "anchor_midi": 43,
+      "transition": "common_tone_revoicing",
+      "title": "G minor keeps D; Bb and F darken the object",
+      "notes": [
+        {
+          "midi": 43,
+          "cents": -1.3,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 58,
+          "cents": 0.65,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 62,
+          "cents": -1.95,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 65,
+          "cents": 1.95,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -11,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": -2,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    },
+    {
+      "index": 6,
+      "start_s": 294,
+      "end_s": 336,
+      "family": "major",
+      "anchor_midi": 38,
+      "transition": "common_tone_revoicing",
+      "title": "D remains; F# and A return around it",
+      "notes": [
+        {
+          "midi": 38,
+          "cents": 1.95,
+          "role": "anchor",
+          "velocity": 48
+        },
+        {
+          "midi": 54,
+          "cents": -2.6,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 57,
+          "cents": 1.3,
+          "role": "body",
+          "velocity": 54
+        },
+        {
+          "midi": 62,
+          "cents": -1.95,
+          "role": "body",
+          "velocity": 54
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -18,
+        "noise_relative_db": -26,
+        "upper_layer_gain_db": -5,
+        "reverb_send": 0.18
+      },
+      "parameter_status": "authored_original_not_recovered_from_reference"
+    }
+  ]
+}

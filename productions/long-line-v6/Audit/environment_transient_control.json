@@ -1,0 +1,16 @@
+[
+  {
+    "stem": "07_Water",
+    "old_peak": 0.05013692378997803,
+    "new_peak": 0.027000002562999725,
+    "seconds_gain_below_0_99": 14.266791666666666,
+    "processing": "100ms lookahead peak window, 5ms gain smoothing, 0.027 peak target; original source preserved"
+  },
+  {
+    "stem": "08_Wood_air",
+    "old_peak": 0.24455499649047852,
+    "new_peak": 0.027000002562999725,
+    "seconds_gain_below_0_99": 7.909583333333333,
+    "processing": "100ms lookahead peak window, 5ms gain smoothing, 0.027 peak target; original source preserved"
+  }
+]

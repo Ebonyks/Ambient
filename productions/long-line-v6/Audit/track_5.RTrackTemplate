@@ -1,0 +1,59 @@
+  <TRACK {9C8C66AC-49D6-42FA-A171-04DA44114918}
+    NAME 06_Source_residue
+    PEAKCOL 24538797
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9C8C66AC-49D6-42FA-A171-04DA44114918}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {B524B879-22DB-407B-B69B-FF3844D1AC7E}
+      ACT 1 -1
+      VIS 0 1 1
+      LANEHEIGHT 45 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.03 0 1 0 0 0
+      FADEOUT 1 0.25 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 0
+      IGUID {AE169016-CF7E-4E3F-BE0E-6CE0389979AB}
+      IID 143
+      NAME C_bow_and_breath
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34CDB6D1-FE03-4086-BEF5-A23C8FC8D7E0}
+      <SOURCE FLAC
+        FILE "Media/06_Source_residue.flac"
+      >
+    >
+  >

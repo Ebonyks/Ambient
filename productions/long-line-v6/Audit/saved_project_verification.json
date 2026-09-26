@@ -1,0 +1,58 @@
+{
+  "method": "read-only inspection of saved RPP and source audio metadata; no REAPER state changed",
+  "project_sha256": "25acaef11821d722e50c81271ea9028a8314f6da27d6873b73878262d718a3b4",
+  "audio_references": [
+    {
+      "reference": "Media/01_Anchor_bypasses_drive.flac",
+      "bytes": 5156895,
+      "duration": 336.0,
+      "sha256": "08a06b60b27c7d0d02959633b7da566e6fddc8d0e96f575879d536875c117aa4"
+    },
+    {
+      "reference": "Media/02_Tied_inner_voices.flac",
+      "bytes": 29000051,
+      "duration": 336.0,
+      "sha256": "e95b16f6b5c2ab4faebc14e35d80d19ebc2ab45495bbcc25aa4adea2074a3130"
+    },
+    {
+      "reference": "Media/03_Pitched_motif_coda.flac",
+      "bytes": 27148044,
+      "duration": 336.0,
+      "sha256": "d4b471ed439e7aa766e47a6b66f7e72bc4fb6062fdac52d94d330e2c818a9203"
+    },
+    {
+      "reference": "Media/04_Eroded_motif_coda.flac",
+      "bytes": 31101219,
+      "duration": 336.0,
+      "sha256": "b72d5ecbf9c8b8f8ae52497511d73045066b0a8bdf273066279578799e36f36a"
+    },
+    {
+      "reference": "Media/05_Independent_distorted_body.flac",
+      "bytes": 17577847,
+      "duration": 336.0,
+      "sha256": "2468df99ea53bc2e72dd8be8a6fbb3d96c30b3c6abbdc2c650cf07af26ac1dbe"
+    },
+    {
+      "reference": "Media/06_Source_residue.flac",
+      "bytes": 18968594,
+      "duration": 336.0,
+      "sha256": "dac16843ee313f44f3d3dcfee8aebbce0817ac86e2cd13dff76be13374620dc3"
+    },
+    {
+      "reference": "Media/07_Water.flac",
+      "bytes": 41125613,
+      "duration": 336.0,
+      "sha256": "b1a73487cdea40bec9101ab8fd8b2afb8ffbaf6594130a50b4d1ffcf63da5a5c"
+    },
+    {
+      "reference": "Media/08_Wood_air.flac",
+      "bytes": 21758825,
+      "duration": 336.0,
+      "sha256": "e06c37041b1db50eb20461039dda620db750ac5623af4590ef35fefd6b4152a6"
+    }
+  ],
+  "final_coda_sources_present": true,
+  "supermassive_state_present": true,
+  "fresh_rebuild_test": "Audit/rebuild_check.txt",
+  "automation_review_note": "An extra native verification/save command was rejected by automatic review as a possible destructive reset. No retry was made; saved-state checks used read-only files instead."
+}

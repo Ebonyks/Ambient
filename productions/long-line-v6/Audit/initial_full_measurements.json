@@ -1,0 +1,13 @@
+{
+  "duration_seconds": 336.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "integrated_lufs": -21.6,
+  "true_peak_dbtp": -8.15,
+  "loudness_range_lu": 6.1,
+  "clipped_samples": 0,
+  "nonfinite_samples": 0,
+  "stereo_correlation": 0.1846800990660972,
+  "wav_sha256": "a7258e675ac7fea795429d3f571f5deee00e3cddb214ded7d57c852b752f9c32",
+  "renderer": "Native REAPER 48kHz 24-bit stereo; no loudness normalization or master limiter"
+}

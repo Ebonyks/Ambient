@@ -1,0 +1,20 @@
+{
+  "duration_seconds": 112.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "integrated_lufs": -22.48,
+  "true_peak_dbtp": -3.65,
+  "loudness_range_lu": 7.9,
+  "clipped_samples": 0,
+  "nonfinite_samples": 0,
+  "stereo_correlation": -0.16578037037178334,
+  "spectrum_energy_percent": {
+    "20-200 Hz": 0.8842252203600902,
+    "200-1000 Hz": 79.42276170067699,
+    "1000-2000 Hz": 15.007569083637446,
+    "2000-6000 Hz": 4.548607756989062,
+    "6000-18000 Hz": 0.1161258867143519
+  },
+  "wav_sha256": "b7ae9e1f3fab7fcdc270681bef5213fcd30ab59926f413b534c7bc1c22bc55a9",
+  "render": "Native REAPER 48kHz 24-bit stereo; no master limiter or automatic loudness normalization"
+}

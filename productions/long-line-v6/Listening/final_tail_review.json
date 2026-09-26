@@ -1,0 +1,24 @@
+{
+  "start_s": 320,
+  "report": {
+    "muddy": 25,
+    "harsh": 15,
+    "sibilant": 10,
+    "bright": 40,
+    "valence": 2,
+    "arousal": -6,
+    "mood": "Serene",
+    "issues": [
+      {
+        "t_seconds": 6.2,
+        "desc": "The final pitched tone decays smoothly and naturally into the environmental rain noise without any abrupt cutoffs or missing phrases."
+      }
+    ],
+    "overall": "A clean, serene ambient mix featuring a smooth, deliberate transition from the decaying melodic synth into an immersive environmental backdrop.",
+    "audio_sent_seconds": 16,
+    "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+  },
+  "successful_this_work": 29,
+  "cumulative_successful_listens": 70,
+  "remaining_authorized_maximum": 30
+}
