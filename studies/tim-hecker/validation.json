@@ -1,0 +1,42 @@
+[
+  {
+    "test": "clean_minor",
+    "known_midi": [
+      48,
+      51,
+      55
+    ],
+    "top_inferred_midi": [
+      48,
+      51,
+      55
+    ],
+    "all_known_in_top_n": true
+  },
+  {
+    "test": "noisy_minor",
+    "known_midi": [
+      48,
+      51,
+      55
+    ],
+    "top_inferred_midi": [
+      48,
+      51,
+      55
+    ],
+    "all_known_in_top_n": true
+  },
+  {
+    "test": "distorted_fifth",
+    "known_midi": [
+      41,
+      48
+    ],
+    "top_inferred_midi": [
+      41,
+      48
+    ],
+    "all_known_in_top_n": true
+  }
+]

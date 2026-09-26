@@ -1,0 +1,11 @@
+{
+  "track_count": 22,
+  "analysis_window_count": 233,
+  "candidate_event_count": 7533,
+  "figure_count": 22,
+  "timeline_contiguous": true,
+  "source_audio_packaged": false,
+  "original_score_verified": false,
+  "synthetic_tests_passed": true,
+  "white_noise_supported_window_count": 0
+}
