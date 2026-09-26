@@ -1,0 +1,521 @@
+{
+  "version": "1.0",
+  "source_revision": "163d5a9d79c12476bbc7fad41ca4f59397ebf66d",
+  "source_study_sha256": "5fba8dc3030b6455e861f3708ea582891067d114790b2de53e1430b1db6238c2",
+  "scope": "early-period Radio Amor / Mirages / Mort aux Vaches reference protocol, not universal Tim Hecker rules",
+  "approval_semantics": "allowed and blocked describe this designed generator; absence from the study is not evidence of artistic prohibition",
+  "parameter_status": "all generator ranges, probabilities and limits are design proposals, not learned estimates",
+  "families": {
+    "open_fifth": {
+      "name": "Open fifth / third omitted",
+      "pitch_classes": [
+        0,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7
+        ],
+        [
+          0,
+          7,
+          12
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "mirages_08: A/E field",
+        "radio_amor_03: D/A pedal relation"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "suspended_second": {
+      "name": "Root, fifth and ninth",
+      "pitch_classes": [
+        0,
+        2,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          14
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "radio_amor_01: A/E/B component relation"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "suspended_fourth": {
+      "name": "Root, fourth and fifth",
+      "pitch_classes": [
+        0,
+        5,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          5,
+          19
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "radio_amor_03: D/G/A relation"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "suspended_second_fourth": {
+      "name": "Thirdless second/fourth/fifth field",
+      "pitch_classes": [
+        0,
+        2,
+        5,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          5,
+          14,
+          19
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "radio_amor_01: A/D/B/E family"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "minor_third": {
+      "name": "Minor-third kernel",
+      "pitch_classes": [
+        0,
+        3
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          3,
+          12
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "mirages_09: F#/A at 100.5\u2013130.5 s",
+        "radio_amor_10: Eb/Gb inner dyad"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "minor": {
+      "name": "Minor triad",
+      "pitch_classes": [
+        0,
+        3,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          15
+        ],
+        [
+          0,
+          3,
+          7
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "mirages_07: G2/Bb2/D3 after about 65 s",
+        "mirages_09: B/D/F# early"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "minor_seventh": {
+      "name": "Minor seventh",
+      "pitch_classes": [
+        0,
+        3,
+        7,
+        10
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          15,
+          22
+        ],
+        [
+          0,
+          3,
+          7,
+          10
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "mirages_09: C/Eb/G/Bb ending",
+        "radio_amor_10: Eb/Gb/Bb/Db family"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "minor_ninth": {
+      "name": "Minor ninth field",
+      "pitch_classes": [
+        0,
+        2,
+        3,
+        7,
+        10
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          15,
+          22,
+          26
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "mirages_04: G/Bb/D/F/A opening collection; simultaneity provisional"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "major": {
+      "name": "Major triad",
+      "pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          16
+        ],
+        [
+          0,
+          4,
+          7
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "radio_amor_04: Ab/Eb/C family",
+        "radio_amor_08: Db/F/Ab ending"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "major_seventh": {
+      "name": "Major seventh",
+      "pitch_classes": [
+        0,
+        4,
+        7,
+        11
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          16,
+          23
+        ],
+        [
+          0,
+          7,
+          11,
+          16
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "radio_amor_04: Bb/F/A/D family when simultaneous"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "major_add_ninth": {
+      "name": "Major add ninth",
+      "pitch_classes": [
+        0,
+        2,
+        4,
+        7
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          7,
+          14,
+          16
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "mirages_11: Ab bass with C/Eb/Bb supports Abadd9 locally"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "major_seventh_dyad": {
+      "name": "Bass against distant major seventh",
+      "pitch_classes": [
+        0,
+        11
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          23
+        ]
+      ],
+      "permission": "allowed",
+      "evidence": [
+        "radio_amor_02: low Ab versus high G"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "upper_semitone": {
+      "name": "Exposed semitone with optional octave anchor",
+      "pitch_classes": [
+        0,
+        1
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          12,
+          13
+        ]
+      ],
+      "permission": "conditional",
+      "evidence": [
+        "radio_amor_07: D/Eb opening",
+        "mirages_10: D/Eb later"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "paired_semitones": {
+      "name": "Two semitone pairs separated by a fifth",
+      "pitch_classes": [
+        0,
+        1,
+        7,
+        8
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          1,
+          7,
+          8
+        ],
+        [
+          0,
+          1,
+          19,
+          20
+        ]
+      ],
+      "permission": "conditional",
+      "evidence": [
+        "radio_amor_09: G/Ab plus D/Eb middle and late"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    },
+    "low_semitone": {
+      "name": "Two-component low beating field",
+      "pitch_classes": [
+        0,
+        1
+      ],
+      "voicings_semitones": [
+        [
+          0,
+          1
+        ]
+      ],
+      "permission": "conditional",
+      "evidence": [
+        "mirages_03: G1/Ab1-related low field"
+      ],
+      "claim_scope": "inferred source palette from measured components; not authenticated score",
+      "voicing_status": "proposed transposable realization"
+    }
+  },
+  "profiles": {
+    "radio_suspended": {
+      "description": "Register-separated, third-ambiguous and major/minor inner objects",
+      "families": [
+        "open_fifth",
+        "suspended_second",
+        "suspended_fourth",
+        "suspended_second_fourth",
+        "major",
+        "major_seventh",
+        "minor",
+        "minor_seventh",
+        "major_seventh_dyad"
+      ],
+      "anchor_midi_range": [
+        36,
+        55
+      ],
+      "state_duration_s": [
+        28,
+        72
+      ]
+    },
+    "mirages_pressure": {
+      "description": "Minor kernels and deliberate friction; distortion remains a separate renderer task",
+      "families": [
+        "open_fifth",
+        "minor_third",
+        "minor",
+        "minor_seventh",
+        "minor_ninth",
+        "upper_semitone",
+        "paired_semitones"
+      ],
+      "anchor_midi_range": [
+        36,
+        50
+      ],
+      "state_duration_s": [
+        32,
+        88
+      ]
+    },
+    "common_tone_clarity": {
+      "description": "Exposed inner voices, major/minor reinterpretation and sustained common tones",
+      "families": [
+        "minor_third",
+        "minor",
+        "minor_seventh",
+        "major",
+        "major_seventh",
+        "major_add_ninth"
+      ],
+      "anchor_midi_range": [
+        41,
+        55
+      ],
+      "state_duration_s": [
+        36,
+        96
+      ]
+    },
+    "low_beating_field": {
+      "description": "Two low neighboring components treated as a texture object, not a full keyboard chord",
+      "families": [
+        "low_semitone"
+      ],
+      "anchor_midi_range": [
+        28,
+        40
+      ],
+      "state_duration_s": [
+        40,
+        100
+      ]
+    }
+  },
+  "rules": [
+    {
+      "id": "H00",
+      "level": "error",
+      "rule": "Use finite, contiguous track-relative time and valid MIDI/cents values."
+    },
+    {
+      "id": "H01",
+      "level": "error",
+      "rule": "Strict-mode source objects must match an approved transposition-relative family; unlisted families require review."
+    },
+    {
+      "id": "H02",
+      "level": "error",
+      "rule": "Conditional families must be enabled in the selected profile; low semitone requires the low-beating profile."
+    },
+    {
+      "id": "H03",
+      "level": "mixed",
+      "rule": "Reject offsets beyond 50 cents in a named-note representation; flag unintended common-tone retuning."
+    },
+    {
+      "id": "H04",
+      "level": "error",
+      "rule": "Use 1\u20136 separately represented source voices within MIDI 28\u201390; no duplicate MIDI entries masquerading as new notes."
+    },
+    {
+      "id": "H05",
+      "level": "error",
+      "rule": "Exclude three or more adjacent chromatic source voices below C3; spectral distortion products are not source voices."
+    },
+    {
+      "id": "H06",
+      "level": "mixed",
+      "rule": "Validate declared retained objects, common tones and parallel semitone moves; flag complete replacement otherwise."
+    },
+    {
+      "id": "H07",
+      "level": "error",
+      "rule": "Default protocol excludes declared dominant-to-tonic or repeating ii\u2013V\u2013I cadential plans; no automatic audio cadence recognition claimed."
+    },
+    {
+      "id": "H08",
+      "level": "warning",
+      "rule": "Flag changed harmonic states shorter than 8 seconds; this is not a constraint on grains or individual note attacks."
+    }
+  ],
+  "unapproved_pending_review": [
+    "dominant_seventh_as_functional_cadence",
+    "diminished_triad_as_primary_object",
+    "fully_diminished_seventh_as_primary_object",
+    "augmented_triad_as_primary_object",
+    "whole_tone_planing",
+    "quartal_stack_with_no_reference_anchor",
+    "complete_chromatic_source_cluster"
+  ],
+  "generation_policy": {
+    "probability_retain_pitch_object": 0.3,
+    "probability_parallel_semitone_given_not_retained": 0.15,
+    "cents_uniform_range": [
+      -4,
+      4
+    ],
+    "max_voices": 6,
+    "harmonic_state_seconds_are_proposed": true
+  }
+}

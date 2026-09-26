@@ -1,0 +1,159 @@
+{
+  "method": "duration-weighted interval presence in supported candidate frames; not score-note frequency; medians use frames",
+  "source_study_sha256": "5fba8dc3030b6455e861f3708ea582891067d114790b2de53e1430b1db6238c2",
+  "results": [
+    {
+      "album": "radio_amor",
+      "relative_activation_threshold": 0.28,
+      "analyzed_seconds": 3501.52,
+      "accepted_component_coverage_pct": 94.7,
+      "multi_pitch_class_seconds": 2466.73,
+      "median_distinct_pitch_classes_all_frames": 2.0,
+      "median_register_span_semitones_multi_pc_frames": 16.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 51.1,
+        "2": 31.5,
+        "3": 41.0,
+        "4": 41.8,
+        "5": 56.8,
+        "6": 13.2
+      }
+    },
+    {
+      "album": "radio_amor",
+      "relative_activation_threshold": 0.4,
+      "analyzed_seconds": 3501.52,
+      "accepted_component_coverage_pct": 93.4,
+      "multi_pitch_class_seconds": 2093.63,
+      "median_distinct_pitch_classes_all_frames": 2.0,
+      "median_register_span_semitones_multi_pc_frames": 13.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 47.3,
+        "2": 26.0,
+        "3": 30.9,
+        "4": 31.6,
+        "5": 45.2,
+        "6": 8.3
+      }
+    },
+    {
+      "album": "radio_amor",
+      "relative_activation_threshold": 0.55,
+      "analyzed_seconds": 3501.52,
+      "accepted_component_coverage_pct": 91.6,
+      "multi_pitch_class_seconds": 1457.81,
+      "median_distinct_pitch_classes_all_frames": 1.0,
+      "median_register_span_semitones_multi_pc_frames": 8.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 43.4,
+        "2": 22.3,
+        "3": 22.3,
+        "4": 22.8,
+        "5": 34.5,
+        "6": 4.2
+      }
+    },
+    {
+      "album": "mirages",
+      "relative_activation_threshold": 0.28,
+      "analyzed_seconds": 2865.5,
+      "accepted_component_coverage_pct": 97.2,
+      "multi_pitch_class_seconds": 2252.9,
+      "median_distinct_pitch_classes_all_frames": 2.0,
+      "median_register_span_semitones_multi_pc_frames": 12.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 36.9,
+        "2": 37.5,
+        "3": 45.7,
+        "4": 38.3,
+        "5": 54.3,
+        "6": 13.2
+      }
+    },
+    {
+      "album": "mirages",
+      "relative_activation_threshold": 0.4,
+      "analyzed_seconds": 2865.5,
+      "accepted_component_coverage_pct": 95.7,
+      "multi_pitch_class_seconds": 1929.4,
+      "median_distinct_pitch_classes_all_frames": 2.0,
+      "median_register_span_semitones_multi_pc_frames": 10.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 34.6,
+        "2": 30.5,
+        "3": 39.1,
+        "4": 31.6,
+        "5": 44.6,
+        "6": 9.7
+      }
+    },
+    {
+      "album": "mirages",
+      "relative_activation_threshold": 0.55,
+      "analyzed_seconds": 2865.5,
+      "accepted_component_coverage_pct": 93.4,
+      "multi_pitch_class_seconds": 1367.21,
+      "median_distinct_pitch_classes_all_frames": 1.0,
+      "median_register_span_semitones_multi_pc_frames": 7.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 31.7,
+        "2": 23.6,
+        "3": 34.5,
+        "4": 27.3,
+        "5": 36.5,
+        "6": 6.8
+      }
+    },
+    {
+      "album": "mort_aux_vaches",
+      "relative_activation_threshold": 0.28,
+      "analyzed_seconds": 2443.91,
+      "accepted_component_coverage_pct": 95.4,
+      "multi_pitch_class_seconds": 1843.0,
+      "median_distinct_pitch_classes_all_frames": 2.0,
+      "median_register_span_semitones_multi_pc_frames": 12.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 47.9,
+        "2": 39.4,
+        "3": 37.0,
+        "4": 35.6,
+        "5": 54.4,
+        "6": 8.0
+      }
+    },
+    {
+      "album": "mort_aux_vaches",
+      "relative_activation_threshold": 0.4,
+      "analyzed_seconds": 2443.91,
+      "accepted_component_coverage_pct": 94.3,
+      "multi_pitch_class_seconds": 1539.5,
+      "median_distinct_pitch_classes_all_frames": 2.0,
+      "median_register_span_semitones_multi_pc_frames": 10.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 44.7,
+        "2": 33.8,
+        "3": 28.3,
+        "4": 27.6,
+        "5": 47.4,
+        "6": 5.9
+      }
+    },
+    {
+      "album": "mort_aux_vaches",
+      "relative_activation_threshold": 0.55,
+      "analyzed_seconds": 2443.91,
+      "accepted_component_coverage_pct": 91.6,
+      "multi_pitch_class_seconds": 1154.0,
+      "median_distinct_pitch_classes_all_frames": 1.0,
+      "median_register_span_semitones_multi_pc_frames": 7.0,
+      "interval_class_presence_pct_of_multi_pc_seconds": {
+        "1": 41.5,
+        "2": 27.6,
+        "3": 20.1,
+        "4": 21.0,
+        "5": 41.2,
+        "6": 3.2
+      }
+    }
+  ]
+}

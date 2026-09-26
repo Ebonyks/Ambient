@@ -1,0 +1,54 @@
+[
+  {
+    "profile": "radio_suspended",
+    "seed": 41,
+    "harmonic_state_count": 5,
+    "duration_s": 240,
+    "validation": {
+      "passed": true,
+      "meaning": "protocol compliance only, not measured artist similarity",
+      "errors": [],
+      "warnings": []
+    },
+    "audio_similarity_evaluated": false
+  },
+  {
+    "profile": "mirages_pressure",
+    "seed": 52,
+    "harmonic_state_count": 4,
+    "duration_s": 240,
+    "validation": {
+      "passed": true,
+      "meaning": "protocol compliance only, not measured artist similarity",
+      "errors": [],
+      "warnings": []
+    },
+    "audio_similarity_evaluated": false
+  },
+  {
+    "profile": "common_tone_clarity",
+    "seed": 60,
+    "harmonic_state_count": 4,
+    "duration_s": 240,
+    "validation": {
+      "passed": true,
+      "meaning": "protocol compliance only, not measured artist similarity",
+      "errors": [],
+      "warnings": []
+    },
+    "audio_similarity_evaluated": false
+  },
+  {
+    "profile": "low_beating_field",
+    "seed": 74,
+    "harmonic_state_count": 4,
+    "duration_s": 240,
+    "validation": {
+      "passed": true,
+      "meaning": "protocol compliance only, not measured artist similarity",
+      "errors": [],
+      "warnings": []
+    },
+    "audio_similarity_evaluated": false
+  }
+]

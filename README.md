@@ -1,5 +1,16 @@
 # Ambient — music production research
 
+## Harmony protocol and construction tools
+
+[Read the synthesis and allowed/conditional/excluded harmony rules](protocols/hecker-harmony-v1/README.md).
+
+The protocol adds 15 transposable source families, four construction profiles, interval-pattern statistics, a deterministic generator/validator, and four original MIDI/JSON sketches. Its exclusions are scoped design rules, not claims that the artist never uses a chord.
+
+- [Machine-readable protocol](protocols/hecker-harmony-v1/protocol.json)
+- [Generator and validator](protocols/hecker-harmony-v1/harmony_tool.py)
+- [Example MIDI and JSON sketches](protocols/hecker-harmony-v1/examples)
+- [Test evidence](protocols/hecker-harmony-v1/QA.json)
+
 ## Tim Hecker: Radio Amor, Mirages and Mort aux Vaches
 
 [Read the full measured production study](studies/tim-hecker/Tim_Hecker_Production_Study.md)

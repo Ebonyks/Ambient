@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "protocol_version": "1.0",
+  "profile": "radio_suspended",
+  "seed": 41,
+  "duration_s": 240,
+  "status": "original_rule_generated_harmonic_sketch_not_audio_style_verified",
+  "cadential_plan": "nonfunctional",
+  "states": [
+    {
+      "index": 0,
+      "start_s": 0.0,
+      "end_s": 44.765,
+      "family": "minor",
+      "anchor_midi": 36,
+      "transition": "initial",
+      "notes": [
+        {
+          "midi": 36,
+          "cents": 3.58,
+          "role": "anchor",
+          "velocity": 60
+        },
+        {
+          "midi": 43,
+          "cents": 3.45,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 51,
+          "cents": -2.36,
+          "role": "body",
+          "velocity": 60
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -17.9,
+        "noise_relative_db": -23.5,
+        "upper_layer_gain_db": -9.8,
+        "reverb_send": 0.16
+      },
+      "parameter_status": "proposed_initialization_not_measured_original"
+    },
+    {
+      "index": 1,
+      "start_s": 44.765,
+      "end_s": 114.756,
+      "family": "minor",
+      "anchor_midi": 36,
+      "transition": "retain_pitch_object",
+      "notes": [
+        {
+          "midi": 36,
+          "cents": 3.58,
+          "role": "anchor",
+          "velocity": 60
+        },
+        {
+          "midi": 43,
+          "cents": 3.45,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 51,
+          "cents": -2.36,
+          "role": "body",
+          "velocity": 60
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -11.6,
+        "noise_relative_db": -22.7,
+        "upper_layer_gain_db": -0.8,
+        "reverb_send": 0.24
+      },
+      "parameter_status": "proposed_initialization_not_measured_original"
+    },
+    {
+      "index": 2,
+      "start_s": 114.756,
+      "end_s": 149.712,
+      "family": "minor",
+      "anchor_midi": 35,
+      "transition": "parallel_semitone_displacement",
+      "notes": [
+        {
+          "midi": 35,
+          "cents": -3.26,
+          "role": "anchor",
+          "velocity": 60
+        },
+        {
+          "midi": 42,
+          "cents": 3.73,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 50,
+          "cents": -0.27,
+          "role": "body",
+          "velocity": 60
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -15.7,
+        "noise_relative_db": -27.5,
+        "upper_layer_gain_db": -1.6,
+        "reverb_send": 0.17
+      },
+      "parameter_status": "proposed_initialization_not_measured_original"
+    },
+    {
+      "index": 3,
+      "start_s": 149.712,
+      "end_s": 211.407,
+      "family": "suspended_second_fourth",
+      "anchor_midi": 45,
+      "transition": "common_tone_revoicing",
+      "notes": [
+        {
+          "midi": 45,
+          "cents": -0.26,
+          "role": "anchor",
+          "velocity": 60
+        },
+        {
+          "midi": 50,
+          "cents": -0.27,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 59,
+          "cents": -3.1,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 64,
+          "cents": -1.35,
+          "role": "color",
+          "velocity": 48
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -13.3,
+        "noise_relative_db": -22.8,
+        "upper_layer_gain_db": -7.8,
+        "reverb_send": 0.2
+      },
+      "parameter_status": "proposed_initialization_not_measured_original"
+    },
+    {
+      "index": 4,
+      "start_s": 211.407,
+      "end_s": 240,
+      "family": "suspended_second_fourth",
+      "anchor_midi": 45,
+      "transition": "retain_pitch_object",
+      "notes": [
+        {
+          "midi": 45,
+          "cents": -0.26,
+          "role": "anchor",
+          "velocity": 60
+        },
+        {
+          "midi": 50,
+          "cents": -0.27,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 59,
+          "cents": -3.1,
+          "role": "body",
+          "velocity": 60
+        },
+        {
+          "midi": 64,
+          "cents": -1.35,
+          "role": "color",
+          "velocity": 48
+        }
+      ],
+      "automation_targets": {
+        "distorted_parallel_gain_db": -14.7,
+        "noise_relative_db": -22.1,
+        "upper_layer_gain_db": -7.1,
+        "reverb_send": 0.16
+      },
+      "parameter_status": "proposed_initialization_not_measured_original"
+    }
+  ]
+}
