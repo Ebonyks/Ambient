@@ -1,0 +1,62 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "Melnyk-Parasol-public-stream_120.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 28,\n  \"harsh\": 22,\n  \"sibilant\": 0,\n  \"bright\": 72,\n  \"valence\": 6.5,\n  \"arousal\": 7.0,\n  \"mood\": \"Playful\",\n  \"issues\": [\n    {\n      \"t_seconds\": 5.2,\n      \"desc\": \"Slight low-mid frequency build-up around 300Hz from sustained pedal resonance during arpeggiated passage.\"\n    },\n    {\n      \"t_seconds\": 14.8,\n      \"desc\": \"Minor treble transient peak near 4kHz on high-register accents.\"\n    }\n  ],\n  \"overall\": \"Rapid discrete attacks and repeating inner arpeggiated figures drive high local activity over slower underlying harmonic movement, resulting in a crisp, bright piano texture with controlled soundboard resonance.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "Melnyk-Parasol-public-stream_360.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 28,\n  \"harsh\": 32,\n  \"sibilant\": 8,\n  \"bright\": 68,\n  \"valence\": 6.8,\n  \"arousal\": 6.2,\n  \"mood\": \"Lively\",\n  \"issues\": [\n    {\n      \"t_seconds\": 4.5,\n      \"desc\": \"Accumulation of lower-mid resonance around 250–400 Hz during rapid lower arpeggiated figures.\"\n    },\n    {\n      \"t_seconds\": 12.0,\n      \"desc\": \"Sharp transient brightness on accented upper-register key attacks.\"\n    }\n  ],\n  \"overall\": \"Rapid local activity and repeated inner arpeggiated figures coexist with slower harmonic progression, where crisp discrete note attacks dominate over a light background resonance.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "Eric Fourman - Wander To The Moon - 03 Refrigerate_120.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 72,\n  \"harsh\": 18,\n  \"sibilant\": 8,\n  \"bright\": 20,\n  \"valence\": -6.2,\n  \"arousal\": -2.5,\n  \"mood\": \"Somber\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.5,\n      \"desc\": \"Dense low-mid accumulation between 250-400Hz creates immediate muddiness.\"\n    },\n    {\n      \"t_seconds\": 8.0,\n      \"desc\": \"Sustained low tones build up resonance that overshadows higher harmonic detail.\"\n    },\n    {\n      \"t_seconds\": 14.5,\n      \"desc\": \"Low-end room rumble and thick resonances blur localized note clarity.\"\n    }\n  ],\n  \"overall\": \"Blurred resonances and sustained pitches dominate this mix, where subtle inner harmonic motion coexists with static chordal movement under a low-mid heavy tonal balance.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "Eric Fourman - Wander To The Moon - 04 Heed_120.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 45,\n  \"harsh\": 62,\n  \"sibilant\": 25,\n  \"bright\": 58,\n  \"valence\": -3.5,\n  \"arousal\": -1.0,\n  \"mood\": \"Hypnotic\",\n  \"issues\": [\n    {\n      \"t_seconds\": 3.0,\n      \"desc\": \"Low-mid resonance buildup around 300Hz as lower reedy drone tones stack.\"\n    },\n    {\n      \"t_seconds\": 12.5,\n      \"desc\": \"Upper-mid peak between 3-5kHz becomes harsh during rapid inner voice movement.\"\n    }\n  ],\n  \"overall\": \"Rapid local voice activity and tremolo articulations coexist with slow harmonic movement, resulting in a texture dominated by sustained pitches and blurred reedy resonances.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  }
+]

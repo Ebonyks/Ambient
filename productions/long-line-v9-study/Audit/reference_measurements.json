@@ -1,0 +1,66 @@
+[
+  {
+    "source_file": "Melnyk-Parasol-public-stream.mp3",
+    "source_sha256": "7e0a6b5f013b6712782aca87583aa62f267669e08970a63b797135284307d971",
+    "start_s": 120,
+    "measurement": {
+      "duration_s": 20.0,
+      "flux_peak_rates_per_s_by_MAD_threshold": {
+        "1": 7.55,
+        "2": 6.9,
+        "3": 6.75
+      },
+      "median_2s_spectral_chroma_cosine": 0.7104175899220524,
+      "rms": 0.07658257333749162,
+      "meaning": "Flux peaks are articulation proxies, NOT performed-note counts. Spectral chroma includes overtones and processing; no chord transcription."
+    }
+  },
+  {
+    "source_file": "Melnyk-Parasol-public-stream.mp3",
+    "source_sha256": "7e0a6b5f013b6712782aca87583aa62f267669e08970a63b797135284307d971",
+    "start_s": 360,
+    "measurement": {
+      "duration_s": 20.0,
+      "flux_peak_rates_per_s_by_MAD_threshold": {
+        "1": 7.6,
+        "2": 7.35,
+        "3": 7.3
+      },
+      "median_2s_spectral_chroma_cosine": 0.8284003553620102,
+      "rms": 0.0922100971799322,
+      "meaning": "Flux peaks are articulation proxies, NOT performed-note counts. Spectral chroma includes overtones and processing; no chord transcription."
+    }
+  },
+  {
+    "source_file": "Eric Fourman - Wander To The Moon - 03 Refrigerate.flac",
+    "source_sha256": "2d9ae128b0d28a3f63e9053c7b7d316aa083fa50bcebac8c52bd799f0afdc5eb",
+    "start_s": 120,
+    "measurement": {
+      "duration_s": 20.0,
+      "flux_peak_rates_per_s_by_MAD_threshold": {
+        "1": 7.7,
+        "2": 4.85,
+        "3": 2.45
+      },
+      "median_2s_spectral_chroma_cosine": 0.743850754871664,
+      "rms": 0.1489727169656515,
+      "meaning": "Flux peaks are articulation proxies, NOT performed-note counts. Spectral chroma includes overtones and processing; no chord transcription."
+    }
+  },
+  {
+    "source_file": "Eric Fourman - Wander To The Moon - 04 Heed.flac",
+    "source_sha256": "a58ca70399bb8611b3d2816cafdd65820a0e9eb63c98cc29a6357cf11e598085",
+    "start_s": 120,
+    "measurement": {
+      "duration_s": 20.0,
+      "flux_peak_rates_per_s_by_MAD_threshold": {
+        "1": 7.65,
+        "2": 5.0,
+        "3": 2.95
+      },
+      "median_2s_spectral_chroma_cosine": 0.8277286241807182,
+      "rms": 0.1559950280752416,
+      "meaning": "Flux peaks are articulation proxies, NOT performed-note counts. Spectral chroma includes overtones and processing; no chord transcription."
+    }
+  }
+]

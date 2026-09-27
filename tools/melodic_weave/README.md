@@ -42,3 +42,19 @@ python tools/melodic_weave/refine_voicing.py my-sketch.json --harmony production
 ```
 
 This preserves event timing and source count, removes repeated A-B-A semitone-return figures, and keeps isolated one-way semitone movement and simultaneously sustained semitone pairs. It is an owner-directed construction constraint for this piece, not a claim about everything Hecker composed. The v8 script also supplies an authored replacement for the 2:48 passage. Fifteen tool tests now include this regression and 100 seeded refinement cases. [Tonal revision and actual plugin chain](../../productions/long-line-v8/README.md).
+
+## Inner texture mode (v2)
+
+The new **texture_weave.py** mode separates the existing slow scaffold from fast inner note activity. It addresses a limitation of v1: more local voice changes still did not create the multi-note interior of a sustained sound. The original generator and its six-source validator remain unchanged for reproducibility; the new score has its own construction validator.
+
+```powershell
+python tools/melodic_weave/texture_weave.py --scaffold productions/long-line-v8/weave.json --harmony productions/long-line-v6/harmony.json --out my-inner-study --density 1 --level 1 --seed 260928
+```
+
+`--density` accepts 0.25-1.5 and changes the four independent inner clocks; `--level` accepts 0.25-1.5 and adjusts proposed velocity. The existing scaffold is unchanged. Lower MIDI velocity does not guarantee a quieter sound on every VSTi: calibrate the instrument response and the inner bus in audio. FB-3300 in particular needs envelope/lane gain rather than assuming velocity response.
+
+The grammar uses persistent unequal-length broken-chord cells, single-position mutations, bounded registers, local-field pitch membership, stable tuning and staggered transitions. It permits repeated same-key notes only after the prior note-off. It forbids the rejected semitone-return habit without banning simultaneously sustained tension. The score reaches 13 overlapping keys under an 18-key guardrail; released acoustic tails are additional. MIDI type 1 keeps all eight voices separately editable, preserves the original tuning with safe bend ownership, and includes no tempo-synchronized arpeggiator or drum part.
+
+Default output: 2,698 inner notes plus 123 retained scaffold notes over 336 seconds. These are authored design settings, not measured Melnyk/Fourman note counts. Event density, pitch vocabulary, simultaneous key count, perceived density and harmonic change rate are separate quantities.
+
+[Audit, Bandcamp source record, listening evidence, MIDI and rendered examples](../../productions/long-line-v9-study/README.md). The source and MIDI construction checks pass; perceived improvement of the combined example remains unconfirmed. Test coverage is now 22 tests, including 100 texture seeds across density extremes and eight-track note/bend lifecycle checks.

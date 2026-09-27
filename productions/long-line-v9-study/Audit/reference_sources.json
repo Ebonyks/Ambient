@@ -1,0 +1,58 @@
+{
+  "checked_at_utc": "2026-09-27T20:39:43.035233+00:00",
+  "acquisition": "Fourman album downloaded through Bandcamp Free Download UI. Parasol public stream cached; no paid lossless Melnyk download purchased. Reference media stays outside repository.",
+  "sources": [
+    {
+      "artist": "Lubomyr Melnyk",
+      "track": "parasol",
+      "page": "https://lubomyrmelnyk.bandcamp.com/track/parasol",
+      "quality": "public MP3-128 listening stream",
+      "source_sha256": "7e0a6b5f013b6712782aca87583aa62f267669e08970a63b797135284307d971",
+      "review_window_s": [
+        120,
+        140
+      ],
+      "license": "all rights reserved; reference only, no sampling or redistribution",
+      "local_file": "Melnyk-Parasol-public-stream.mp3"
+    },
+    {
+      "artist": "Lubomyr Melnyk",
+      "track": "parasol",
+      "page": "https://lubomyrmelnyk.bandcamp.com/track/parasol",
+      "quality": "public MP3-128 listening stream",
+      "source_sha256": "7e0a6b5f013b6712782aca87583aa62f267669e08970a63b797135284307d971",
+      "review_window_s": [
+        360,
+        380
+      ],
+      "license": "all rights reserved; reference only, no sampling or redistribution",
+      "local_file": "Melnyk-Parasol-public-stream.mp3"
+    },
+    {
+      "artist": "Eric Fourman",
+      "track": "refrigerate",
+      "page": "https://ericfourman.bandcamp.com/track/refrigerate",
+      "quality": "artist-offered free FLAC download",
+      "source_sha256": "2d9ae128b0d28a3f63e9053c7b7d316aa083fa50bcebac8c52bd799f0afdc5eb",
+      "review_window_s": [
+        120,
+        140
+      ],
+      "license": "all rights reserved; reference only, no sampling or redistribution",
+      "local_file": "Eric Fourman - Wander To The Moon - 03 Refrigerate.flac"
+    },
+    {
+      "artist": "Eric Fourman",
+      "track": "heed",
+      "page": "https://ericfourman.bandcamp.com/track/heed",
+      "quality": "artist-offered free FLAC download",
+      "source_sha256": "a58ca70399bb8611b3d2816cafdd65820a0e9eb63c98cc29a6357cf11e598085",
+      "review_window_s": [
+        120,
+        140
+      ],
+      "license": "all rights reserved; reference only, no sampling or redistribution",
+      "local_file": "Eric Fourman - Wander To The Moon - 04 Heed.flac"
+    }
+  ]
+}
