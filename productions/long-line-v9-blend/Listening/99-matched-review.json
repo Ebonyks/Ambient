@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"muddy\": 35,\n  \"harsh\": 12,\n  \"sibilant\": 0,\n  \"bright\": 22,\n  \"valence\": -1.5,\n  \"arousal\": -7.5,\n  \"mood\": \"meditative\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.0,\n      \"desc\": \"Slight low-mid accumulation around 250-350Hz creates a minor warm resonance.\"\n    },\n    {\n      \"t_seconds\": 10.0,\n      \"desc\": \"Version B is virtually indistinguishable from Version A, exhibiting identical timbral cohesion, reedy organ prominence, and gentle tone beating.\"\n    }\n  ],\n  \"overall\": \"Versions A and B sound audibly indistinguishable with no noticeable mismatch between superimposed tones, delivering a cohesive and serene ambient blend.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+    }
+  ],
+  "isError": false
+}

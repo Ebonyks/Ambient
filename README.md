@@ -34,3 +34,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [Long Line v8 - Tonal Revision](productions/long-line-v8/README.md): revised 5:36 mix, removal of repeated semitone rocking, native modeled-string/tape/granular processing, and an evidence-based plugin audit.
 
 [Inner-note composition study](productions/long-line-v9-study/README.md): Melnyk/Fourman reference audit, new dense inner-pattern mode, eight-track MIDI and a 96-second TyrellN6/FB-3300 example with exposed-layer diagnostics.
+
+[Context blend revision](productions/long-line-v9-blend/README.md): softer analog patches, matching tape processing and context-aware inner voicing; revised integrated 96-second audition after the prior blend was rejected.

@@ -58,3 +58,7 @@ The grammar uses persistent unequal-length broken-chord cells, single-position m
 Default output: 2,698 inner notes plus 123 retained scaffold notes over 336 seconds. These are authored design settings, not measured Melnyk/Fourman note counts. Event density, pitch vocabulary, simultaneous key count, perceived density and harmonic change rate are separate quantities.
 
 [Audit, Bandcamp source record, listening evidence, MIDI and rendered examples](../../productions/long-line-v9-study/README.md). The source and MIDI construction checks pass; perceived improvement of the combined example remains unconfirmed. Test coverage is now 22 tests, including 100 texture seeds across density extremes and eight-track note/bend lifecycle checks.
+
+## Optional context blend revision (v2.1)
+
+`python tools/melodic_weave/blend_texture.py input-texture.json --out revised-texture` checks inner voices against actual overlapping notes with a one-second release guard. It avoids added 1-2 semitone neighbors in the same register, retains the scaffold, and omits impossible notes. This is a conservative piece-specific experiment, not a universal harmony rule or an acoustic release simulation. The original v2 remains reproducible. See [rendered revision and limitations](../../productions/long-line-v9-blend/README.md). Four new regression tests bring melody/texture coverage to 26 tests.

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "errors": [],
+  "max_key_polyphony": 13,
+  "source_events": 2734,
+  "texture_events": 2611,
+  "meaning": "Key overlap only; acoustic release tails are additional. No claim of perceived simplicity.",
+  "old_close_pairs_including_one_second_guard": 3069,
+  "new_close_pairs_including_one_second_guard": 0,
+  "omitted_notes": 87,
+  "repitched_notes": 1044,
+  "peak": 0.5155467987060547,
+  "duration_s": 96,
+  "source_excerpt_s": [
+    140,
+    236
+  ],
+  "sha256": "2c39860229f966fa5297d3d7086fa6a05fa91356d6b904201694a9e8aabc2044",
+  "audition_status": "Pending owner review; numeric interval policy does not establish musical quality",
+  "loudness": {
+    "input_i": "-20.54",
+    "input_tp": "-5.75",
+    "input_lra": "7.00",
+    "input_thresh": "-30.60"
+  }
+}
