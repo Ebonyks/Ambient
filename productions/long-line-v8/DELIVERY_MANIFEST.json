@@ -662,6 +662,11 @@
       "path": "tools/melodic_weave/test_refine_voicing.py",
       "bytes": 1645,
       "sha256": "6800c1cddb3af1171a92745aba92915f84d6cf49eeac60230abe5dcb0c051e86"
+    },
+    {
+      "path": "productions/long-line-v6/Scripts/ambience_bus.RTrackTemplate",
+      "bytes": 2703,
+      "sha256": "c02be587cee0c9c23cb68914c16792e6584cd3fce633626b9e3b7d5d3dce009a"
     }
   ]
 }
