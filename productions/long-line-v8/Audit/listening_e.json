@@ -1,0 +1,62 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "pair_v7_E_168.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 45,\n  \"harsh\": 35,\n  \"sibilant\": 10,\n  \"bright\": 50,\n  \"valence\": -2.0,\n  \"arousal\": -5.0,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 4.5,\n      \"desc\": \"Low-mid accumulation around 250-400Hz in Version A creates minor muffling of the pad tone.\"\n    },\n    {\n      \"t_seconds\": 14.0,\n      \"desc\": \"Version B introduces an upper-mid boost around 3-6kHz that highlights melodic motion but introduces mild harshness.\"\n    }\n  ],\n  \"overall\": \"Version A presents a warmer, fuller low-end body with a slightly muffled treble, while Version B provides enhanced melodic clarity and top-end air at the cost of a thinner mid-range and slightly peaky upper frequencies.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "E_43.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 32,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 35,\n  \"valence\": 3.5,\n  \"arousal\": -7.5,\n  \"mood\": \"Serene\",\n  \"issues\": [\n    {\n      \"t_seconds\": 7.5,\n      \"desc\": \"Slight low-mid swell around 300Hz mildly clouds the synth pad transparency.\"\n    }\n  ],\n  \"overall\": \"The mix is wonderfully smooth and serene, maintaining clearly discernible sustained pitches with soft, non-abrasive transients and zero metallic harshness.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "E_188.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 32,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 28,\n  \"valence\": -1.5,\n  \"arousal\": -7.5,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 7.0,\n      \"desc\": \"Resonant low-mid buildup in synth swell slightly clouding clarity\"\n    }\n  ],\n  \"overall\": \"The delicate melodic movement contains a soft, recurring adjacent-note rocking that unfolds with a rich, immersive tonal character, avoiding both brittle highs and excessive low-mid mud.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "E_308.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 48,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 22,\n  \"valence\": -4.5,\n  \"arousal\": -6.5,\n  \"mood\": \"Brooding\",\n  \"issues\": [\n    {\n      \"t_seconds\": 4.5,\n      \"desc\": \"Low-mid resonance in the synth drone slightly obscures upper texture definition.\"\n    },\n    {\n      \"t_seconds\": 12.0,\n      \"desc\": \"The faint synth lead line lacks sufficient midrange clarity to comfortably clear the heavy low drone.\"\n    }\n  ],\n  \"overall\": \"The mix delivers a rich, dark ambient tone with gentle upper frequencies, though low-mid buildup from the drone slightly stifles melodic clarity.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  }
+]

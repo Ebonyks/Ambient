@@ -32,3 +32,13 @@ Do not feed every momentary subset back to the harmony validator under a full-fa
 The reference comparison uses the study's supported pitch-prominence trajectories in six tracks, with thresholds 0.28, 0.40 and 0.55. These include masking and processing changes; they are not exact played-note clocks. The two-second neighborhood is a compositional direction supported in some registers, not a universal rule.
 
 Tests cover reproducibility, seed variation, 100 bounded realizations, continuity across fields, rejection of invalid timing/density, cell diversity, and MIDI channel/note/bend lifecycles. Passing those tests does not establish musical quality.
+
+## Tonal-review correction (v8)
+
+The v7 always-on upper B and nearest-palette mapping created repeated B-C-B figures. Sustained chromatic tension in the reference study was not evidence for that melodic habit. For new candidates, use `--friction-pc -1`, then run the local revision pass:
+
+```powershell
+python tools/melodic_weave/refine_voicing.py my-sketch.json --harmony productions/long-line-v6/harmony.json --out my-sketch-refined
+```
+
+This preserves event timing and source count, removes repeated A-B-A semitone-return figures, and keeps isolated one-way semitone movement and simultaneously sustained semitone pairs. It is an owner-directed construction constraint for this piece, not a claim about everything Hecker composed. The v8 script also supplies an authored replacement for the 2:48 passage. Fifteen tool tests now include this regression and 100 seeded refinement cases. [Tonal revision and actual plugin chain](../../productions/long-line-v8/README.md).

@@ -1,0 +1,162 @@
+TRACK	1	Track 2
+256	A Osc 1 Type	0.80000001192093	String
+257	A Osc 1 Octave	0.5	0
+258	A Osc 1 Pitch	0.5	0.00 semitones
+259	A Osc 1 Exciter	0.5	Constant Noise
+260	A Osc 1 Exciter Level	0.5	50.00 %
+261	A Osc 1 String 1 Decay	0.5	50.00 %
+262	A Osc 1 String 2 Decay	0.0	0.00 %
+263	A Osc 1 String 2 Detune	0.0	-100.00 cents
+264	A Osc 1 String Balance	0.10000000149012	-80.00 %
+265	A Osc 1 Stiffness	0.0049999998882413	-99.00 %
+266	A Osc 1 Keytrack	1.0	On
+267	A Osc 1 Retrigger	0.0	Off
+268	A Osc 2 Type	0.0049999998882413	Classic
+269	A Osc 2 Octave	0.5	0
+270	A Osc 2 Pitch	0.5	0.00 semitones
+271	A Osc 2 Shape	0.5	0.00 %
+272	A Osc 2 Width 1	0.5	50.00 %
+273	A Osc 2 Width 2	0.5	50.00 %
+274	A Osc 2 Sub Mix	0.0	0.00 %
+275	A Osc 2 Sync	0.0	0.00 semitones
+276	A Osc 2 Unison Detune	0.10000000149012	10.00 cents
+277	A Osc 2 Unison Voices	0.0049999998882413	1 voice
+278	A Osc 2 Keytrack	1.0	On
+279	A Osc 2 Retrigger	0.0	Off
+280	A Osc 3 Type	0.0049999998882413	Classic
+281	A Osc 3 Octave	0.5	0
+282	A Osc 3 Pitch	0.5	0.00 semitones
+283	A Osc 3 Shape	0.5	0.00 %
+284	A Osc 3 Width 1	0.5	50.00 %
+285	A Osc 3 Width 2	0.5	50.00 %
+286	A Osc 3 Sub Mix	0.0	0.00 %
+287	A Osc 3 Sync	0.0	0.00 semitones
+288	A Osc 3 Unison Detune	0.10000000149012	10.00 cents
+289	A Osc 3 Unison Voices	0.0049999998882413	1 voice
+290	A Osc 3 Keytrack	1.0	On
+291	A Osc 3 Retrigger	0.0	Off
+292	A Osc 1 Volume	1.0	0.00 dB
+293	A Osc 1 Mute	0.0	Off
+294	A Osc 1 Solo	0.0	Off
+295	A Osc 1 Route	0.5	Both
+296	A Osc 2 Volume	1.0	0.00 dB
+297	A Osc 2 Mute	1.0	On
+298	A Osc 2 Solo	0.0	Off
+299	A Osc 2 Route	0.5	Both
+300	A Osc 3 Volume	1.0	0.00 dB
+301	A Osc 3 Mute	1.0	On
+302	A Osc 3 Solo	0.0	Off
+303	A Osc 3 Route	0.5	Both
+304	A Ring Modulation 1x2 Volume	1.0	0.00 dB
+305	A Ring Modulation 1x2 Mute	1.0	On
+306	A Ring Modulation 1x2 Solo	0.0	Off
+307	A Ring Modulation 1x2 Route	0.5	Both
+308	A Ring Modulation 2x3 Volume	1.0	0.00 dB
+309	A Ring Modulation 2x3 Mute	1.0	On
+310	A Ring Modulation 2x3 Solo	0.0	Off
+311	A Ring Modulation 2x3 Route	0.5	Both
+312	A Noise Volume	1.0	0.00 dB
+313	A Noise Mute	1.0	On
+314	A Noise Solo	0.0	Off
+315	A Noise Route	0.5	Both
+316	A Pre-Filter Gain	0.5	0.00 dB
+317	A Filter 1 Type	0.029999999329448	LP 12 dB
+318	A Filter 1 Subtype	0.0049999998882413	Standard
+319	A Filter 1 Cutoff	0.48461538553238	523.25 Hz
+320	A Filter 1 Resonance	0.0	0.00 %
+321	A Filter 1 FEG Mod Amount	0.5	0.00 semitones
+322	A Filter 1 Keytrack	0.5	0.00 %
+323	A Filter 2 Type	0.0049999998882413	Off
+324	A Filter 2 Subtype	0.0049999998882413	None
+325	A Filter 2 Cutoff	0.48461538553238	523.25 Hz
+326	A Filter 2 Resonance	0.0	0.00 %
+327	A Filter 2 FEG Mod Amount	0.5	0.00 semitones
+328	A Filter 2 Keytrack	0.5	0.00 %
+329	A Amp EG Attack	0.0	0.0 ms
+330	A Amp EG Attack Shape	0.5	Linear
+331	A Amp EG Decay	0.46153846383095	250.0 ms
+332	A Amp EG Decay Shape	0.5	Quadratic
+333	A Amp EG Sustain	1.0	100.00 %
+334	A Amp EG Release	0.23076923191547	31.2 ms
+335	A Amp EG Release Shape	0.99500000476837	Cubic
+336	A Amp EG Envelope Mode	0.0049999998882413	Digital
+337	A Filter EG Attack	0.0	0.0 ms
+338	A Filter EG Attack Shape	0.5	Linear
+339	A Filter EG Decay	0.46153846383095	250.0 ms
+340	A Filter EG Decay Shape	0.5	Quadratic
+341	A Filter EG Sustain	1.0	100.00 %
+342	A Filter EG Release	0.23076923191547	31.2 ms
+343	A Filter EG Release Shape	0.99500000476837	Cubic
+344	A Filter EG Envelope Mode	0.0049999998882413	Digital
+TRACK	2	Tape
+0	Hysteresis Drive	0.85000002384186	85.00 %
+1	Hysteresis Saturation	0.5	50.00 %
+2	Hysteresis Bias	0.5	50.00 %
+3	Hysteresis Tone	0.5	0.00 %
+4	Loss Speed	0.59183675050735	30.00 ips
+5	Loss Gap	0.0	1.00 Î¼m
+6	Loss Spacing	0.0	0.10 Î¼m
+7	Loss Thickness	0.0	0.10 Î¼m
+8	Degrade Depth	0.0	0.00 %
+9	Degrade Amount	0.0	0.00 %
+10	Degrade Variance	0.0	0.00 %
+11	Output Mix	1.0	100.00 %
+12	FX Type	0.77999997138977	Tape
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+TRACK	3	Nimbus
+0	Configuration Mode	0.0049999998882413	Granularizer
+1	Configuration Quality	0.0049999998882413	32k 16-bit Stereo
+2	Grain Position	0.0	0.00 %
+3	Grain Size	0.75	75.00 %
+4	Grain Pitch	0.5	0.00 semitones
+5	Grain Density	0.5	0.00 %
+6	Grain Texture	0.5	50.00 %
+7	Grain Spread	0.0	0.00 %
+8	Playback Freeze	0.0	Off
+9	Playback Feedback	0.0	0.00 %
+10	Output Reverb	0.0	0.00 %
+11	Output Mix	0.5	50.00 %
+12	FX Type	0.74500000476837	Nimbus
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+TRACK	4	Reverb2
+0	Pre-Delay Pre-Delay	0.44444444775581	62.5 ms
+1	Reverb Room Size	0.5	0.00 %
+2	Reverb Decay Time	0.47499999403954	1.68 s
+3	Reverb Diffusion	1.0	100.00 %
+4	Reverb Buildup	1.0	100.00 %
+5	Reverb Modulation	0.5	50.00 %
+6	EQ LF Damping	0.20000000298023	20.00 %
+7	EQ HF Damping	0.20000000298023	20.00 %
+8	Output Width	0.5	0.00 dB
+9	Output Mix	0.33000001311302	33.00 %
+10	- -	0.0	-
+11	- -	0.0	-
+12	FX Type	0.34999999403954	Reverb 2
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+TRACK	5	Airwindows
+0	Type FX	0.0049999998882413	AD Clip
+1	AD Clip Boost	0.0	0.00 dB
+2	AD Clip Soften	0.0	0.00 %
+3	AD Clip Enhance	0.0	0.00 %
+4	AD Clip Mode	0.0049999998882413	Normal
+5	- -	0.0	-
+6	- -	0.0	-
+7	- -	0.0	-
+8	- -	0.0	-
+9	- -	0.0	-
+10	- -	0.0	-
+11	- -	0.0	-
+12	FX Type	0.46000000834465	Airwindows
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal

@@ -1,0 +1,308 @@
+{
+  "v7": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.3603118658065796,
+    "nonfinite": 0,
+    "sha256": "bcaf42669f69d2af97fea9f641648c5f941ffab7d75d94b3f19ca81099760971",
+    "loudness": {
+      "input_i": "-19.28",
+      "input_tp": "-8.86",
+      "input_lra": "2.10",
+      "input_thresh": "-29.40"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -9.784050675814044,
+        "upper_to_body_db": -21.883870039011363,
+        "centroid_hz": 365.9539611188529,
+        "rms": 0.07995737006969783
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -10.732824999327715,
+        "upper_to_body_db": -23.46709918497183,
+        "centroid_hz": 562.8851824015967,
+        "rms": 0.07899671517258483
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -15.70064059272202,
+        "upper_to_body_db": -25.89248183231757,
+        "centroid_hz": 493.7444860045031,
+        "rms": 0.08872240046196266
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -14.933582846489799,
+        "upper_to_body_db": -25.566819880000104,
+        "centroid_hz": 508.34954108103966,
+        "rms": 0.08985568828998622
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -15.178360064299126,
+        "upper_to_body_db": -24.074528915022437,
+        "centroid_hz": 440.13512999336496,
+        "rms": 0.08526517802932693
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": -8.520348338826913,
+        "upper_to_body_db": -14.70063472309099,
+        "centroid_hz": 521.2984100425881,
+        "rms": 0.07869864688189306
+      }
+    }
+  },
+  "B": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.3312937021255493,
+    "nonfinite": 0,
+    "sha256": "5bde8a8152eefb86ef5146ab0e3dd53e72d5d997c9272a18cca5f75e463388de",
+    "loudness": {
+      "input_i": "-25.54",
+      "input_tp": "-9.60",
+      "input_lra": "9.10",
+      "input_thresh": "-35.61"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -5.217330479409219,
+        "upper_to_body_db": -20.202928543785767,
+        "centroid_hz": 138.50619512533675,
+        "rms": 0.03468466401764927
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -4.479569643896529,
+        "upper_to_body_db": -28.733006189577086,
+        "centroid_hz": 211.64769855614165,
+        "rms": 0.054353223953063655
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -7.030088469561463,
+        "upper_to_body_db": -26.698888751414295,
+        "centroid_hz": 175.05286219146396,
+        "rms": 0.043513503232898126
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -6.168873434182323,
+        "upper_to_body_db": -22.72953339776857,
+        "centroid_hz": 164.57700022642183,
+        "rms": 0.03409006910164211
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -6.797050556855293,
+        "upper_to_body_db": -21.594735938526778,
+        "centroid_hz": 167.82375467115435,
+        "rms": 0.0317550927978661
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": -1.2489360648546297,
+        "upper_to_body_db": -20.143095699473186,
+        "centroid_hz": 220.08401423674943,
+        "rms": 0.05505759325877613
+      }
+    }
+  },
+  "C": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.2924177646636963,
+    "nonfinite": 0,
+    "sha256": "f52c818a889a468622448fdc9de802eb5c34d4d5bda08e650ff5dac764782baf",
+    "loudness": {
+      "input_i": "-28.95",
+      "input_tp": "-10.67",
+      "input_lra": "7.60",
+      "input_thresh": "-39.01"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -0.9972318872573354,
+        "upper_to_body_db": -16.656504423604325,
+        "centroid_hz": 163.8165862977967,
+        "rms": 0.023954064066728176
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -0.7872418888868254,
+        "upper_to_body_db": -24.09677248595793,
+        "centroid_hz": 220.10110907710973,
+        "rms": 0.035990528058303745
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -4.0923943991447125,
+        "upper_to_body_db": -22.579818675656153,
+        "centroid_hz": 182.53935806139265,
+        "rms": 0.02898877149941235
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -2.0457578250974757,
+        "upper_to_body_db": -20.578831594856503,
+        "centroid_hz": 193.07457532609024,
+        "rms": 0.024166081600337532
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -1.8309442203816897,
+        "upper_to_body_db": -19.07279185964019,
+        "centroid_hz": 183.54762603265442,
+        "rms": 0.02237272171194005
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": 0.3268318536292427,
+        "upper_to_body_db": -17.44739799366146,
+        "centroid_hz": 265.70659116830905,
+        "rms": 0.035331506971291164
+      }
+    }
+  },
+  "D": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.30623018741607666,
+    "nonfinite": 0,
+    "sha256": "d34cbf9286c1ec2cd44c0e408f85e47991fbaaf76c274c558cd29837ca06827f",
+    "loudness": {
+      "input_i": "-28.20",
+      "input_tp": "-10.28",
+      "input_lra": "7.80",
+      "input_thresh": "-38.26"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -4.307051358522768,
+        "upper_to_body_db": -17.61427211086901,
+        "centroid_hz": 183.2787061762641,
+        "rms": 0.02533870514822729
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -5.573601743832364,
+        "upper_to_body_db": -24.98117288583375,
+        "centroid_hz": 229.8669619065161,
+        "rms": 0.039393852813372904
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -6.921698980452623,
+        "upper_to_body_db": -23.51950620956221,
+        "centroid_hz": 204.84679104246916,
+        "rms": 0.03133337367786385
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -6.117493915887885,
+        "upper_to_body_db": -21.798107585042672,
+        "centroid_hz": 217.11275737185292,
+        "rms": 0.02640442095251314
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -6.8216783881202625,
+        "upper_to_body_db": -20.126120073829195,
+        "centroid_hz": 217.43826147535927,
+        "rms": 0.02410275261712104
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": -1.2047521821480045,
+        "upper_to_body_db": -18.243309038905487,
+        "centroid_hz": 264.739457644437,
+        "rms": 0.038108460995773905
+      }
+    }
+  },
+  "E": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.5902987718582153,
+    "nonfinite": 0,
+    "sha256": "bf502815ad8274e1b0eda9152876bdc1a966d931078898708038e8e4d501999b",
+    "loudness": {
+      "input_i": "-20.12",
+      "input_tp": "-4.57",
+      "input_lra": "6.40",
+      "input_thresh": "-30.25"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -8.310785950335887,
+        "upper_to_body_db": -21.302542345522202,
+        "centroid_hz": 277.9549827672712,
+        "rms": 0.06844030411851608
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -13.734615888150056,
+        "upper_to_body_db": -26.644395032840574,
+        "centroid_hz": 310.6042167641117,
+        "rms": 0.07617751341933045
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -8.097244999162672,
+        "upper_to_body_db": -28.605510600837924,
+        "centroid_hz": 357.42372749739377,
+        "rms": 0.09869451607159492
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -9.614133496631377,
+        "upper_to_body_db": -25.576758126559053,
+        "centroid_hz": 324.16333188864434,
+        "rms": 0.0702289809501089
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -9.690885660278814,
+        "upper_to_body_db": -27.42859169588147,
+        "centroid_hz": 439.35911180268016,
+        "rms": 0.07504743600918509
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": -8.712349201169797,
+        "upper_to_body_db": -19.091804434242658,
+        "centroid_hz": 320.69871601439127,
+        "rms": 0.07361210234365813
+      }
+    }
+  },
+  "F": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.5554063320159912,
+    "nonfinite": 0,
+    "sha256": "b5ac2bf6ce2fbae461e7b239d6eda2af1065db847f1ac5f21ec102c4dcb0a0c8",
+    "loudness": {
+      "input_i": "-20.28",
+      "input_tp": "-5.11",
+      "input_lra": "6.30",
+      "input_thresh": "-30.41"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -8.33487640771089,
+        "upper_to_body_db": -21.129140053807717,
+        "centroid_hz": 258.4851774976928,
+        "rms": 0.067811144009613
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -13.420778107795146,
+        "upper_to_body_db": -26.524252421371372,
+        "centroid_hz": 296.2155220069671,
+        "rms": 0.07526993720157077
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -10.041330040034772,
+        "upper_to_body_db": -28.40215855625738,
+        "centroid_hz": 321.43822141349307,
+        "rms": 0.09737429869514237
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -10.229298062197827,
+        "upper_to_body_db": -25.394561252486923,
+        "centroid_hz": 297.2637371108796,
+        "rms": 0.06916128621251387
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -11.412551631831953,
+        "upper_to_body_db": -27.099331904876294,
+        "centroid_hz": 392.1073315435779,
+        "rms": 0.073304857583212
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": -8.258188184245261,
+        "upper_to_body_db": -18.989034675530718,
+        "centroid_hz": 340.4733245798154,
+        "rms": 0.07042294999678647
+      }
+    }
+  }
+}

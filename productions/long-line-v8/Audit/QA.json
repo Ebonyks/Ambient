@@ -1,0 +1,135 @@
+{
+  "status": "machine checks pass; owner tonal acceptance pending",
+  "final_candidate": "F",
+  "tests": {
+    "melody": 15,
+    "harmony": 10,
+    "seeded_revision_trials": 100
+  },
+  "semitone_returns_before": 12,
+  "semitone_returns_after": 0,
+  "score_timing_preserved": true,
+  "gemini_successful_cumulative": 89,
+  "gemini_remaining": 11,
+  "final_render": {
+    "duration_s": 336,
+    "sample_rate": 48000,
+    "sample_peak": 0.5554063320159912,
+    "nonfinite": 0,
+    "sha256": "b5ac2bf6ce2fbae461e7b239d6eda2af1065db847f1ac5f21ec102c4dcb0a0c8",
+    "loudness": {
+      "input_i": "-20.28",
+      "input_tp": "-5.11",
+      "input_lra": "6.30",
+      "input_thresh": "-30.41"
+    },
+    "windows": {
+      "43": {
+        "upper_mid_to_low_mid_db": -8.33487640771089,
+        "upper_to_body_db": -21.129140053807717,
+        "centroid_hz": 258.4851774976928,
+        "rms": 0.067811144009613
+      },
+      "107": {
+        "upper_mid_to_low_mid_db": -13.420778107795146,
+        "upper_to_body_db": -26.524252421371372,
+        "centroid_hz": 296.2155220069671,
+        "rms": 0.07526993720157077
+      },
+      "168": {
+        "upper_mid_to_low_mid_db": -10.041330040034772,
+        "upper_to_body_db": -28.40215855625738,
+        "centroid_hz": 321.43822141349307,
+        "rms": 0.09737429869514237
+      },
+      "188": {
+        "upper_mid_to_low_mid_db": -10.229298062197827,
+        "upper_to_body_db": -25.394561252486923,
+        "centroid_hz": 297.2637371108796,
+        "rms": 0.06916128621251387
+      },
+      "248": {
+        "upper_mid_to_low_mid_db": -11.412551631831953,
+        "upper_to_body_db": -27.099331904876294,
+        "centroid_hz": 392.1073315435779,
+        "rms": 0.073304857583212
+      },
+      "308": {
+        "upper_mid_to_low_mid_db": -8.258188184245261,
+        "upper_to_body_db": -18.989034675530718,
+        "centroid_hz": 340.4733245798154,
+        "rms": 0.07042294999678647
+      }
+    }
+  },
+  "media": [
+    {
+      "project": "Long Line - Tonal Revision F.rpp",
+      "path": "productions/long-line-v6/Media/01_Anchor_bypasses_drive.flac",
+      "frames": 16128000,
+      "peak": 0.014122843742370605,
+      "sha256": "08a06b60b27c7d0d02959633b7da566e6fddc8d0e96f575879d536875c117aa4"
+    },
+    {
+      "project": "Long Line - Tonal Revision F.rpp",
+      "path": "productions/long-line-v8/Media/05_Tape_inner.flac",
+      "frames": 16128000,
+      "peak": 0.08482122421264648,
+      "sha256": "b38e800b862a8ab46cc10b3b8a8f463fea50eb2f8333a907417f8195c622f39e"
+    },
+    {
+      "project": "Long Line - Tonal Revision F.rpp",
+      "path": "productions/long-line-v8/Media/06_Tape_foreground.flac",
+      "frames": 16128000,
+      "peak": 0.13028621673583984,
+      "sha256": "6e14277e1c44b438331fca33a3652c607d4cd8fc7746c4341fe1c71d42daeaec"
+    },
+    {
+      "project": "Long Line - Tonal Revision F.rpp",
+      "path": "productions/long-line-v8/Media/07_Tape_string.flac",
+      "frames": 16128000,
+      "peak": 0.06156134605407715,
+      "sha256": "c4713ba34d458c1786ac538e20aadd78f45bc745b40514ab95fe94f9807b730e"
+    },
+    {
+      "project": "Long Line - Tonal Revision F.rpp",
+      "path": "productions/long-line-v6/Media/07_Water.flac",
+      "frames": 16128000,
+      "peak": 0.026999950408935547,
+      "sha256": "b1a73487cdea40bec9101ab8fd8b2afb8ffbaf6594130a50b4d1ffcf63da5a5c"
+    },
+    {
+      "project": "Long Line - Tonal Revision F.rpp",
+      "path": "productions/long-line-v6/Media/08_Wood_air.flac",
+      "frames": 16128000,
+      "peak": 0.026999950408935547,
+      "sha256": "e06c37041b1db50eb20461039dda620db750ac5623af4590ef35fefd6b4152a6"
+    },
+    {
+      "project": "Calibrated Tape Sources.rpp",
+      "path": "productions/long-line-v8/Media/02_Inner_piano.flac",
+      "frames": 16128000,
+      "peak": 0.06141400337219238,
+      "sha256": "3ea31502a95df9ab298c8085ba4f6006b299426cca44ac0e9472a0ba3b48358b"
+    },
+    {
+      "project": "Calibrated Tape Sources.rpp",
+      "path": "productions/long-line-v8/Media/03_Foreground_piano.flac",
+      "frames": 16128000,
+      "peak": 0.04767465591430664,
+      "sha256": "cfd11c3892af22cbc64e139eb6eebefabd6131135ff4ded1e0f07e50743bf590"
+    },
+    {
+      "project": "Calibrated Tape Sources.rpp",
+      "path": "productions/long-line-v8/Media/04_Final_string.flac",
+      "frames": 16128000,
+      "peak": 0.05833721160888672,
+      "sha256": "96de1987259050ca620c3aa8697c225e2fc3b3b22b405641e3c291fce1cabae5"
+    }
+  ],
+  "limitations": [
+    "Gemini descriptions do not prove artist resemblance or reliably transcribe pitch.",
+    "Low-mid masking remains an audible-review concern.",
+    "Native synth/granular fresh renders are not guaranteed bit-identical."
+  ]
+}

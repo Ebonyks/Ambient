@@ -1,0 +1,69 @@
+{
+  "prior_successful_listens": 78,
+  "new_successful_listens": 4,
+  "cumulative": 82,
+  "candidate": "Tonal Revision B",
+  "interpretation": "B not accepted: comparison at 0:43 flagged a metallic low buzz. Other comments were inconsistent; the 2:48 high-frequency comparison was inconclusive. Prompted a different string excitation and reduced body prominence.",
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "pair_43",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 35,\n  \"harsh\": 55,\n  \"sibilant\": 10,\n  \"bright\": 25,\n  \"valence\": -4.0,\n  \"arousal\": -2.0,\n  \"mood\": \"Ominous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 10.0,\n      \"desc\": \"Version B introduces heavy metallic buzzing and abrasive low-frequency drone that contrasts sharply with Version A's smooth, rich ambient pad.\"\n    }\n  ],\n  \"overall\": \"Version A presents a smooth, texturally rich pad sound, whereas Version B introduces a prominent metallic buzzing and low drone.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "pair_168",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 20,\n  \"harsh\": 15,\n  \"sibilant\": 10,\n  \"bright\": 35,\n  \"valence\": 1.0,\n  \"arousal\": -6.5,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.0,\n      \"desc\": \"Version A displays a smooth ambient pad with delicate textural richness and no metallic buzzing or piercing upper partials.\"\n    },\n    {\n      \"t_seconds\": 10.0,\n      \"desc\": \"Version B introduces an added low-frequency sub-drone under the swell; high-frequency content remains indistinguishable from Version A with no pitch rocking between close notes.\"\n    }\n  ],\n  \"overall\": \"Both versions demonstrate high clarity and smoothness without harsh partials or metallic artifacts, with Version B providing additional low-end weight while remaining high-frequency indistinguishable from Version A.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "new_168",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 48,\n  \"harsh\": 18,\n  \"sibilant\": 5,\n  \"bright\": 20,\n  \"valence\": -6.5,\n  \"arousal\": -7.0,\n  \"mood\": \"ominous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"Accumulation of resonant low-mid energy around 250-400 Hz within the sustained drone.\"\n    },\n    {\n      \"t_seconds\": 11.0,\n      \"desc\": \"Subtle upper partial motion emerges, showing slight metallic overtone modulation without becoming overly piercing.\"\n    }\n  ],\n  \"overall\": \"The mix presents a dark, sustained drone texture with subtle internal harmonic movement, dominated by dense low-mid resonance while high partials remain smooth and controlled.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "new_248",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 45,\n  \"harsh\": 12,\n  \"sibilant\": 2,\n  \"bright\": 20,\n  \"valence\": -5.0,\n  \"arousal\": -6.0,\n  \"mood\": \"Ominous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"A subtle low-mid resonant buildup (~250-350Hz) slightly thickens the bottom end of the pad.\"\n    },\n    {\n      \"t_seconds\": 12.0,\n      \"desc\": \"Harmonic filtering swells introduce mild mid-range density without harsh upper partial interference.\"\n    }\n  ],\n  \"overall\": \"The mix delivers a dark, expansive drone pad with smooth harmonic motion and no piercing upper partials, though low-mids could benefit from minor dynamic EQ cleanup.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    }
+  ]
+}

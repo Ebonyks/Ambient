@@ -1,0 +1,26 @@
+[
+  {
+    "file": "05_Tape_inner.flac",
+    "input_rms": 0.04711329620910833,
+    "input_peak": 0.4440227746963501,
+    "output_target_rms": 0.009,
+    "normalization_gain_db": -14.378019612110013,
+    "output_peak": 0.0848211720585823
+  },
+  {
+    "file": "06_Tape_foreground.flac",
+    "input_rms": 0.02438347796531892,
+    "input_peak": 0.21909189224243164,
+    "output_target_rms": 0.0145,
+    "normalization_gain_db": -4.514552991134767,
+    "output_peak": 0.13028627634048462
+  },
+  {
+    "file": "07_Tape_string.flac",
+    "input_rms": 0.023650599758445877,
+    "input_peak": 0.25102829933166504,
+    "output_target_rms": 0.0058,
+    "normalization_gain_db": -12.208283299546254,
+    "output_peak": 0.061561401933431625
+  }
+]

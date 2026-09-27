@@ -1,0 +1,426 @@
+PLUGIN	FX Tape
+0	Audio Input Channel	0.5	0.00 % (Stereo)
+1	Audio Input Pan	0.5	0.00 % (Stereo)
+2	Audio Input Level	0.0	-96.00 dB
+3	Effect Input Channel	0.5	0.00 % (Stereo)
+4	Effect Input Pan	0.5	0.00 % (Stereo)
+5	Effect Input Level	1.0	0.00 dB
+6	Scene B Input Channel	0.5	0.00 % (Stereo)
+7	Scene B Input Pan	0.5	0.00 % (Stereo)
+8	Scene B Input Level	0.0	-96.00 dB
+9	Output Width	1.0	100.00 %
+10	Output Mix	1.0	100.00 %
+11	- -	0.0	-
+12	FX Type	0.77999997138977	Tape
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+PLUGIN	FX Nimbus
+0	Audio Input Channel	0.5	0.00 % (Stereo)
+1	Audio Input Pan	0.5	0.00 % (Stereo)
+2	Audio Input Level	0.0	-96.00 dB
+3	Effect Input Channel	0.5	0.00 % (Stereo)
+4	Effect Input Pan	0.5	0.00 % (Stereo)
+5	Effect Input Level	1.0	0.00 dB
+6	Scene B Input Channel	0.5	0.00 % (Stereo)
+7	Scene B Input Pan	0.5	0.00 % (Stereo)
+8	Scene B Input Level	0.0	-96.00 dB
+9	Output Width	1.0	100.00 %
+10	Output Mix	1.0	100.00 %
+11	- -	0.0	-
+12	FX Type	0.74500000476837	Nimbus
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+PLUGIN	FX Airwindows
+0	Audio Input Channel	0.5	0.00 % (Stereo)
+1	Audio Input Pan	0.5	0.00 % (Stereo)
+2	Audio Input Level	0.0	-96.00 dB
+3	Effect Input Channel	0.5	0.00 % (Stereo)
+4	Effect Input Pan	0.5	0.00 % (Stereo)
+5	Effect Input Level	1.0	0.00 dB
+6	Scene B Input Channel	0.5	0.00 % (Stereo)
+7	Scene B Input Pan	0.5	0.00 % (Stereo)
+8	Scene B Input Level	0.0	-96.00 dB
+9	Output Width	1.0	100.00 %
+10	Output Mix	1.0	100.00 %
+11	- -	0.0	-
+12	FX Type	0.46000000834465	Airwindows
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+PLUGIN	FX Reverb2
+0	Audio Input Channel	0.5	0.00 % (Stereo)
+1	Audio Input Pan	0.5	0.00 % (Stereo)
+2	Audio Input Level	0.0	-96.00 dB
+3	Effect Input Channel	0.5	0.00 % (Stereo)
+4	Effect Input Pan	0.5	0.00 % (Stereo)
+5	Effect Input Level	1.0	0.00 dB
+6	Scene B Input Channel	0.5	0.00 % (Stereo)
+7	Scene B Input Pan	0.5	0.00 % (Stereo)
+8	Scene B Input Level	0.0	-96.00 dB
+9	Output Width	1.0	100.00 %
+10	Output Mix	1.0	100.00 %
+11	- -	0.0	-
+12	FX Type	0.34999999403954	Reverb 2
+13	Bypass	0.0	Off
+14	Bypass	0.0	normal
+15	Wet	1.0	100
+16	Delta	0.0	normal
+PLUGIN	String
+228	A Octave	0.5	0
+229	A Pitch	0.5	0.00 semitones
+230	A Portamento	0.0	0.0 ms
+231	A Play Mode	0.0049999998882413	Poly
+232	A FM Routing	0.0049999998882413	Off
+233	A FM Depth	0.33333334326744	-24.00 dB
+234	A Osc Drift	0.0	0.00 %
+235	A Noise Color	0.5	0.00 %
+236	A Keytrack Root Key	0.47271654009819	C4
+237	A Volume	0.89089900255203	-3.00 dB
+238	A Pan	0.5	0.00 % (Center)
+239	A Width	1.0	100.00 %
+240	A Send FX 1 Level	0.0	-inf dB
+241	A Send FX 2 Level	0.0	-inf dB
+242	A Send FX 3 Level	0.0	-inf dB
+243	A Send FX 4 Level	0.0	-inf dB
+244	A Pitch Bend Up Range	0.087499998509884	2 semitones
+245	A Pitch Bend Down Range	0.087499998509884	2 semitones
+246	A VCA Gain	0.5	0.00 dB
+247	A Velocity > VCA Gain	1.0	0.00 dB
+248	A Feedback	0.5	0.00 %
+249	A Filter Configuration	0.99500000476837	Wide
+250	A Filter Balance	0.5	0.00 %
+251	A Highpass	0.0	6.88 Hz
+252	A Waveshaper Type	0.0049999998882413	Off
+253	A Waveshaper Drive	0.5	0.00 dB
+254	A Filter 2 Offset Mode	0.0	Off
+255	A Link Resonance	0.0	Off
+256	A Osc 1 Type	0.80000001192093	String
+257	A Osc 1 Octave	0.5	0
+258	A Osc 1 Pitch	0.5	0.00 semitones
+259	A Osc 1 Shape	0.5	Audio In
+260	A Osc 1 Wrap	0.5	50.00 %
+261	A Osc 1 Mask	0.5	50.00 %
+262	A Osc 1 Threshold	0.0	0.00 %
+263	A Osc 1 Bitcrush	0.0	1.00 bits
+264	A Osc 1 Unison Detune	0.10000000149012	10.00 cents
+265	A Osc 1 Unison Voices	0.0049999998882413	1 voice
+266	A Osc 1 Keytrack	1.0	On
+267	A Osc 1 Retrigger	0.0	Off
+268	A Osc 2 Type	0.0049999998882413	Classic
+269	A Osc 2 Octave	0.5	0
+270	A Osc 2 Pitch	0.5	0.00 semitones
+271	A Osc 2 Shape	0.5	0.00 %
+272	A Osc 2 Width 1	0.5	50.00 %
+273	A Osc 2 Width 2	0.5	50.00 %
+274	A Osc 2 Sub Mix	0.0	0.00 %
+275	A Osc 2 Sync	0.0	0.00 semitones
+276	A Osc 2 Unison Detune	0.10000000149012	10.00 cents
+277	A Osc 2 Unison Voices	0.0049999998882413	1 voice
+278	A Osc 2 Keytrack	1.0	On
+279	A Osc 2 Retrigger	0.0	Off
+280	A Osc 3 Type	0.0049999998882413	Classic
+281	A Osc 3 Octave	0.5	0
+282	A Osc 3 Pitch	0.5	0.00 semitones
+283	A Osc 3 Shape	0.5	0.00 %
+284	A Osc 3 Width 1	0.5	50.00 %
+285	A Osc 3 Width 2	0.5	50.00 %
+286	A Osc 3 Sub Mix	0.0	0.00 %
+287	A Osc 3 Sync	0.0	0.00 semitones
+288	A Osc 3 Unison Detune	0.10000000149012	10.00 cents
+289	A Osc 3 Unison Voices	0.0049999998882413	1 voice
+290	A Osc 3 Keytrack	1.0	On
+291	A Osc 3 Retrigger	0.0	Off
+292	A Osc 1 Volume	1.0	0.00 dB
+293	A Osc 1 Mute	0.0	Off
+294	A Osc 1 Solo	0.0	Off
+295	A Osc 1 Route	0.5	Both
+296	A Osc 2 Volume	1.0	0.00 dB
+297	A Osc 2 Mute	1.0	On
+298	A Osc 2 Solo	0.0	Off
+299	A Osc 2 Route	0.5	Both
+300	A Osc 3 Volume	1.0	0.00 dB
+301	A Osc 3 Mute	1.0	On
+302	A Osc 3 Solo	0.0	Off
+303	A Osc 3 Route	0.5	Both
+304	A Ring Modulation 1x2 Volume	1.0	0.00 dB
+305	A Ring Modulation 1x2 Mute	1.0	On
+306	A Ring Modulation 1x2 Solo	0.0	Off
+307	A Ring Modulation 1x2 Route	0.5	Both
+308	A Ring Modulation 2x3 Volume	1.0	0.00 dB
+309	A Ring Modulation 2x3 Mute	1.0	On
+310	A Ring Modulation 2x3 Solo	0.0	Off
+311	A Ring Modulation 2x3 Route	0.5	Both
+312	A Noise Volume	1.0	0.00 dB
+313	A Noise Mute	1.0	On
+314	A Noise Solo	0.0	Off
+315	A Noise Route	0.5	Both
+316	A Pre-Filter Gain	0.5	0.00 dB
+317	A Filter 1 Type	1.0	MULTI Tri-pole
+318	A Filter 1 Subtype	0.0049999998882413	Low -> Low -> Low, First
+319	A Filter 1 Cutoff	0.48461538553238	523.25 Hz
+320	A Filter 1 Resonance	0.0	0.00 %
+321	A Filter 1 FEG Mod Amount	0.5	0.00 semitones
+322	A Filter 1 Keytrack	0.5	0.00 %
+323	A Filter 2 Type	0.0049999998882413	Off
+324	A Filter 2 Subtype	0.0049999998882413	None
+325	A Filter 2 Cutoff	0.48461538553238	523.25 Hz
+326	A Filter 2 Resonance	0.0	0.00 %
+327	A Filter 2 FEG Mod Amount	0.5	0.00 semitones
+328	A Filter 2 Keytrack	0.5	0.00 %
+329	A Amp EG Attack	0.0	0.0 ms
+330	A Amp EG Attack Shape	0.5	Linear
+331	A Amp EG Decay	0.46153846383095	250.0 ms
+332	A Amp EG Decay Shape	0.5	Quadratic
+333	A Amp EG Sustain	1.0	100.00 %
+334	A Amp EG Release	0.23076923191547	31.2 ms
+335	A Amp EG Release Shape	0.99500000476837	Cubic
+336	A Amp EG Envelope Mode	0.0049999998882413	Digital
+337	A Filter EG Attack	0.0	0.0 ms
+338	A Filter EG Attack Shape	0.5	Linear
+339	A Filter EG Decay	0.46153846383095	250.0 ms
+340	A Filter EG Decay Shape	0.5	Quadratic
+341	A Filter EG Sustain	1.0	100.00 %
+342	A Filter EG Release	0.23076923191547	31.2 ms
+343	A Filter EG Release Shape	0.99500000476837	Cubic
+344	A Filter EG Envelope Mode	0.0049999998882413	Digital
+PLUGIN	Twist
+228	A Octave	0.5	0
+229	A Pitch	0.5	0.00 semitones
+230	A Portamento	0.0	0.0 ms
+231	A Play Mode	0.0049999998882413	Poly
+232	A FM Routing	0.0049999998882413	Off
+233	A FM Depth	0.33333334326744	-24.00 dB
+234	A Osc Drift	0.0	0.00 %
+235	A Noise Color	0.5	0.00 %
+236	A Keytrack Root Key	0.47271654009819	C4
+237	A Volume	0.89089900255203	-3.00 dB
+238	A Pan	0.5	0.00 % (Center)
+239	A Width	1.0	100.00 %
+240	A Send FX 1 Level	0.0	-inf dB
+241	A Send FX 2 Level	0.0	-inf dB
+242	A Send FX 3 Level	0.0	-inf dB
+243	A Send FX 4 Level	0.0	-inf dB
+244	A Pitch Bend Up Range	0.087499998509884	2 semitones
+245	A Pitch Bend Down Range	0.087499998509884	2 semitones
+246	A VCA Gain	0.5	0.00 dB
+247	A Velocity > VCA Gain	1.0	0.00 dB
+248	A Feedback	0.5	0.00 %
+249	A Filter Configuration	0.99500000476837	Wide
+250	A Filter Balance	0.5	0.00 %
+251	A Highpass	0.0	6.88 Hz
+252	A Waveshaper Type	0.0049999998882413	Off
+253	A Waveshaper Drive	0.5	0.00 dB
+254	A Filter 2 Offset Mode	0.0	Off
+255	A Link Resonance	0.0	Off
+256	A Osc 1 Type	0.89999997615814	Twist
+257	A Osc 1 Octave	0.5	0
+258	A Osc 1 Pitch	0.5	0.00 semitones
+259	A Osc 1 Shape	0.5	Audio In
+260	A Osc 1 Wrap	0.5	50.00 %
+261	A Osc 1 Mask	0.5	50.00 %
+262	A Osc 1 Threshold	0.0	0.00 %
+263	A Osc 1 Bitcrush	0.0	1.00 bits
+264	A Osc 1 Unison Detune	0.10000000149012	10.00 cents
+265	A Osc 1 Unison Voices	0.0049999998882413	1 voice
+266	A Osc 1 Keytrack	1.0	On
+267	A Osc 1 Retrigger	0.0	Off
+268	A Osc 2 Type	0.0049999998882413	Classic
+269	A Osc 2 Octave	0.5	0
+270	A Osc 2 Pitch	0.5	0.00 semitones
+271	A Osc 2 Shape	0.5	0.00 %
+272	A Osc 2 Width 1	0.5	50.00 %
+273	A Osc 2 Width 2	0.5	50.00 %
+274	A Osc 2 Sub Mix	0.0	0.00 %
+275	A Osc 2 Sync	0.0	0.00 semitones
+276	A Osc 2 Unison Detune	0.10000000149012	10.00 cents
+277	A Osc 2 Unison Voices	0.0049999998882413	1 voice
+278	A Osc 2 Keytrack	1.0	On
+279	A Osc 2 Retrigger	0.0	Off
+280	A Osc 3 Type	0.0049999998882413	Classic
+281	A Osc 3 Octave	0.5	0
+282	A Osc 3 Pitch	0.5	0.00 semitones
+283	A Osc 3 Shape	0.5	0.00 %
+284	A Osc 3 Width 1	0.5	50.00 %
+285	A Osc 3 Width 2	0.5	50.00 %
+286	A Osc 3 Sub Mix	0.0	0.00 %
+287	A Osc 3 Sync	0.0	0.00 semitones
+288	A Osc 3 Unison Detune	0.10000000149012	10.00 cents
+289	A Osc 3 Unison Voices	0.0049999998882413	1 voice
+290	A Osc 3 Keytrack	1.0	On
+291	A Osc 3 Retrigger	0.0	Off
+292	A Osc 1 Volume	1.0	0.00 dB
+293	A Osc 1 Mute	0.0	Off
+294	A Osc 1 Solo	0.0	Off
+295	A Osc 1 Route	0.5	Both
+296	A Osc 2 Volume	1.0	0.00 dB
+297	A Osc 2 Mute	1.0	On
+298	A Osc 2 Solo	0.0	Off
+299	A Osc 2 Route	0.5	Both
+300	A Osc 3 Volume	1.0	0.00 dB
+301	A Osc 3 Mute	1.0	On
+302	A Osc 3 Solo	0.0	Off
+303	A Osc 3 Route	0.5	Both
+304	A Ring Modulation 1x2 Volume	1.0	0.00 dB
+305	A Ring Modulation 1x2 Mute	1.0	On
+306	A Ring Modulation 1x2 Solo	0.0	Off
+307	A Ring Modulation 1x2 Route	0.5	Both
+308	A Ring Modulation 2x3 Volume	1.0	0.00 dB
+309	A Ring Modulation 2x3 Mute	1.0	On
+310	A Ring Modulation 2x3 Solo	0.0	Off
+311	A Ring Modulation 2x3 Route	0.5	Both
+312	A Noise Volume	1.0	0.00 dB
+313	A Noise Mute	1.0	On
+314	A Noise Solo	0.0	Off
+315	A Noise Route	0.5	Both
+316	A Pre-Filter Gain	0.5	0.00 dB
+317	A Filter 1 Type	1.0	MULTI Tri-pole
+318	A Filter 1 Subtype	0.0049999998882413	Low -> Low -> Low, First
+319	A Filter 1 Cutoff	0.48461538553238	523.25 Hz
+320	A Filter 1 Resonance	0.0	0.00 %
+321	A Filter 1 FEG Mod Amount	0.5	0.00 semitones
+322	A Filter 1 Keytrack	0.5	0.00 %
+323	A Filter 2 Type	0.0049999998882413	Off
+324	A Filter 2 Subtype	0.0049999998882413	None
+325	A Filter 2 Cutoff	0.48461538553238	523.25 Hz
+326	A Filter 2 Resonance	0.0	0.00 %
+327	A Filter 2 FEG Mod Amount	0.5	0.00 semitones
+328	A Filter 2 Keytrack	0.5	0.00 %
+329	A Amp EG Attack	0.0	0.0 ms
+330	A Amp EG Attack Shape	0.5	Linear
+331	A Amp EG Decay	0.46153846383095	250.0 ms
+332	A Amp EG Decay Shape	0.5	Quadratic
+333	A Amp EG Sustain	1.0	100.00 %
+334	A Amp EG Release	0.23076923191547	31.2 ms
+335	A Amp EG Release Shape	0.99500000476837	Cubic
+336	A Amp EG Envelope Mode	0.0049999998882413	Digital
+337	A Filter EG Attack	0.0	0.0 ms
+338	A Filter EG Attack Shape	0.5	Linear
+339	A Filter EG Decay	0.46153846383095	250.0 ms
+340	A Filter EG Decay Shape	0.5	Quadratic
+341	A Filter EG Sustain	1.0	100.00 %
+342	A Filter EG Release	0.23076923191547	31.2 ms
+343	A Filter EG Release Shape	0.99500000476837	Cubic
+344	A Filter EG Envelope Mode	0.0049999998882413	Digital
+PLUGIN	Sine
+228	A Octave	0.5	0
+229	A Pitch	0.5	0.00 semitones
+230	A Portamento	0.0	0.0 ms
+231	A Play Mode	0.0049999998882413	Poly
+232	A FM Routing	0.0049999998882413	Off
+233	A FM Depth	0.33333334326744	-24.00 dB
+234	A Osc Drift	0.0	0.00 %
+235	A Noise Color	0.5	0.00 %
+236	A Keytrack Root Key	0.47271654009819	C4
+237	A Volume	0.89089900255203	-3.00 dB
+238	A Pan	0.5	0.00 % (Center)
+239	A Width	1.0	100.00 %
+240	A Send FX 1 Level	0.0	-inf dB
+241	A Send FX 2 Level	0.0	-inf dB
+242	A Send FX 3 Level	0.0	-inf dB
+243	A Send FX 4 Level	0.0	-inf dB
+244	A Pitch Bend Up Range	0.087499998509884	2 semitones
+245	A Pitch Bend Down Range	0.087499998509884	2 semitones
+246	A VCA Gain	0.5	0.00 dB
+247	A Velocity > VCA Gain	1.0	0.00 dB
+248	A Feedback	0.5	0.00 %
+249	A Filter Configuration	0.99500000476837	Wide
+250	A Filter Balance	0.5	0.00 %
+251	A Highpass	0.0	6.88 Hz
+252	A Waveshaper Type	0.0049999998882413	Off
+253	A Waveshaper Drive	0.5	0.00 dB
+254	A Filter 2 Offset Mode	0.0	Off
+255	A Link Resonance	0.0	Off
+256	A Osc 1 Type	0.079999998211861	Sine
+257	A Osc 1 Octave	0.5	0
+258	A Osc 1 Pitch	0.5	0.00 semitones
+259	A Osc 1 Shape	0.5	Audio In
+260	A Osc 1 Wrap	0.5	50.00 %
+261	A Osc 1 Mask	0.5	50.00 %
+262	A Osc 1 Threshold	0.0	0.00 %
+263	A Osc 1 Bitcrush	0.0	1.00 bits
+264	A Osc 1 Unison Detune	0.10000000149012	10.00 cents
+265	A Osc 1 Unison Voices	0.0049999998882413	1 voice
+266	A Osc 1 Keytrack	1.0	On
+267	A Osc 1 Retrigger	0.0	Off
+268	A Osc 2 Type	0.0049999998882413	Classic
+269	A Osc 2 Octave	0.5	0
+270	A Osc 2 Pitch	0.5	0.00 semitones
+271	A Osc 2 Shape	0.5	0.00 %
+272	A Osc 2 Width 1	0.5	50.00 %
+273	A Osc 2 Width 2	0.5	50.00 %
+274	A Osc 2 Sub Mix	0.0	0.00 %
+275	A Osc 2 Sync	0.0	0.00 semitones
+276	A Osc 2 Unison Detune	0.10000000149012	10.00 cents
+277	A Osc 2 Unison Voices	0.0049999998882413	1 voice
+278	A Osc 2 Keytrack	1.0	On
+279	A Osc 2 Retrigger	0.0	Off
+280	A Osc 3 Type	0.0049999998882413	Classic
+281	A Osc 3 Octave	0.5	0
+282	A Osc 3 Pitch	0.5	0.00 semitones
+283	A Osc 3 Shape	0.5	0.00 %
+284	A Osc 3 Width 1	0.5	50.00 %
+285	A Osc 3 Width 2	0.5	50.00 %
+286	A Osc 3 Sub Mix	0.0	0.00 %
+287	A Osc 3 Sync	0.0	0.00 semitones
+288	A Osc 3 Unison Detune	0.10000000149012	10.00 cents
+289	A Osc 3 Unison Voices	0.0049999998882413	1 voice
+290	A Osc 3 Keytrack	1.0	On
+291	A Osc 3 Retrigger	0.0	Off
+292	A Osc 1 Volume	1.0	0.00 dB
+293	A Osc 1 Mute	0.0	Off
+294	A Osc 1 Solo	0.0	Off
+295	A Osc 1 Route	0.5	Both
+296	A Osc 2 Volume	1.0	0.00 dB
+297	A Osc 2 Mute	1.0	On
+298	A Osc 2 Solo	0.0	Off
+299	A Osc 2 Route	0.5	Both
+300	A Osc 3 Volume	1.0	0.00 dB
+301	A Osc 3 Mute	1.0	On
+302	A Osc 3 Solo	0.0	Off
+303	A Osc 3 Route	0.5	Both
+304	A Ring Modulation 1x2 Volume	1.0	0.00 dB
+305	A Ring Modulation 1x2 Mute	1.0	On
+306	A Ring Modulation 1x2 Solo	0.0	Off
+307	A Ring Modulation 1x2 Route	0.5	Both
+308	A Ring Modulation 2x3 Volume	1.0	0.00 dB
+309	A Ring Modulation 2x3 Mute	1.0	On
+310	A Ring Modulation 2x3 Solo	0.0	Off
+311	A Ring Modulation 2x3 Route	0.5	Both
+312	A Noise Volume	1.0	0.00 dB
+313	A Noise Mute	1.0	On
+314	A Noise Solo	0.0	Off
+315	A Noise Route	0.5	Both
+316	A Pre-Filter Gain	0.5	0.00 dB
+317	A Filter 1 Type	1.0	MULTI Tri-pole
+318	A Filter 1 Subtype	0.0049999998882413	Low -> Low -> Low, First
+319	A Filter 1 Cutoff	0.48461538553238	523.25 Hz
+320	A Filter 1 Resonance	0.0	0.00 %
+321	A Filter 1 FEG Mod Amount	0.5	0.00 semitones
+322	A Filter 1 Keytrack	0.5	0.00 %
+323	A Filter 2 Type	0.0049999998882413	Off
+324	A Filter 2 Subtype	0.0049999998882413	None
+325	A Filter 2 Cutoff	0.48461538553238	523.25 Hz
+326	A Filter 2 Resonance	0.0	0.00 %
+327	A Filter 2 FEG Mod Amount	0.5	0.00 semitones
+328	A Filter 2 Keytrack	0.5	0.00 %
+329	A Amp EG Attack	0.0	0.0 ms
+330	A Amp EG Attack Shape	0.5	Linear
+331	A Amp EG Decay	0.46153846383095	250.0 ms
+332	A Amp EG Decay Shape	0.5	Quadratic
+333	A Amp EG Sustain	1.0	100.00 %
+334	A Amp EG Release	0.23076923191547	31.2 ms
+335	A Amp EG Release Shape	0.99500000476837	Cubic
+336	A Amp EG Envelope Mode	0.0049999998882413	Digital
+337	A Filter EG Attack	0.0	0.0 ms
+338	A Filter EG Attack Shape	0.5	Linear
+339	A Filter EG Decay	0.46153846383095	250.0 ms
+340	A Filter EG Decay Shape	0.5	Quadratic
+341	A Filter EG Sustain	1.0	100.00 %
+342	A Filter EG Release	0.23076923191547	31.2 ms
+343	A Filter EG Release Shape	0.99500000476837	Cubic
+344	A Filter EG Envelope Mode	0.0049999998882413	Digital
