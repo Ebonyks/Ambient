@@ -1,0 +1,359 @@
+{
+  "revision": "316b06dfdad6a91ea19b845ead18152a6d949829",
+  "verified_at_utc": "2026-09-27T20:42:37.324311+00:00",
+  "access_mode": "anonymous HTTPS, no authentication headers",
+  "manifest_sha256": "c0ce51fbe6b2ccf4c6e96221fdcc1ff27598771a7924ce75e68a5c3179802880",
+  "status": "All file bytes and SHA-256 verified at exact remote revision",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2662,
+      "sha256": "0752c84a7eba86cf8dac50e848b8c5319780ca44d91730116c062825a6efc116"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "productions/long-line-v6/harmony.json",
+      "bytes": 7387,
+      "sha256": "2e95cb2fc0e472aaad2dc9405976edc5cba8cce315ee1c5f012fa9c8049ed2bc"
+    },
+    {
+      "path": "productions/long-line-v7/weave.json",
+      "bytes": 54590,
+      "sha256": "96d5517ce4e4b88f30526d77df4bd895ecad0ac579f5f735e06276068d72ea01"
+    },
+    {
+      "path": "productions/long-line-v8/weave.json",
+      "bytes": 58482,
+      "sha256": "5b116a0239a59347e867bec1e915a9285c1f27135bc1cad724d416d26ad53b55"
+    },
+    {
+      "path": "productions/long-line-v9-study/.gitignore",
+      "bytes": 61,
+      "sha256": "56c255de8cd44bb6f61456f174eca99daf8dc389c3ab492f9ca9623792e5ea88"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/QA.json",
+      "bytes": 1591,
+      "sha256": "555e34e0723cd02684a4adfc4932709333cebc22ac36339e3bc967d5fc6b87ad"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/demo_A_listening.json",
+      "bytes": 3284,
+      "sha256": "ba5b249f56bf7aeb656018ad5c3245575a88fc2f93c5997cd4ad4762dde33df9"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/demo_A_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/demo_B_listening.json",
+      "bytes": 1861,
+      "sha256": "8c3704390e7670ea980c7a13793c1438ee4e832d661961efb3d31a8d226b1f66"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/demo_B_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/inner_note_structure.png",
+      "bytes": 100993,
+      "sha256": "4771d0288d89dd446a49bf43b74b9e2aebefd0e741da8fd547d1ba2f6d2210e7"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/lanes_returned.txt",
+      "bytes": 49,
+      "sha256": "ee630ad0bdfa2bafea4384321815252ef7ae97574ab72a9202f9f8a6bbf94e65"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/native_patches.tsv",
+      "bytes": 2792,
+      "sha256": "3fd85e9d5932fdce657b5d0e7db2ea6718e7af462b6474624881eb4219b64b5e"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/plugin_1.tsv",
+      "bytes": 52709,
+      "sha256": "d88d2268c7dd781c3f9b5e1b7737766dc4d187d9ef38cfbcb142794cf8cd91cc"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/plugin_2.tsv",
+      "bytes": 8611,
+      "sha256": "e9cd28d515ca4e45a4757f3263220e0e21d546119aab33eb98edb26520b65de8"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/print_calibration.json",
+      "bytes": 1255,
+      "sha256": "88ba61f48d30f8a4c0021e49721d80acd5f5173ab48497aa749168a30bb5c8c2"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/reference_listening.json",
+      "bytes": 4313,
+      "sha256": "04dcfdc9f7be876493ebd152288cc7069e4d13ef11580ce341071ea7175ee7ab"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/reference_measurements.json",
+      "bytes": 2477,
+      "sha256": "63d8f26e47e32cc3f7b9171cf4857c3cec6ca519b045683184e72df2bfcc4a8f"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/reference_sources.json",
+      "bytes": 2307,
+      "sha256": "a0f53347537102f6acd92cee0da10197acab12f652e11666d4aaa4164e29c6c1"
+    },
+    {
+      "path": "productions/long-line-v9-study/Audit/texture_render_returned.txt",
+      "bytes": 22,
+      "sha256": "a6b2d1d8e4ea0c365abb4b26d77d352453a5e5be0ba65843c75381a45fbb007f"
+    },
+    {
+      "path": "productions/long-line-v9-study/COMPOSITION_AUDIT.md",
+      "bytes": 7717,
+      "sha256": "34f1b89166fc0ebf3967447cedc410daa4fb53c40b77ebe207a355fe817f1d59"
+    },
+    {
+      "path": "productions/long-line-v9-study/Long Line - Inner Detail B.rpp",
+      "bytes": 6586,
+      "sha256": "60d5fd3e76b51f9e76b32d1000e3ec4e1829d91dc88a0bc10967fe60b2521da8"
+    },
+    {
+      "path": "productions/long-line-v9-study/Media/01_v8_scaffold_excerpt.flac",
+      "bytes": 13609361,
+      "sha256": "b982dcf6b247bda6e64f37ac35fbd5a34066e6486c22e9a983918ed734952085"
+    },
+    {
+      "path": "productions/long-line-v9-study/Media/02_Inner_lane_0.flac",
+      "bytes": 5972987,
+      "sha256": "df33f64ce1fc4d19b88440773cfb429ef781824334407d6a3ce5c811757aa336"
+    },
+    {
+      "path": "productions/long-line-v9-study/Media/03_Inner_lane_1.flac",
+      "bytes": 7466950,
+      "sha256": "910f2e894b2d88844b9f57b14af115b1e7b97b41019fbe96c96cc4dbb31324b9"
+    },
+    {
+      "path": "productions/long-line-v9-study/Media/04_Inner_lane_2.flac",
+      "bytes": 6818902,
+      "sha256": "00a77543ed5de29ecc107feeab1226711557093791c95f3a822a30d5033272ed"
+    },
+    {
+      "path": "productions/long-line-v9-study/Media/05_Inner_lane_3.flac",
+      "bytes": 7766102,
+      "sha256": "5295f290dbd25bba6f8459bdc7a6f6308d29a0bb40e4d7abd7296ff4621d63d2"
+    },
+    {
+      "path": "productions/long-line-v9-study/Media/06_Inner_texture.flac",
+      "bytes": 11068992,
+      "sha256": "aa56631d06d64b09842391e85820d5396fc5633622639f7bf26b6b3b9889fd73"
+    },
+    {
+      "path": "productions/long-line-v9-study/README.md",
+      "bytes": 3349,
+      "sha256": "fb2d3a26578824d46be48b2ee019f38b83de358bcb18e94a10fe98129617f09e"
+    },
+    {
+      "path": "productions/long-line-v9-study/Renders/Diagnostic - scaffold inner blend.mp3",
+      "bytes": 1153581,
+      "sha256": "d1b0df8e8eb5f7367dfb7e6953ca054911f57ca6906cf096c6460390378da5b3"
+    },
+    {
+      "path": "productions/long-line-v9-study/Renders/Inner arrangement - exposed.mp3",
+      "bytes": 3073581,
+      "sha256": "d0017cce29e0c544023aa4aba1d13fca831f097529103857f9bdb35ef94b0e6d"
+    },
+    {
+      "path": "productions/long-line-v9-study/Renders/Long Line - Inner Detail - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "0f2167f38e2ae8fe605fd366e6bfc8928f68bfe6ae41891853e1bd18969f3932"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/build_demo.lua",
+      "bytes": 2235,
+      "sha256": "97b89a3d72b4843ae841369e5ec52eda70b5cd84d34d493321daa729d2724f3e"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/build_demo_b.lua",
+      "bytes": 2254,
+      "sha256": "109b29f900bac0072d7e304d69c39707243f20c2e7ba57f47a231f77c1614115"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/demo_notes.lua",
+      "bytes": 22484,
+      "sha256": "e98258567476a2320d9f771cadf52e028ebb6eeef6e4bb8ee86400c66b7231cb"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/plot_structure.py",
+      "bytes": 1693,
+      "sha256": "64e317b50ff3b627b7e8559459146912e5b3e4dcaa43ab3477dd4f7e6b59bc6b"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/prepare_demo.py",
+      "bytes": 2259,
+      "sha256": "7ec4f19ad7c33ccdb7cc020a9cc10da2b415955dcbc9fa91902620dc3a3dc58d"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/print_lanes.lua",
+      "bytes": 982,
+      "sha256": "587684d9f563c8b7be804d01c5c29ee2d3c483ca679b0f2a02d391caa50a1bfd"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/probe.lua",
+      "bytes": 756,
+      "sha256": "02d793cd676054b1857a2e2fbed0da504f6e4d39758aa5fa812ed48d61c27743"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/reference_analysis.py",
+      "bytes": 1673,
+      "sha256": "309e579fa56482caa3cf78f0ab6c19598dd9df4a9b53cd80194ba37eda5a4c70"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/render_instruments.lua",
+      "bytes": 3005,
+      "sha256": "7c399b4a1e99e39525680534c49113a69f210b119a2372038d7588fb7afcee4c"
+    },
+    {
+      "path": "productions/long-line-v9-study/Scripts/verify_demo.py",
+      "bytes": 3101,
+      "sha256": "d7b760b8829e5ab66a3ce3e11d160943f4655754d98ea61942d48a8072abe100"
+    },
+    {
+      "path": "productions/long-line-v9-study/Texture Instruments.rpp",
+      "bytes": 72138,
+      "sha256": "2606eee523d2fb0b0e056440369c370cde64eac027124a073326e485bfad28a3"
+    },
+    {
+      "path": "productions/long-line-v9-study/texture.json",
+      "bytes": 917613,
+      "sha256": "f483b0de378a7e3d1cc12e18d5c34281d12b24b34528add48a8a4590207aabdb"
+    },
+    {
+      "path": "productions/long-line-v9-study/texture.mid",
+      "bytes": 36729,
+      "sha256": "f712d9cd2837abb781b90760b36f3fefd045a5cfec91b139aaf2ffbaebe3caec"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/QA.json",
+      "bytes": 324,
+      "sha256": "b547e83201b323359de161f04988ea4009333db2eaf24710155fa48b4a857b0f"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/README.md",
+      "bytes": 25458,
+      "sha256": "67c828d13da60e4ea374a1eb5634481edcaee3cf0865e8179a166ff90e931491"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/build_protocol.py",
+      "bytes": 7837,
+      "sha256": "794555c656b1ccec366350e8ee1a4efa1aa8f136c32d08cbf0820a7f82628074"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/corpus_statistics.json",
+      "bytes": 4976,
+      "sha256": "c0ae2860cc42d0beccc92314bd1660f0e2899cf728e42b7779ec00eab9c42c4f"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/common_tone_clarity.json",
+      "bytes": 3814,
+      "sha256": "8152c33205c33bfdfdf0cefb2ed846a95b9dfd7ab01c4a57f09dc87b927fa878"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/common_tone_clarity.mid",
+      "bytes": 470,
+      "sha256": "15cb5542535098b2b1356f78cec8e0f55acb6fc9d91f45e4650bf7bfc3d14b30"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/low_beating_field.json",
+      "bytes": 3194,
+      "sha256": "c4d941acdecab59198f8d99d3a69a4a212dfe8ff32ca57daad5db4fef2ea9c1c"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/low_beating_field.mid",
+      "bytes": 433,
+      "sha256": "c1ae5f39de337f8abc333c12c61c7713125ccb94ccdcc94a49abbc91cb082010"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/mirages_pressure.json",
+      "bytes": 3461,
+      "sha256": "3d61f29ff4acd04f0e67baba5e362e8c5cb9a26c4840785b1a6ad85d8dc533ca"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/mirages_pressure.mid",
+      "bytes": 496,
+      "sha256": "7e76f107019d05b73ddfe8582201c930d8c4da383d8f498f64e2c0198925d272"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/radio_suspended.json",
+      "bytes": 4820,
+      "sha256": "9ebd90d1fe86b51099c85063f7ee9eba5af050cf699da0d9153fdbe774eb279c"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/radio_suspended.mid",
+      "bytes": 507,
+      "sha256": "48a06e6b41d7a8eb1ea18acf372fb04c1d60fd23f364e8458f3862f45eaaec8b"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/validation.json",
+      "bytes": 1344,
+      "sha256": "6197002eebb9332b28e45e689e3dd389905b879df17ffccc23f3ce59efe81ac5"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/harmony_tool.py",
+      "bytes": 11118,
+      "sha256": "6836239457ebc4237e98caf5bd768bc1faca08fe1de8b9a0d9d242e28aef388e"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/make_examples.py",
+      "bytes": 846,
+      "sha256": "827a8bd4e64ddf0966e7537384ed896f75029472d84e8ff5fa7ed5b102f04aaf"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/protocol.json",
+      "bytes": 13443,
+      "sha256": "02b262c2bf1ef8ceef800cf6ce3db88605ccf1a612cd60f4430a71d1eef85501"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/test_harmony_tool.py",
+      "bytes": 3709,
+      "sha256": "8bf5ac70734d652405a051c9ac003a831673761193a617883084ca3b4f2fa9b1"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 7520,
+      "sha256": "955800bc3802780f83745f711f1f4cc511e3112f87438e54b5977db1ab58a60a"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/refine_voicing.py",
+      "bytes": 3281,
+      "sha256": "ac9ac9577af9ee1d2b854be80cc7fb6ce1ef15f90e7d3b6524f15f15ff0f9972"
+    },
+    {
+      "path": "tools/melodic_weave/test_melody_tool.py",
+      "bytes": 3207,
+      "sha256": "6ace39228aba48535ed9df6b9aada3486413a0d62e1d01a9014eafeb5a1fde80"
+    },
+    {
+      "path": "tools/melodic_weave/test_refine_voicing.py",
+      "bytes": 1645,
+      "sha256": "6800c1cddb3af1171a92745aba92915f84d6cf49eeac60230abe5dcb0c051e86"
+    },
+    {
+      "path": "tools/melodic_weave/test_texture_weave.py",
+      "bytes": 3157,
+      "sha256": "5c4b868c6ccd2ac5c88f391b3b5c771bb8536f3d506d423f1a2e3a89fd42ba4f"
+    },
+    {
+      "path": "tools/melodic_weave/texture_weave.py",
+      "bytes": 8725,
+      "sha256": "2f36c0535bf6a690ebd291e2123897d2637539c4c0cd95eac17d3f77bb7aaa48"
+    }
+  ]
+}
