@@ -1,0 +1,239 @@
+{
+  "revision": "70e53bad7856047b20410aaba343ffb01909d43f",
+  "verified_at_utc": "2026-09-27T21:07:09.690613+00:00",
+  "access_mode": "Anonymous HTTPS, no authentication headers",
+  "manifest_sha256": "17287f7b89445bdc07590c132c28f440192b6c194179e792f478e44fcf5eba6a",
+  "status": "All 46 files verified byte-for-byte from exact remote revision",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3144,
+      "sha256": "116035a43686d5686dca20b1fd6eb9d1d35698d044918c683bfeb7d17d7a4b8b"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/QA.json",
+      "bytes": 880,
+      "sha256": "ce7723d0261caa44bf8bcb165eb59be36bc0ed5b5c626b5015a666f0009e6623"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/QA_B.json",
+      "bytes": 879,
+      "sha256": "4880be3677e7a61b5b1eaf7b5aa27d72ba4126ec4e8bfb3680e254d0ad47e5de"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/bed_sources.json",
+      "bytes": 341,
+      "sha256": "dc5785d72366df382664c87bfc8b2c6606174a23a0ac83ace42c1bb6749fc046"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/blend_B_effects.tsv",
+      "bytes": 1006,
+      "sha256": "018c03e586a32b76f09324224a1c2b25e6966174624bd9abde99503fe8838c36"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/blend_B_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/blend_effects.tsv",
+      "bytes": 689,
+      "sha256": "6bfc029b139af00fa5d5ca05dbfb1fbfb5309a9ce90e77091c724339dcddf8b8"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/blend_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/flow_B_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/flow_structure.json",
+      "bytes": 6638,
+      "sha256": "44f46ac5dad6b7e7e5c3e194530fc0e7dd0573f74500b5fcfb984e274610d9bb"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/lanes_returned.txt",
+      "bytes": 49,
+      "sha256": "ee630ad0bdfa2bafea4384321815252ef7ae97574ab72a9202f9f8a6bbf94e65"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/native_patches.tsv",
+      "bytes": 2793,
+      "sha256": "d921f569a669c947b184555b9a6fcaf0a772dfd3903e7b07c9471f84989dcde6"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/print_calibration.json",
+      "bytes": 1182,
+      "sha256": "8a416683f68a1e36af0c24ce977ae02a587740048f807c6ab221003d14e0deab"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/spectral_balance.json",
+      "bytes": 376,
+      "sha256": "8ce7f23aa75e9ce773cff69ff0bb565678d8334a3500a5b758e54f4a1517e560"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Audit/texture_render_returned.txt",
+      "bytes": 22,
+      "sha256": "a6b2d1d8e4ea0c365abb4b26d77d352453a5e5be0ba65843c75381a45fbb007f"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Listening/100-flow-A-review.json",
+      "bytes": 827,
+      "sha256": "b7b6cf3898aaa64e47c06dd864fc988329c3b5a8ca1cafe2c0c8c1502b0494d0"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Long Line - Continuous Flow B.rpp",
+      "bytes": 9648,
+      "sha256": "cf7444be05afd487b7973739a3d24bf855a7f1bd23d256e2ee9e889dfaf54ba6"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Long Line - Continuous Flow.rpp",
+      "bytes": 8995,
+      "sha256": "e54f5546b1be668efa3b8290671583ff107112473bf8d1af7def9b40b70cecef"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Media/01_Nature_bed.flac",
+      "bytes": 15621849,
+      "sha256": "1d0535ddbd70b4c39053e4f0f92acef66a7adae62ecda058971631db3c3ce8c5"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Media/02_Inner_lane_0.flac",
+      "bytes": 6066933,
+      "sha256": "3e39215a483920c9c563d0655c4e04c6d200a657085444b90cc0b64c4147445b"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Media/03_Inner_lane_1.flac",
+      "bytes": 7117705,
+      "sha256": "9e73c26896fb0b79798234a4036ec6e6cb484f137d8f82618df59d844bc91ae8"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Media/04_Inner_lane_2.flac",
+      "bytes": 5636872,
+      "sha256": "9b4aff24c285cbfc6239e1e8c6aad04605dad10bffb35a7cc2d62a9ad5348f08"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Media/05_Inner_lane_3.flac",
+      "bytes": 7333199,
+      "sha256": "15c5d299de5a09cc28d438d90d3e77d4fc8bf160161cbd2748ea62528067d394"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Media/06_Inner_texture.flac",
+      "bytes": 10636617,
+      "sha256": "2e956eb8bbb03355a116044c071a7ea7afc104f9923cf97f2bedc35e708373d7"
+    },
+    {
+      "path": "productions/long-line-v10-flow/README.md",
+      "bytes": 5484,
+      "sha256": "751fb6f955bba549f1fe612ea87dbc9e07a4cfae754792d514ab4a45a4a0bd95"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Renders/Long Line - Continuous Flow - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "477ca1fc5382718a3e73f493c2bcefe79039fb7d9324defbcda6c38da91ed588"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Renders/Long Line - Continuous Flow B - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "7442609616f514277f0264aa38effee2f01f81fa90752daf88ebf65a076eb1d2"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/build_blend.lua",
+      "bytes": 3028,
+      "sha256": "b7789b3464beab10a9d638cdc15f614a97c0ed9b4f91413ce8b7dd7f38a4fbf8"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/build_flow_b.lua",
+      "bytes": 3590,
+      "sha256": "db49e04e5c0aa435bb8bf629ccc0f709ea23b60282d9f23669070243b1d9d230"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/demo_notes.lua",
+      "bytes": 38391,
+      "sha256": "2cee5eca8610ba417528245723f6f096928a0c5eed7fa61122b1b4c0af2ac699"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/prepare_demo.py",
+      "bytes": 1924,
+      "sha256": "d94756ad4e3981a41c27a9c7ec8d022cb28b5240a58b1514f14a447fb739f43a"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/print_lanes.lua",
+      "bytes": 1012,
+      "sha256": "385248df40996150ec579163356950eea3d2a141fcc9c0987a32e2a2b99ae8ed"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/render_instruments.lua",
+      "bytes": 3031,
+      "sha256": "606406e0312fdf9e1f86730a9c69a95ea06593d59ca1ad4a1cecadc34bf39c96"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/verify_flow.py",
+      "bytes": 1556,
+      "sha256": "a2ad4b052aa136cb7f53a437db1af207679d3e561dda81f125ed4d74bd53de43"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Scripts/verify_flow_b.py",
+      "bytes": 1566,
+      "sha256": "ad77678b253ec856bd21e63acbf92d9198e4feb6b11acf0bfee399239b74ac43"
+    },
+    {
+      "path": "productions/long-line-v10-flow/Texture Instruments.rpp",
+      "bytes": 98710,
+      "sha256": "8105a9315ac35b7bbebeb0a68d896b901025442737b38f2f3310861a23d40ca7"
+    },
+    {
+      "path": "productions/long-line-v10-flow/texture.json",
+      "bytes": 1249867,
+      "sha256": "9d4a45587d5025b37776d5016db971da4d4509990879bd04922f5d5e305a2e02"
+    },
+    {
+      "path": "productions/long-line-v10-flow/texture.mid",
+      "bytes": 55710,
+      "sha256": "b4fd842e713ff5d18ff9aa1b3972477c0f7c6c9cc399804cd224ef8910d8da6f"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "productions/long-line-v6/harmony.json",
+      "bytes": 7387,
+      "sha256": "2e95cb2fc0e472aaad2dc9405976edc5cba8cce315ee1c5f012fa9c8049ed2bc"
+    },
+    {
+      "path": "productions/long-line-v8/weave.json",
+      "bytes": 58482,
+      "sha256": "5b116a0239a59347e867bec1e915a9285c1f27135bc1cad724d416d26ad53b55"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 8863,
+      "sha256": "4d1ca2110af20b64028b85043d14fd226fab01ef2641d25d6e42470fe943f4da"
+    },
+    {
+      "path": "tools/melodic_weave/continuous_field.py",
+      "bytes": 4247,
+      "sha256": "3221c4dca58f0dc8f44491a0f2caf4fce3f5018f09cace80aa5d76381eb0d0ea"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/test_continuous_field.py",
+      "bytes": 1934,
+      "sha256": "74caaf6137e6ded7f0164336b4e8dd9805e7ff0c62fe419f7fab15df18da3aa2"
+    },
+    {
+      "path": "tools/melodic_weave/texture_weave.py",
+      "bytes": 8725,
+      "sha256": "2f36c0535bf6a690ebd291e2123897d2637539c4c0cd95eac17d3f77bb7aaa48"
+    }
+  ]
+}
