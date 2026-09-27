@@ -118,13 +118,13 @@
     },
     {
       "path": "tools/melodic_weave/melody_tool.py",
-      "bytes": 8491,
-      "sha256": "6dbc7250cdae569dc3c861c76d7707b8fae5cd807cb4b4b7c59ef1e64059271d"
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
     },
     {
       "path": "tools/melodic_weave/README.md",
-      "bytes": 4167,
-      "sha256": "cd1841560f3061a6b93dd8c14eecb788723885677f7114ed775c7c51cc2b5c2a"
+      "bytes": 4250,
+      "sha256": "b2b27263432dc0a25d82bad976893da16417bd951eae348d4f150263e8ba8db2"
     },
     {
       "path": "tools/melodic_weave/test_melody_tool.py",

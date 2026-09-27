@@ -46,7 +46,7 @@ def generate(harmony,seed=260927,change_range=(1.8,3.3),cells=None,friction_pc=1
             target=cell[step%len(cell)];step+=1
             if op=='register_exchange' and step%3==1:target-=12
         else:
-            # Contrary response to the preceding foreground move, with own register.
+            # Alternating bounded inner motion within an independent register.
             direction=-1 if (k//3+voice)%2 else 1
             target=previous+direction*(2 if k%3 else 5)
         m=min(pool,key=lambda m:(abs(m-target),abs(m-previous),m))
