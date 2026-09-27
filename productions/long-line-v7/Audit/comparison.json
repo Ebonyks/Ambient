@@ -1,0 +1,354 @@
+{
+  "evidence": "Existing reference-sample-derived half-second pitch-support trajectories, not newly auditioned audio or note transcription. Dominance changes include processing/masking; gaps across unresolved intervals are included. No universal two-second claim. Threshold sensitivity is descriptive, not a generator fit.",
+  "reference": [
+    {
+      "track": "radio_amor_01",
+      "register_bands": {
+        "48..64": {
+          "0.28": {
+            "supported_fraction": 0.559,
+            "accepted_prominence_changes": 25,
+            "change_gap_median_s": 2.75
+          },
+          "0.4": {
+            "supported_fraction": 0.432,
+            "accepted_prominence_changes": 13,
+            "change_gap_median_s": 3.75
+          },
+          "0.55": {
+            "supported_fraction": 0.31,
+            "accepted_prominence_changes": 7,
+            "change_gap_median_s": 13.5
+          }
+        },
+        "65..83": {
+          "0.28": {
+            "supported_fraction": 0.792,
+            "accepted_prominence_changes": 37,
+            "change_gap_median_s": 6.25
+          },
+          "0.4": {
+            "supported_fraction": 0.726,
+            "accepted_prominence_changes": 35,
+            "change_gap_median_s": 5.75
+          },
+          "0.55": {
+            "supported_fraction": 0.657,
+            "accepted_prominence_changes": 30,
+            "change_gap_median_s": 6.0
+          }
+        }
+      }
+    },
+    {
+      "track": "radio_amor_04",
+      "register_bands": {
+        "48..64": {
+          "0.28": {
+            "supported_fraction": 0.897,
+            "accepted_prominence_changes": 55,
+            "change_gap_median_s": 2.5
+          },
+          "0.4": {
+            "supported_fraction": 0.855,
+            "accepted_prominence_changes": 41,
+            "change_gap_median_s": 2.25
+          },
+          "0.55": {
+            "supported_fraction": 0.808,
+            "accepted_prominence_changes": 27,
+            "change_gap_median_s": 2.5
+          }
+        },
+        "65..83": {
+          "0.28": {
+            "supported_fraction": 0.368,
+            "accepted_prominence_changes": 2,
+            "change_gap_median_s": 144.5
+          },
+          "0.4": {
+            "supported_fraction": 0.23,
+            "accepted_prominence_changes": 1,
+            "change_gap_median_s": null
+          },
+          "0.55": {
+            "supported_fraction": 0.095,
+            "accepted_prominence_changes": 0,
+            "change_gap_median_s": null
+          }
+        }
+      }
+    },
+    {
+      "track": "radio_amor_09",
+      "register_bands": {
+        "48..64": {
+          "0.28": {
+            "supported_fraction": 0.566,
+            "accepted_prominence_changes": 12,
+            "change_gap_median_s": 1.5
+          },
+          "0.4": {
+            "supported_fraction": 0.565,
+            "accepted_prominence_changes": 12,
+            "change_gap_median_s": 1.5
+          },
+          "0.55": {
+            "supported_fraction": 0.561,
+            "accepted_prominence_changes": 11,
+            "change_gap_median_s": 1.75
+          }
+        },
+        "65..83": {
+          "0.28": {
+            "supported_fraction": 0.0,
+            "accepted_prominence_changes": 0,
+            "change_gap_median_s": null
+          },
+          "0.4": {
+            "supported_fraction": 0.0,
+            "accepted_prominence_changes": 0,
+            "change_gap_median_s": null
+          },
+          "0.55": {
+            "supported_fraction": 0.0,
+            "accepted_prominence_changes": 0,
+            "change_gap_median_s": null
+          }
+        }
+      }
+    },
+    {
+      "track": "mirages_04",
+      "register_bands": {
+        "48..64": {
+          "0.28": {
+            "supported_fraction": 0.739,
+            "accepted_prominence_changes": 19,
+            "change_gap_median_s": 4.0
+          },
+          "0.4": {
+            "supported_fraction": 0.588,
+            "accepted_prominence_changes": 12,
+            "change_gap_median_s": 3.5
+          },
+          "0.55": {
+            "supported_fraction": 0.482,
+            "accepted_prominence_changes": 5,
+            "change_gap_median_s": 1.25
+          }
+        },
+        "65..83": {
+          "0.28": {
+            "supported_fraction": 0.438,
+            "accepted_prominence_changes": 18,
+            "change_gap_median_s": 9.5
+          },
+          "0.4": {
+            "supported_fraction": 0.309,
+            "accepted_prominence_changes": 10,
+            "change_gap_median_s": 8.5
+          },
+          "0.55": {
+            "supported_fraction": 0.193,
+            "accepted_prominence_changes": 0,
+            "change_gap_median_s": null
+          }
+        }
+      }
+    },
+    {
+      "track": "mirages_07",
+      "register_bands": {
+        "48..64": {
+          "0.28": {
+            "supported_fraction": 0.829,
+            "accepted_prominence_changes": 26,
+            "change_gap_median_s": 2.0
+          },
+          "0.4": {
+            "supported_fraction": 0.695,
+            "accepted_prominence_changes": 22,
+            "change_gap_median_s": 2.5
+          },
+          "0.55": {
+            "supported_fraction": 0.505,
+            "accepted_prominence_changes": 13,
+            "change_gap_median_s": 2.75
+          }
+        },
+        "65..83": {
+          "0.28": {
+            "supported_fraction": 0.458,
+            "accepted_prominence_changes": 11,
+            "change_gap_median_s": 4.5
+          },
+          "0.4": {
+            "supported_fraction": 0.387,
+            "accepted_prominence_changes": 8,
+            "change_gap_median_s": 6.5
+          },
+          "0.55": {
+            "supported_fraction": 0.279,
+            "accepted_prominence_changes": 5,
+            "change_gap_median_s": 15.0
+          }
+        }
+      }
+    },
+    {
+      "track": "mirages_11",
+      "register_bands": {
+        "48..64": {
+          "0.28": {
+            "supported_fraction": 0.961,
+            "accepted_prominence_changes": 137,
+            "change_gap_median_s": 3.0
+          },
+          "0.4": {
+            "supported_fraction": 0.944,
+            "accepted_prominence_changes": 128,
+            "change_gap_median_s": 3.0
+          },
+          "0.55": {
+            "supported_fraction": 0.908,
+            "accepted_prominence_changes": 111,
+            "change_gap_median_s": 3.5
+          }
+        },
+        "65..83": {
+          "0.28": {
+            "supported_fraction": 0.175,
+            "accepted_prominence_changes": 8,
+            "change_gap_median_s": 3.5
+          },
+          "0.4": {
+            "supported_fraction": 0.14,
+            "accepted_prominence_changes": 4,
+            "change_gap_median_s": 4.0
+          },
+          "0.55": {
+            "supported_fraction": 0.106,
+            "accepted_prominence_changes": 2,
+            "change_gap_median_s": 22.0
+          }
+        }
+      }
+    }
+  ],
+  "new_score": {
+    "event_count": 123,
+    "upper_phrase_sequences": {
+      "0": [
+        69,
+        71,
+        74
+      ],
+      "1": [
+        71,
+        74,
+        71,
+        69
+      ],
+      "2": [
+        74,
+        71,
+        76,
+        69
+      ],
+      "3": [
+        62,
+        71,
+        62,
+        74
+      ],
+      "4": [
+        71,
+        69,
+        71
+      ],
+      "5": [
+        66
+      ],
+      "6": [
+        67,
+        71,
+        74
+      ],
+      "7": [
+        71,
+        72
+      ],
+      "8": [
+        71,
+        72,
+        71
+      ],
+      "9": [
+        72,
+        71,
+        76,
+        71
+      ],
+      "10": [
+        62,
+        64,
+        71,
+        62
+      ],
+      "11": [
+        74,
+        71,
+        70
+      ],
+      "12": [
+        71,
+        70,
+        65
+      ],
+      "13": [
+        70,
+        71,
+        74
+      ],
+      "14": [
+        69,
+        71,
+        74,
+        71
+      ],
+      "16": [
+        64,
+        62
+      ]
+    },
+    "unique_upper_sequences": 16,
+    "median_source_change_gap_s": 2.4780000000000015,
+    "gap_10_90_percentile_s": [
+      1.9970000000000085,
+      4.578800000000003
+    ],
+    "validation": {
+      "passed": true,
+      "errors": [],
+      "max_source_polyphony": 5,
+      "meaning": "Construction validation only; tails can increase acoustic density"
+    }
+  },
+  "baseline": {
+    "complete_arch_statements": 7,
+    "literal_pitch_sequence_variants": 1,
+    "sequence": [
+      69,
+      71,
+      74,
+      71,
+      69,
+      64,
+      62
+    ],
+    "source": "v6 phrase_map.json and Audit/baseline_score.json; three source-timing variants share one pitch sequence",
+    "body_source_events": 19,
+    "harmonic_states": 7
+  }
+}

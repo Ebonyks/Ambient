@@ -28,3 +28,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 ## Original production in progress
 
 [Long Line — 5:36 full-length study draft](productions/long-line-v6/README.md): editable REAPER session, source media, synthesis and harmony audit, listening log and production-impact journal.
+
+[Long Line v7 - Moving Voices](productions/long-line-v7/README.md): faster staggered voicing and a reusable [melody tool](tools/melodic_weave/README.md), with reference comparison and a new 5:36 REAPER render.

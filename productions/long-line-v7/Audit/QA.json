@@ -1,0 +1,73 @@
+{
+  "checks": [
+    {
+      "suite": "tools/melodic_weave",
+      "returncode": 0,
+      "output": "test_100_seeds_have_valid_bounded_overlap (test_melody_tool.MelodyTests) ... ok\ntest_anchor_is_tied_across_identical_states (test_melody_tool.MelodyTests) ... ok\ntest_bad_inputs (test_melody_tool.MelodyTests) ... ok\ntest_custom_cells_and_friction_controls (test_melody_tool.MelodyTests) ... ok\ntest_development_is_not_seven_identical_arches (test_melody_tool.MelodyTests) ... ok\ntest_fields_do_not_reset_whole_ensemble (test_melody_tool.MelodyTests) ... ok\ntest_midi_note_lifecycle_and_bends (test_melody_tool.MelodyTests) ... ok\ntest_reject_invalid_timing_and_density (test_melody_tool.MelodyTests) ... ok\ntest_seed_reproducibility_and_variation (test_melody_tool.MelodyTests) ... ok\ntest_tied_notes_not_retriggered (test_melody_tool.MelodyTests) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 0.163s\n\nOK\n"
+    },
+    {
+      "suite": "protocols/hecker-harmony-v1",
+      "returncode": 0,
+      "output": "test_all_profiles_across_seeds (test_harmony_tool.ProtocolTests) ... ok\ntest_cadential_default_rejected (test_harmony_tool.ProtocolTests) ... ok\ntest_deterministic (test_harmony_tool.ProtocolTests) ... ok\ntest_false_common_tone_declaration_rejected (test_harmony_tool.ProtocolTests) ... ok\ntest_injected_third_rejected_in_open_fifth (test_harmony_tool.ProtocolTests) ... ok\ntest_low_pair_requires_context (test_harmony_tool.ProtocolTests) ... ok\ntest_major_is_permitted (test_harmony_tool.ProtocolTests) ... ok\ntest_midi_balanced_events_and_duration (test_harmony_tool.ProtocolTests) ... ok\ntest_nonfinite_time_rejected (test_harmony_tool.ProtocolTests) ... ok\ntest_unlisted_harmony_rejected (test_harmony_tool.ProtocolTests) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 0.154s\n\nOK\n"
+    }
+  ],
+  "score_matches_renderer_input_events": true,
+  "score_validation": {
+    "passed": true,
+    "errors": [],
+    "max_source_polyphony": 5,
+    "meaning": "Construction validation only; tails can increase acoustic density"
+  },
+  "media": [
+    {
+      "relative_project_path": "../long-line-v6/Media/01_Anchor_bypasses_drive.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "08a06b60b27c7d0d02959633b7da566e6fddc8d0e96f575879d536875c117aa4"
+    },
+    {
+      "relative_project_path": "Media/02_Moving_inner_voices.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "ea652f4ef30ce727520d21a6da09b369b61c679329614bfe354d9fca4fe3f21e"
+    },
+    {
+      "relative_project_path": "Media/03_Developing_foreground.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "c8e2f56032edfed2fc3077e6677f4e191776aee67aac82ea961b1fa5fabcc8fc"
+    },
+    {
+      "relative_project_path": "Media/04_Eroded_melodic_return.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "c64a830046f34afdcb52a9a6ac2d0e8a7425ed692f0c27eb40b7d5f8db6ca8bd"
+    },
+    {
+      "relative_project_path": "Media/05_Independent_distorted_body.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "678ba0912d46b6819b5448ff2976252c4bee6265eb2966506747d684d7e4edd2"
+    },
+    {
+      "relative_project_path": "Media/06_Source_residue.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "f30bbb7131607407277b1670c2c49ae2ff8355026bd34f23dd453cffa05a14fa"
+    },
+    {
+      "relative_project_path": "../long-line-v6/Media/07_Water.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "b1a73487cdea40bec9101ab8fd8b2afb8ffbaf6594130a50b4d1ffcf63da5a5c"
+    },
+    {
+      "relative_project_path": "../long-line-v6/Media/08_Wood_air.flac",
+      "frames": 16128000,
+      "sample_rate": 48000,
+      "sha256": "e06c37041b1db50eb20461039dda620db750ac5623af4590ef35fefd6b4152a6"
+    }
+  ],
+  "artistic_status": "Review draft, not accepted; reference spectral data and Gemini do not prove artist likeness",
+  "native_render": "Audit/render_verification.json"
+}

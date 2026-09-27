@@ -1,0 +1,67 @@
+{
+  "input_i": "-19.28",
+  "input_tp": "-8.86",
+  "input_lra": "2.10",
+  "input_thresh": "-29.40",
+  "output_i": "-19.67",
+  "output_tp": "-4.64",
+  "output_lra": "1.90",
+  "output_thresh": "-29.70",
+  "normalization_type": "dynamic",
+  "target_offset": "-0.33",
+  "duration_s": 336.0,
+  "sample_rate": 48000,
+  "peak": 0.3603118658065796,
+  "nonfinite_samples": 0,
+  "sha256": "bcaf42669f69d2af97fea9f641648c5f941ffab7d75d94b3f19ca81099760971",
+  "clips": [
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v7_024.wav",
+      "original_start_s": 24,
+      "rms_match_dbfs": -26,
+      "gain_db": -4.053954421830571
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v7_043.wav",
+      "original_start_s": 43,
+      "rms_match_dbfs": -26,
+      "gain_db": -4.0571700204355094
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v7_107.wav",
+      "original_start_s": 107,
+      "rms_match_dbfs": -26,
+      "gain_db": -3.952180658303605
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v7_165.wav",
+      "original_start_s": 165,
+      "rms_match_dbfs": -26,
+      "gain_db": -4.8866662982258715
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v7_248.wav",
+      "original_start_s": 248,
+      "rms_match_dbfs": -26,
+      "gain_db": -4.615434063692093
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v7_310.wav",
+      "original_start_s": 310,
+      "rms_match_dbfs": -26,
+      "gain_db": -3.9069176700434625
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v6_043.wav",
+      "original_start_s": 43,
+      "rms_match_dbfs": -26,
+      "gain_db": -1.8087494451909
+    },
+    {
+      "path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v7\\Listening\\v6_165.wav",
+      "original_start_s": 165,
+      "rms_match_dbfs": -26,
+      "gain_db": -3.7040927865490616
+    }
+  ]
+}
