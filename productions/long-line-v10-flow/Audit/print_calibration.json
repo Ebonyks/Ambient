@@ -1,0 +1,35 @@
+{
+  "lanes": [
+    {
+      "lane": 0,
+      "native_rms": 0.0015159195866033637,
+      "native_sha256": "0cddc07d93d04948073ba85a0009805d82e0d8a6fc0bb3d3c89fb20fb9937f86",
+      "gain_db": 17.97010163409088,
+      "normalized_rms": 0.012
+    },
+    {
+      "lane": 1,
+      "native_rms": 0.00045143904190891757,
+      "native_sha256": "7d07d73c371ffd68e71caabab9cf1bc12ea2a5feba90646becada77c88c9c1c9",
+      "gain_db": 28.49164260979537,
+      "normalized_rms": 0.012
+    },
+    {
+      "lane": 2,
+      "native_rms": 0.00205555119791487,
+      "native_sha256": "09ad4889ab76092b3aab6aa5ab4d01719c9635aaadf469ebd85edcffe0d3cdda",
+      "gain_db": 15.325058955204975,
+      "normalized_rms": 0.012
+    },
+    {
+      "lane": 3,
+      "native_rms": 0.0005508580739139415,
+      "native_sha256": "c8d271b9b13008e2021dd65fe0a9bdc98132fc8ab63f107168fe94a404d79665",
+      "gain_db": 26.762830535774164,
+      "normalized_rms": 0.012
+    }
+  ],
+  "texture_bus_rms_before_fader": 0.1,
+  "proposed_fader_db": -12.0412,
+  "note": "FB-3300 has no ordinary per-note velocity response; use envelopes, register and lane/bus gain. Tyrell velocity is enabled."
+}

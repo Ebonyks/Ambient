@@ -62,3 +62,7 @@ Default output: 2,698 inner notes plus 123 retained scaffold notes over 336 seco
 ## Optional context blend revision (v2.1)
 
 `python tools/melodic_weave/blend_texture.py input-texture.json --out revised-texture` checks inner voices against actual overlapping notes with a one-second release guard. It avoids added 1-2 semitone neighbors in the same register, retains the scaffold, and omits impossible notes. This is a conservative piece-specific experiment, not a universal harmony rule or an acoustic release simulation. The original v2 remains reproducible. See [rendered revision and limitations](../../productions/long-line-v9-blend/README.md). Four new regression tests bring melody/texture coverage to 26 tests.
+
+## Continuous field mode (v3)
+
+`python tools/melodic_weave/continuous_field.py --out my-flow` builds an original performance from Long Line's seven harmonic fields. Four nearly even clocks distribute pitch activity while register changes on a 150-second arc and neighboring harmonic weights cross over 24 seconds. The old foreground is retained only in JSON provenance, and excluded from performed MIDI notes. This mode replaces the foreground hierarchy rather than adding another background layer. Its pitch occupancy and constant velocity do not establish acoustic salience. See [rendered candidate, negative listening evidence and limitations](../../productions/long-line-v10-flow/README.md).

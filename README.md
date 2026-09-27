@@ -36,3 +36,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [Inner-note composition study](productions/long-line-v9-study/README.md): Melnyk/Fourman reference audit, new dense inner-pattern mode, eight-track MIDI and a 96-second TyrellN6/FB-3300 example with exposed-layer diagnostics.
 
 [Context blend revision](productions/long-line-v9-blend/README.md): softer analog patches, matching tape processing and context-aware inner voicing; revised integrated 96-second audition after the prior blend was rejected.
+
+[Continuous flow revision](productions/long-line-v10-flow/README.md): replaces the old melodic foreground with distributed continuous voicing, slow harmonic transitions and a revised 96-second audition. Candidate B remains pending listening acceptance.

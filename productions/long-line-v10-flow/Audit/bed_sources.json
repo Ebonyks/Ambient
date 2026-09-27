@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "source": "productions\\long-line-v6\\Media\\07_Water.flac",
+      "gain": 0.65
+    },
+    {
+      "source": "productions\\long-line-v6\\Media\\08_Wood_air.flac",
+      "gain": 0.5
+    }
+  ],
+  "normalization_gain": 19.55532474211027,
+  "note": "Only water and wood; no previous melodic scaffold."
+}
