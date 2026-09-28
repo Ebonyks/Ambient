@@ -1,0 +1,39 @@
+0	0	Input Channel	-32.00 %
+0	1	Delay Time Left	119.91 ms
+0	2	Delay Time Right	353.55 ms
+0	3	Feedback/EQ Feedback	40.00 %
+0	4	Feedback/EQ Crossfeed	28.60 %
+0	5	Feedback/EQ Low Cut	20.02 Hz
+0	6	Feedback/EQ High Cut	16.59 Hz
+0	7	Modulation Rate	0.01 Hz
+0	8	Modulation Depth	0.00 cents
+0	9	Output Width	-24.00 dB
+0	10	Output Mix	0.00 %
+0	11	- -	-
+0	12	FX Type	Tape
+1	0	Input Channel	-50.00 %
+1	1	Delay Time Left	143.59 ms
+1	2	Delay Time Right	295.25 ms
+1	3	Feedback/EQ Feedback	82.00 %
+1	4	Feedback/EQ Crossfeed	65.00 %
+1	5	Feedback/EQ Low Cut	13.75 Hz
+1	6	Feedback/EQ High Cut	403.48 Hz
+1	7	Modulation Rate	22.94 Hz
+1	8	Modulation Depth	100.00 cents
+1	9	Output Width	-16.32 dB
+1	10	Output Mix	50.00 %
+1	11	- -	-
+1	12	FX Type	Reverb 2
+2	0	Freq-Low Shelf	100.0
+2	1	Gain-Low Shelf	0.0
+2	2	BW-Low Shelf	0.80
+2	3	Freq-Band 2	350.0
+2	4	Gain-Band 2	-5.0
+2	5	BW-Band 2	2.20
+2	6	Freq-Band 3	1000.0
+2	7	Gain-Band 3	0.0
+2	8	BW-Band 3	2.00
+2	9	Freq-High Shelf 4	5000.0
+2	10	Gain-High Shelf 4	0.0
+2	11	BW-High Shelf 4	0.80
+2	12	Freq-High Pass 5	100.0

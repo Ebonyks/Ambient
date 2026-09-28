@@ -66,3 +66,7 @@ Default output: 2,698 inner notes plus 123 retained scaffold notes over 336 seco
 ## Continuous field mode (v3)
 
 `python tools/melodic_weave/continuous_field.py --out my-flow` builds an original performance from Long Line's seven harmonic fields. Four nearly even clocks distribute pitch activity while register changes on a 150-second arc and neighboring harmonic weights cross over 24 seconds. The old foreground is retained only in JSON provenance, and excluded from performed MIDI notes. This mode replaces the foreground hierarchy rather than adding another background layer. Its pitch occupancy and constant velocity do not establish acoustic salience. See [rendered candidate, negative listening evidence and limitations](../../productions/long-line-v10-flow/README.md).
+
+## Differentiated fast lines (v4)
+
+`python tools/melodic_weave/flowing_lines.py --out my-lines` replaces randomized common-register selection with four different persistent contour grammars, nominal rates four times v3, and an authored 12-second harmonic itinerary. It is intentionally scoped to this 336-second Long Line arrangement. Its performance MIDI omits the retained reference foreground. See [reference listening, native patches, mixed measurement evidence and draft](../../productions/long-line-v11-lines/README.md). MIDI rate is not perceptual speed; the new output remains pending owner review.

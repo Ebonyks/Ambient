@@ -38,3 +38,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [Context blend revision](productions/long-line-v9-blend/README.md): softer analog patches, matching tape processing and context-aware inner voicing; revised integrated 96-second audition after the prior blend was rejected.
 
 [Continuous flow revision](productions/long-line-v10-flow/README.md): replaces the old melodic foreground with distributed continuous voicing, slow harmonic transitions and a revised 96-second audition. Candidate B remains pending listening acceptance.
+
+[Differentiated fast-line revision](productions/long-line-v11-lines/README.md): fresh Parasol reference review, fourfold note activity, independent contour/register behavior and an explicit changing tonal itinerary; new 96-second draft pending owner listening.
