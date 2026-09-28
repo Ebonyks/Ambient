@@ -42,3 +42,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [Differentiated fast-line revision](productions/long-line-v11-lines/README.md): fresh Parasol reference review, fourfold note activity, independent contour/register behavior and an explicit changing tonal itinerary; new 96-second draft pending owner listening.
 
 [3.5-second tonal shifts](productions/long-line-v12-quick-shifts/README.md): shorter synth attack and more frequent harmonic changes, with the previous note flow, effects and gains preserved.
+
+[Upper-octave harmonies](productions/long-line-v13-octaves/README.md): intermittent one- and two-octave companions broaden the range while preserving the existing fast lines, 3.5-second harmony changes and mix.

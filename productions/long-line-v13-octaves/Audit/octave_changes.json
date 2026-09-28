@@ -1,0 +1,14 @@
+{
+  "full_score_added": 701,
+  "demo_added": 204,
+  "old_performance_range": [
+    48,
+    81
+  ],
+  "new_performance_range": [
+    48,
+    90
+  ],
+  "render_patch_unchanged": true,
+  "listening_model_calls": 0
+}
