@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 22,\n  \"harsh\": 32,\n  \"sibilant\": 0,\n  \"bright\": 74,\n  \"valence\": 5.5,\n  \"arousal\": 4.8,\n  \"mood\": \"playful\",\n  \"issues\": [\n    {\n      \"t_seconds\": 8.2,\n      \"desc\": \"Rapid ascending flourish sudden accent spikes treble energy heavily relative to the lower anchor notes\"\n    },\n    {\n      \"t_seconds\": 11.5,\n      \"desc\": \"High-density upper octave tremolo run dominates foreground, obscuring mid-register sustain continuity\"\n    },\n    {\n      \"t_seconds\": 17.4,\n      \"desc\": \"Abrupt interruption of high-register texture drops suddenly back into a sparse mid-low sustained chord\"\n    }\n  ],\n  \"overall\": \"The performance shifts dynamically from spacious mid-register chordal phrasing into dense, energetic high-octave flourishes before abruptly returning to low sustained harmonic anchors.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

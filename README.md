@@ -46,3 +46,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [Upper-octave harmonies](productions/long-line-v13-octaves/README.md): intermittent one- and two-octave companions broaden the range while preserving the existing fast lines, 3.5-second harmony changes and mix.
 
 [Phrase-weight revision](productions/long-line-v14-touch/README.md): distinct touch for every contour repetition, native lane automation, Fourman-guided tonal cleanup and a revised 96-second excerpt. Listening results remain inconclusive; 44 of the new 50 reviews remain.
+
+[Chest Pain technique study](studies/eric-fourman/chest-pain/TECHNIQUES.md): owner-confirmed main-line MIDI, three fresh recording excerpts, and phrase/voice-role principles for the next revision. 41 of the additional Google listens remain.

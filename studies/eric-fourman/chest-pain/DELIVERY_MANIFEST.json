@@ -1,0 +1,45 @@
+{
+  "scope": "Chest Pain technique distillation and reference review records; no artist audio or user screenshot redistributed",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4336,
+      "sha256": "ad5c407a3b66e75dc1527f28cb14dbf9779e8f419ae09277eb163f8462672a05"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/BUDGET.json",
+      "bytes": 709,
+      "sha256": "f661f5ce050a26bc040d448395117b6d1189d8badcc7585033ccc895624a4314"
+    },
+    {
+      "path": "studies/eric-fourman/chest-pain/LISTENING_BUDGET.json",
+      "bytes": 484,
+      "sha256": "1a8e656e88550dfeccb3595f7160b90fd05df44a2fe3a44f52e829a141f98199"
+    },
+    {
+      "path": "studies/eric-fourman/chest-pain/Listening/109.json",
+      "bytes": 956,
+      "sha256": "9c01f3b2da043d47dddf1cab4a7326f2daaa0f97b2fb8ecee07d5824a6bd8e80"
+    },
+    {
+      "path": "studies/eric-fourman/chest-pain/Listening/110.json",
+      "bytes": 1399,
+      "sha256": "ff4144870d46b7813403b65929b3a0fba3a6704e526dfe6b36dc2525e61e603e"
+    },
+    {
+      "path": "studies/eric-fourman/chest-pain/Listening/111.json",
+      "bytes": 1129,
+      "sha256": "a552acc66de1dc2ba515373f5a6767fd6fb2c8933fee2037f6d0414cbcaea4cc"
+    },
+    {
+      "path": "studies/eric-fourman/chest-pain/SOURCES.json",
+      "bytes": 1223,
+      "sha256": "46f1c4b05c632771a993d688dff6c4f4715ba187e055bfb349ef50660ae6ead2"
+    },
+    {
+      "path": "studies/eric-fourman/chest-pain/TECHNIQUES.md",
+      "bytes": 6141,
+      "sha256": "c1a33b50241744b002901d4a2b7f8dd6c85081dea1d0230e1d9ec2e7e491baa2"
+    }
+  ]
+}

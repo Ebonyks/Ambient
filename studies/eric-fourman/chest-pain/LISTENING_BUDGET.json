@@ -1,0 +1,30 @@
+{
+  "cumulative_successful": 111,
+  "new_allowance": 50,
+  "used_from_new_allowance": 9,
+  "remaining": 41,
+  "previous_ledger": "productions/long-line-v14-touch/Listening/BUDGET.json",
+  "this_study": [
+    {
+      "id": 109,
+      "window_s": [
+        40,
+        60
+      ]
+    },
+    {
+      "id": 110,
+      "window_s": [
+        160,
+        180
+      ]
+    },
+    {
+      "id": 111,
+      "window_s": [
+        320,
+        340
+      ]
+    }
+  ]
+}

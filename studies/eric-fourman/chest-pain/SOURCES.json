@@ -1,0 +1,33 @@
+{
+  "track": "https://ericfourman.bandcamp.com/track/chest-pain",
+  "duration_s": 397.8867120181406,
+  "source_sha256": "938776c39ca30333656d63b91f16b5e549fee5bf54c5b1d9bd06eac0941a1187",
+  "quality": "Artist public MP3-128 listening stream; reference only",
+  "excerpts": [
+    {
+      "start_s": 40,
+      "duration_s": 20,
+      "sha256": "a105de3a668e53005b246a18ecabf26e192d24961dc343cba8036305745c380f",
+      "file": "Chest Pain_40_20s.wav"
+    },
+    {
+      "start_s": 160,
+      "duration_s": 20,
+      "sha256": "d0e1b4c8049d4c7c5fb18910240cf41e4e79d63fa81ebbdee3f2470a14f5e876",
+      "file": "Chest Pain_160_20s.wav"
+    },
+    {
+      "start_s": 320,
+      "duration_s": 20,
+      "sha256": "21a362bfb55e25da477ab4c5fd472f91767aac1abd0a16e938be2dc09cab1456",
+      "file": "Chest Pain_320_20s.wav"
+    }
+  ],
+  "user_confirmed_main_line": {
+    "image_filename": "aJk9qYL.png",
+    "sha256": "6e2d6386642da141c43ff8dd12ca65864a42cd3d3c4f749590a92e103ac1227a",
+    "confirmation": "User confirms that the screenshot depicts the main line of Chest Pain. Adopted as project evidence.",
+    "image_redistributed": false
+  },
+  "checked_at_utc": "2026-09-28T01:28:50.356596+00:00"
+}
