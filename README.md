@@ -44,3 +44,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [3.5-second tonal shifts](productions/long-line-v12-quick-shifts/README.md): shorter synth attack and more frequent harmonic changes, with the previous note flow, effects and gains preserved.
 
 [Upper-octave harmonies](productions/long-line-v13-octaves/README.md): intermittent one- and two-octave companions broaden the range while preserving the existing fast lines, 3.5-second harmony changes and mix.
+
+[Phrase-weight revision](productions/long-line-v14-touch/README.md): distinct touch for every contour repetition, native lane automation, Fourman-guided tonal cleanup and a revised 96-second excerpt. Listening results remain inconclusive; 44 of the new 50 reviews remain.

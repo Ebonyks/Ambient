@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 52,\n  \"harsh\": 22,\n  \"sibilant\": 18,\n  \"bright\": 38,\n  \"valence\": -5.0,\n  \"arousal\": -7.5,\n  \"mood\": \"Somber\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.0,\n      \"desc\": \"Accumulation of muddy low-mid energy creates a muffled ambient soundstage.\"\n    },\n    {\n      \"t_seconds\": 10.0,\n      \"desc\": \"Noise floor shift increases treble slightly, but overall timbral character remains mostly identical.\"\n    }\n  ],\n  \"overall\": \"The difference in sustained tonal neutrality and phrase weight between A (0-10s) and B (10-20s) is too subtle to establish either as clearly less mechanical.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

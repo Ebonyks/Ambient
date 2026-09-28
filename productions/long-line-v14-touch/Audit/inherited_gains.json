@@ -1,0 +1,11 @@
+{
+  "lane_gains": [
+    6.913579735609672,
+    44.312639534073575,
+    6.196147953627489,
+    37.02972603674263
+  ],
+  "sum_gain": 4.029808266346393,
+  "source": "long-line-v11-lines print calibration",
+  "purpose": "Preserve preceding gain settings; no new loudness adjustment."
+}

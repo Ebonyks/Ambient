@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 52,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 18,\n  \"valence\": -5.2,\n  \"arousal\": -7.5,\n  \"mood\": \"Ominous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.0,\n      \"desc\": \"Heavy sub-bass rumble and low-mid accumulation creates a slightly boomy foundation.\"\n    },\n    {\n      \"t_seconds\": 10.5,\n      \"desc\": \"Subtle modulation in the filtered noise floor introduces a minor resonant mid-range swell.\"\n    }\n  ],\n  \"overall\": \"A deeply restrained and dark ambient soundscape that maintains sustained neutrality, though the low-end rumble slightly obscures subtle phrase weight variations.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

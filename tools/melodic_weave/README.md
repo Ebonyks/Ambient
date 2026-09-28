@@ -74,3 +74,5 @@ Default output: 2,698 inner notes plus 123 retained scaffold notes over 336 seco
 `flowing_lines.py --harmonic-period 3.5 --out my-lines` sets the tonal period to 3.5 seconds while preserving the note clock and contour rules. Default remains 12 seconds for reproducing v11. The shorter period scales the per-line harmonic offsets proportionately. [Direct revision](../../productions/long-line-v12-quick-shifts/README.md).
 
 `python tools/melodic_weave/upper_octaves.py input.json --out my-octaves` adds intermittent, quieter octave companions on the velocity-sensitive Tyrell voices. Original notes and harmonic timing remain intact. [Rendered revision and reproduction](../../productions/long-line-v13-octaves/README.md).
+
+`python tools/melodic_weave/phrase_touch.py input.json --out my-touch` applies repeat-specific timing, emphasis, duration and gain curves while preserving pitches and harmony. Native lane automation is required to realize the full result, especially on FB-3300. [Editable render, tests and candid review evidence](../../productions/long-line-v14-touch/README.md).
