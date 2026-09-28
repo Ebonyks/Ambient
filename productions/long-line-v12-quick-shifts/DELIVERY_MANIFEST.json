@@ -1,0 +1,230 @@
+{
+  "scope": "Shorter attack and 3.5-second tonal changes; master output reduced only for observed clipping",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3603,
+      "sha256": "25e64be958e846367d8d81ce3d382b56d9130a4cc5161a5a4cae9b7abb9b2833"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/QA.json",
+      "bytes": 816,
+      "sha256": "1c87c288876ac5890ee5adcaa4d577d71e116746263126f33067056eb52f704b"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/bed_sources.json",
+      "bytes": 341,
+      "sha256": "dc5785d72366df382664c87bfc8b2c6606174a23a0ac83ace42c1bb6749fc046"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/first_export_clipping.json",
+      "bytes": 188,
+      "sha256": "a09f2cfa5e4ff672cd41eb88a7a167ca56e648058e3c4fe3fc03e0b1eeeaedfd"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/inherited_gains.json",
+      "bytes": 291,
+      "sha256": "588b62c5993ad6ac7d1419cc898f36079000a140a0aa8b47c78f91fd10aea63a"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/lanes_returned.txt",
+      "bytes": 49,
+      "sha256": "ee630ad0bdfa2bafea4384321815252ef7ae97574ab72a9202f9f8a6bbf94e65"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/native_patches.tsv",
+      "bytes": 2793,
+      "sha256": "be8322ec080be67c39aa0ff17dc27c3c2d68aea3402cc2f6d5293f5e8aa56e37"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/print_calibration.json",
+      "bytes": 1273,
+      "sha256": "ce73384f5939f6908ee39d1aa6ae8e1bba2edbb0783174df9f41e3b19701989b"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/quick_B_effects.tsv",
+      "bytes": 1006,
+      "sha256": "5c0e865cdeb1672bd0fc0f66c5bff6270bb33a018847d2787b49ac569a1bdb83"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/quick_B_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/quick_B_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/quick_effects.tsv",
+      "bytes": 1006,
+      "sha256": "5c0e865cdeb1672bd0fc0f66c5bff6270bb33a018847d2787b49ac569a1bdb83"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/quick_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/quick_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/requested_changes.json",
+      "bytes": 776,
+      "sha256": "a491da406377d2507ceefe4b5fa75ee6c66ed7d4f9ff2f1e2887afaad4d40ba9"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Audit/texture_render_returned.txt",
+      "bytes": 22,
+      "sha256": "a6b2d1d8e4ea0c365abb4b26d77d352453a5e5be0ba65843c75381a45fbb007f"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Long Line - Quick Shifts B.rpp",
+      "bytes": 9650,
+      "sha256": "a01f9209a2ebcd823ffbc1bdfda902b716c5f057c165a7f1b46b63deeeab6d69"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Long Line - Quick Shifts.rpp",
+      "bytes": 9472,
+      "sha256": "d0f0ed236c5fc25a93757485b95d0ab0c4bc4ab8219686c530b12a3e876635b6"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Media/01_Nature_bed.flac",
+      "bytes": 15621849,
+      "sha256": "1d0535ddbd70b4c39053e4f0f92acef66a7adae62ecda058971631db3c3ce8c5"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Media/02_Inner_lane_0.flac",
+      "bytes": 5779668,
+      "sha256": "e3175d7a27da2cfefd10f0b74295eaf9267de2e80ad5959229fe0cc07e008cdd"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Media/03_Inner_lane_1.flac",
+      "bytes": 7975361,
+      "sha256": "a7e1e99befd90dde7c08cddf3dd95cc86a93905987b2197fce9c66b93a771b10"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Media/04_Inner_lane_2.flac",
+      "bytes": 5810053,
+      "sha256": "ad9b2bd90657401bd15d12e4dc99cf9ee5102e5cf6cd4ef682999bdd87484d48"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Media/05_Inner_lane_3.flac",
+      "bytes": 8404242,
+      "sha256": "57072afb204763dc1a0c61bdeb2dbe56759c267792cceb0cfd79b4d88da03431"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Media/06_Inner_texture.flac",
+      "bytes": 11450302,
+      "sha256": "bd94d614a4b176f6071c97b4bf070085ed60c2c4de7282e6f54a3781fb76906e"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/README.md",
+      "bytes": 2524,
+      "sha256": "40914db9b619e8eb8c30b7c431efd291329c5ceb803a5a4add4d4cabe3578fb2"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Renders/Long Line - Quick Shifts B - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "b9603aa49f29beec833369cbc7b3d88c2aeea74d765c7990bc95f2f01f7c3ef8"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/build_quick.lua",
+      "bytes": 3635,
+      "sha256": "974d933d8e6807c4e4f93bd8c2bfc97fa48c7fe9993d86b051cd6817e5df78f1"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/build_quick_b.lua",
+      "bytes": 3646,
+      "sha256": "09b26d7aa520c27481fa32f41d2dcccc2738730bac8cf2f704daeb43fb4a6795"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/demo_notes.lua",
+      "bytes": 153123,
+      "sha256": "53c518afd6918fd0666c27fbb13b22a2e8a067ce21c77d07a8cb411eb511d7c8"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/prepare_demo.py",
+      "bytes": 2049,
+      "sha256": "34fddaf21707d14511088497c69b88c0470e8e2498a98264609fe23ead7144bd"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/print_lanes.lua",
+      "bytes": 1012,
+      "sha256": "385248df40996150ec579163356950eea3d2a141fcc9c0987a32e2a2b99ae8ed"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/render_instruments.lua",
+      "bytes": 3057,
+      "sha256": "142536b4fa48916dc872b8a98ac343d5f096fa6176e882b608273660024c4b7c"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/verify_quick.py",
+      "bytes": 1465,
+      "sha256": "4adee1b46057a3e15a121f9fa8d30cbff76bd2c90cd1087dffec84988e134cbb"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Scripts/verify_quick_b.py",
+      "bytes": 1471,
+      "sha256": "1b5e830375cf359dc652e1d8ecfd1fd24731f8ec350f280b2a29af04f9f2a538"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/Texture Instruments.rpp",
+      "bytes": 286782,
+      "sha256": "7e5fdccc683eadcfc08af0aad628ca3d3edbf20fcc07d1a35a78c6d12982cf5a"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/texture.json",
+      "bytes": 5436736,
+      "sha256": "f3a44264f2160e7a4a2eed37d50d333cd390dfe05d73afb3a77cc344003988ec"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/texture.mid",
+      "bytes": 221282,
+      "sha256": "e922861346a2312f1715de2d5926cfbaaf6d4aa72f1c0438cb2f8d6c90ab3811"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "productions/long-line-v8/weave.json",
+      "bytes": 58482,
+      "sha256": "5b116a0239a59347e867bec1e915a9285c1f27135bc1cad724d416d26ad53b55"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 9818,
+      "sha256": "f2b5ba333d4c6ff628b010821961a90c5f8e9eff3896a604457faa5b33bc9c2d"
+    },
+    {
+      "path": "tools/melodic_weave/continuous_field.py",
+      "bytes": 4247,
+      "sha256": "3221c4dca58f0dc8f44491a0f2caf4fce3f5018f09cace80aa5d76381eb0d0ea"
+    },
+    {
+      "path": "tools/melodic_weave/flowing_lines.py",
+      "bytes": 4505,
+      "sha256": "2c457fff35c7ea84e9613e0fb67862f9523a13d69a216147805207d1256f541f"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/test_flowing_lines.py",
+      "bytes": 2125,
+      "sha256": "1354dcbdfbf4623041a2b4537da549ef6a4cbffeaff885e6d9e473921dacebf5"
+    },
+    {
+      "path": "tools/melodic_weave/texture_weave.py",
+      "bytes": 8725,
+      "sha256": "2f36c0535bf6a690ebd291e2123897d2637539c4c0cd95eac17d3f77bb7aaa48"
+    }
+  ]
+}

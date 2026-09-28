@@ -40,3 +40,5 @@ Measured spectral components, inferred harmonies and proposed settings are disti
 [Continuous flow revision](productions/long-line-v10-flow/README.md): replaces the old melodic foreground with distributed continuous voicing, slow harmonic transitions and a revised 96-second audition. Candidate B remains pending listening acceptance.
 
 [Differentiated fast-line revision](productions/long-line-v11-lines/README.md): fresh Parasol reference review, fourfold note activity, independent contour/register behavior and an explicit changing tonal itinerary; new 96-second draft pending owner listening.
+
+[3.5-second tonal shifts](productions/long-line-v12-quick-shifts/README.md): shorter synth attack and more frequent harmonic changes, with the previous note flow, effects and gains preserved.
