@@ -1,0 +1,7 @@
+*.wav
+*.mid
+*.csv
+*_harmony.txt
+*.npy
+*.pkl
+__pycache__/
