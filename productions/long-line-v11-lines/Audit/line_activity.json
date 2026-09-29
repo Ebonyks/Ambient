@@ -1,0 +1,201 @@
+{
+  "old_events": 4600,
+  "new_events": 18398,
+  "actual_count_ratio": 3.9995652173913046,
+  "demo_new_events": 5509,
+  "lanes": [
+    {
+      "lane": 0,
+      "events": 4060,
+      "midi_range": [
+        48,
+        62
+      ],
+      "new_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 12.489583333333334,
+          "2": 11.447916666666666,
+          "3": 0.4166666666666667
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      },
+      "old_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 12.270833333333334,
+          "2": 6.239583333333333,
+          "3": 2.4479166666666665
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      }
+    },
+    {
+      "lane": 1,
+      "events": 4377,
+      "midi_range": [
+        62,
+        76
+      ],
+      "new_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 10.979166666666666,
+          "2": 9.645833333333334,
+          "3": 8.25
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      },
+      "old_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 12.916666666666666,
+          "2": 10.802083333333334,
+          "3": 9.15625
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      }
+    },
+    {
+      "lane": 2,
+      "events": 4823,
+      "midi_range": [
+        55,
+        69
+      ],
+      "new_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 14.916666666666666,
+          "2": 4.5,
+          "3": 0.0
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      },
+      "old_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 14.302083333333334,
+          "2": 8.510416666666666,
+          "3": 4.25
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      }
+    },
+    {
+      "lane": 3,
+      "events": 5138,
+      "midi_range": [
+        67,
+        81
+      ],
+      "new_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 11.8125,
+          "2": 9.760416666666666,
+          "3": 7.604166666666667
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      },
+      "old_native_articulation": {
+        "flux_peak_rate_per_s_by_MAD": {
+          "1": 13.708333333333334,
+          "2": 11.0625,
+          "3": 9.697916666666666
+        },
+        "note": "20ms peak separation; spectral articulation proxy, not performed-note count."
+      }
+    }
+  ],
+  "tonal_itinerary_in_demo": [
+    {
+      "start_s": 132,
+      "name": "Em9",
+      "pitch_classes": [
+        4,
+        7,
+        11,
+        2,
+        6
+      ]
+    },
+    {
+      "start_s": 144,
+      "name": "Cmaj7",
+      "pitch_classes": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "start_s": 156,
+      "name": "Am9",
+      "pitch_classes": [
+        9,
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "start_s": 168,
+      "name": "D6",
+      "pitch_classes": [
+        2,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "start_s": 180,
+      "name": "Em9",
+      "pitch_classes": [
+        4,
+        7,
+        11,
+        2,
+        6
+      ]
+    },
+    {
+      "start_s": 192,
+      "name": "Bm7",
+      "pitch_classes": [
+        11,
+        2,
+        6,
+        9
+      ]
+    },
+    {
+      "start_s": 204,
+      "name": "Cmaj7",
+      "pitch_classes": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "start_s": 216,
+      "name": "Em7",
+      "pitch_classes": [
+        4,
+        7,
+        11,
+        2
+      ]
+    },
+    {
+      "start_s": 228,
+      "name": "Am9",
+      "pitch_classes": [
+        9,
+        0,
+        4,
+        7,
+        11
+      ]
+    }
+  ],
+  "limits": "Envelope, masking and timbre govern perceived speed. Fourfold MIDI rate does not establish fourfold perceived speed. Tonal itinerary is an authored score, not a transcription."
+}

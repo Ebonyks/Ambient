@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"muddy\": 25,\n  \"harsh\": 30,\n  \"sibilant\": 0,\n  \"bright\": 65,\n  \"valence\": 7.5,\n  \"arousal\": 6.8,\n  \"mood\": \"Playful\",\n  \"issues\": [\n    {\n      \"t_seconds\": 1.5,\n      \"desc\": \"Accumulated low-mid sustain pedal resonance during rapid bass-chord leaps.\"\n    },\n    {\n      \"t_seconds\": 11.2,\n      \"desc\": \"Minor upper-mid buildup on fast right-hand accent clusters.\"\n    }\n  ],\n  \"overall\": \"The brisk stride piano performance demonstrates clear voice separation between the bouncing bass and syncopated treble lines, where transient attacks remain distinct even through complex harmonic movements—nuance that would be entirely lost if replaced by randomized equal-velocity notes with slow synth attacks.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+    }
+  ],
+  "isError": false
+}

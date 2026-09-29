@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "errors": [],
+  "max_key_polyphony": 13,
+  "source_events": 18521,
+  "texture_events": 18398,
+  "meaning": "Key overlap only; acoustic release tails are additional. No claim of perceived simplicity.",
+  "duration_s": 96,
+  "source_excerpt_s": [
+    140,
+    236
+  ],
+  "native_peak": 0.6023191213607788,
+  "sha256": "7481c749ad42f6829d07a556c3a976930dee317a54391cf100d7f1afe04fd376",
+  "prior_melodic_scaffold_in_audio": false,
+  "rendered_primary_voices": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "tests": {
+    "melody_texture": 36,
+    "harmony": 10
+  },
+  "review_status": "Pending listening; MIDI distribution is not acoustic salience",
+  "loudness": {
+    "input_i": "-19.16",
+    "input_tp": "-4.40",
+    "input_lra": "8.50",
+    "input_thresh": "-29.22"
+  }
+}

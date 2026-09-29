@@ -1,0 +1,213 @@
+{
+  "edits": [
+    {
+      "voice": 2,
+      "time_s": 161.766,
+      "from": 71,
+      "to": 67,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 2,
+      "time_s": 174.159,
+      "from": 72,
+      "to": 64,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 2,
+      "time_s": 179.668,
+      "from": 71,
+      "to": 67,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 2,
+      "time_s": 184.864,
+      "from": 72,
+      "to": 71,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 2,
+      "time_s": 192.237,
+      "from": 71,
+      "to": 74,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 2,
+      "time_s": 197.174,
+      "from": 72,
+      "to": 76,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 2,
+      "time_s": 203.207,
+      "from": 71,
+      "to": 67,
+      "reason": "Authored replacement of the weak 2:48 passage"
+    },
+    {
+      "voice": 0,
+      "time_s": 171.525,
+      "from": 60,
+      "to": 55,
+      "reason": "Remove A-B-A semitone return without banning isolated semitone motion"
+    },
+    {
+      "voice": 1,
+      "time_s": 134.231,
+      "from": 67,
+      "to": 71,
+      "reason": "Remove A-B-A semitone return without banning isolated semitone motion"
+    },
+    {
+      "voice": 1,
+      "time_s": 151.856,
+      "from": 67,
+      "to": 71,
+      "reason": "Remove A-B-A semitone return without banning isolated semitone motion"
+    },
+    {
+      "voice": 2,
+      "time_s": 255.6,
+      "from": 70,
+      "to": 67,
+      "reason": "Remove A-B-A semitone return without banning isolated semitone motion"
+    }
+  ],
+  "semitone_returns": {
+    "before": [
+      {
+        "voice": 0,
+        "start_s": 154.136,
+        "middle_s": 171.525,
+        "pitches": [
+          59,
+          60,
+          59
+        ]
+      },
+      {
+        "voice": 0,
+        "start_s": 171.525,
+        "middle_s": 182.757,
+        "pitches": [
+          60,
+          59,
+          60
+        ]
+      },
+      {
+        "voice": 1,
+        "start_s": 125.111,
+        "middle_s": 134.231,
+        "pitches": [
+          66,
+          67,
+          66
+        ]
+      },
+      {
+        "voice": 1,
+        "start_s": 134.231,
+        "middle_s": 141.767,
+        "pitches": [
+          67,
+          66,
+          67
+        ]
+      },
+      {
+        "voice": 1,
+        "start_s": 141.767,
+        "middle_s": 151.856,
+        "pitches": [
+          66,
+          67,
+          66
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 161.766,
+        "middle_s": 174.159,
+        "pitches": [
+          71,
+          72,
+          71
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 174.159,
+        "middle_s": 179.668,
+        "pitches": [
+          72,
+          71,
+          72
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 179.668,
+        "middle_s": 184.864,
+        "pitches": [
+          71,
+          72,
+          71
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 184.864,
+        "middle_s": 192.237,
+        "pitches": [
+          72,
+          71,
+          72
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 192.237,
+        "middle_s": 197.174,
+        "pitches": [
+          71,
+          72,
+          71
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 249.407,
+        "middle_s": 255.6,
+        "pitches": [
+          71,
+          70,
+          71
+        ]
+      },
+      {
+        "voice": 2,
+        "start_s": 255.6,
+        "middle_s": 263.0,
+        "pitches": [
+          70,
+          71,
+          70
+        ]
+      }
+    ],
+    "after": []
+  },
+  "timing_preserved": true,
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "max_source_polyphony": 5,
+    "meaning": "Construction validation only; tails can increase acoustic density"
+  }
+}

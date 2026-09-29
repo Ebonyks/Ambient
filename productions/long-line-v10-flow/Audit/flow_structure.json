@@ -1,0 +1,273 @@
+{
+  "total_new_notes": 4600,
+  "demo_notes": 1381,
+  "windows": [
+    {
+      "start_s": 8,
+      "window_s": 24,
+      "notes": 343,
+      "mean_midi": 62.46355685131196,
+      "largest_pitch_share": 0.2099125364431487
+    },
+    {
+      "start_s": 16,
+      "window_s": 24,
+      "notes": 344,
+      "mean_midi": 63.31976744186046,
+      "largest_pitch_share": 0.21511627906976744
+    },
+    {
+      "start_s": 24,
+      "window_s": 24,
+      "notes": 342,
+      "mean_midi": 63.44736842105263,
+      "largest_pitch_share": 0.2046783625730994
+    },
+    {
+      "start_s": 32,
+      "window_s": 24,
+      "notes": 341,
+      "mean_midi": 63.94428152492669,
+      "largest_pitch_share": 0.21700879765395895
+    },
+    {
+      "start_s": 40,
+      "window_s": 24,
+      "notes": 339,
+      "mean_midi": 63.882005899705014,
+      "largest_pitch_share": 0.21238938053097345
+    },
+    {
+      "start_s": 48,
+      "window_s": 24,
+      "notes": 339,
+      "mean_midi": 63.94690265486726,
+      "largest_pitch_share": 0.21238938053097345
+    },
+    {
+      "start_s": 56,
+      "window_s": 24,
+      "notes": 337,
+      "mean_midi": 63.37091988130564,
+      "largest_pitch_share": 0.22255192878338279
+    },
+    {
+      "start_s": 64,
+      "window_s": 24,
+      "notes": 335,
+      "mean_midi": 62.86865671641791,
+      "largest_pitch_share": 0.21194029850746268
+    },
+    {
+      "start_s": 72,
+      "window_s": 24,
+      "notes": 335,
+      "mean_midi": 62.66567164179104,
+      "largest_pitch_share": 0.20298507462686566
+    },
+    {
+      "start_s": 80,
+      "window_s": 24,
+      "notes": 335,
+      "mean_midi": 62.46268656716418,
+      "largest_pitch_share": 0.191044776119403
+    },
+    {
+      "start_s": 88,
+      "window_s": 24,
+      "notes": 336,
+      "mean_midi": 62.595238095238095,
+      "largest_pitch_share": 0.19642857142857142
+    },
+    {
+      "start_s": 96,
+      "window_s": 24,
+      "notes": 335,
+      "mean_midi": 62.38805970149254,
+      "largest_pitch_share": 0.2
+    },
+    {
+      "start_s": 104,
+      "window_s": 24,
+      "notes": 336,
+      "mean_midi": 62.36011904761905,
+      "largest_pitch_share": 0.20238095238095238
+    },
+    {
+      "start_s": 112,
+      "window_s": 24,
+      "notes": 336,
+      "mean_midi": 62.36309523809524,
+      "largest_pitch_share": 0.20238095238095238
+    },
+    {
+      "start_s": 120,
+      "window_s": 24,
+      "notes": 337,
+      "mean_midi": 61.952522255192875,
+      "largest_pitch_share": 0.22255192878338279
+    },
+    {
+      "start_s": 128,
+      "window_s": 24,
+      "notes": 340,
+      "mean_midi": 62.18235294117647,
+      "largest_pitch_share": 0.22941176470588234
+    },
+    {
+      "start_s": 136,
+      "window_s": 24,
+      "notes": 342,
+      "mean_midi": 62.14035087719298,
+      "largest_pitch_share": 0.23391812865497075
+    },
+    {
+      "start_s": 144,
+      "window_s": 24,
+      "notes": 344,
+      "mean_midi": 62.81395348837209,
+      "largest_pitch_share": 0.22965116279069767
+    },
+    {
+      "start_s": 152,
+      "window_s": 24,
+      "notes": 344,
+      "mean_midi": 63.16279069767442,
+      "largest_pitch_share": 0.23546511627906977
+    },
+    {
+      "start_s": 160,
+      "window_s": 24,
+      "notes": 344,
+      "mean_midi": 63.729651162790695,
+      "largest_pitch_share": 0.22965116279069767
+    },
+    {
+      "start_s": 168,
+      "window_s": 24,
+      "notes": 345,
+      "mean_midi": 64.17391304347827,
+      "largest_pitch_share": 0.2144927536231884
+    },
+    {
+      "start_s": 176,
+      "window_s": 24,
+      "notes": 345,
+      "mean_midi": 64.63188405797102,
+      "largest_pitch_share": 0.21159420289855072
+    },
+    {
+      "start_s": 184,
+      "window_s": 24,
+      "notes": 346,
+      "mean_midi": 64.8699421965318,
+      "largest_pitch_share": 0.22832369942196531
+    },
+    {
+      "start_s": 192,
+      "window_s": 24,
+      "notes": 345,
+      "mean_midi": 64.93913043478261,
+      "largest_pitch_share": 0.22608695652173913
+    },
+    {
+      "start_s": 200,
+      "window_s": 24,
+      "notes": 345,
+      "mean_midi": 64.8,
+      "largest_pitch_share": 0.21159420289855072
+    },
+    {
+      "start_s": 208,
+      "window_s": 24,
+      "notes": 345,
+      "mean_midi": 64.29855072463768,
+      "largest_pitch_share": 0.2
+    },
+    {
+      "start_s": 216,
+      "window_s": 24,
+      "notes": 343,
+      "mean_midi": 63.994169096209916,
+      "largest_pitch_share": 0.20116618075801748
+    },
+    {
+      "start_s": 224,
+      "window_s": 24,
+      "notes": 341,
+      "mean_midi": 63.70967741935484,
+      "largest_pitch_share": 0.19941348973607037
+    },
+    {
+      "start_s": 232,
+      "window_s": 24,
+      "notes": 339,
+      "mean_midi": 63.43952802359882,
+      "largest_pitch_share": 0.21238938053097345
+    },
+    {
+      "start_s": 240,
+      "window_s": 24,
+      "notes": 338,
+      "mean_midi": 63.485207100591715,
+      "largest_pitch_share": 0.21597633136094674
+    },
+    {
+      "start_s": 248,
+      "window_s": 24,
+      "notes": 337,
+      "mean_midi": 62.97626112759644,
+      "largest_pitch_share": 0.2195845697329377
+    },
+    {
+      "start_s": 256,
+      "window_s": 24,
+      "notes": 337,
+      "mean_midi": 62.73590504451039,
+      "largest_pitch_share": 0.20178041543026706
+    },
+    {
+      "start_s": 264,
+      "window_s": 24,
+      "notes": 335,
+      "mean_midi": 62.208955223880594,
+      "largest_pitch_share": 0.21791044776119403
+    },
+    {
+      "start_s": 272,
+      "window_s": 24,
+      "notes": 334,
+      "mean_midi": 61.946107784431135,
+      "largest_pitch_share": 0.20958083832335328
+    },
+    {
+      "start_s": 280,
+      "window_s": 24,
+      "notes": 333,
+      "mean_midi": 61.945945945945944,
+      "largest_pitch_share": 0.2072072072072072
+    },
+    {
+      "start_s": 288,
+      "window_s": 24,
+      "notes": 335,
+      "mean_midi": 61.874626865671644,
+      "largest_pitch_share": 0.21492537313432836
+    },
+    {
+      "start_s": 296,
+      "window_s": 24,
+      "notes": 337,
+      "mean_midi": 62.09495548961424,
+      "largest_pitch_share": 0.20474777448071216
+    },
+    {
+      "start_s": 304,
+      "window_s": 24,
+      "notes": 337,
+      "mean_midi": 62.397626112759646,
+      "largest_pitch_share": 0.21364985163204747
+    }
+  ],
+  "limits": "MIDI pitch occupancy, not measured acoustic salience. No performed-note estimate of a reference artist."
+}

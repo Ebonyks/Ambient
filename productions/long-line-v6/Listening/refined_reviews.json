@@ -1,0 +1,208 @@
+[
+  {
+    "start_s": 140,
+    "report": {
+      "muddy": 22,
+      "harsh": 12,
+      "sibilant": 8,
+      "bright": 38,
+      "valence": 1.5,
+      "arousal": -6.5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 18,
+          "desc": "Abrupt fade-out cuts off the trailing ambient decay prematurely."
+        }
+      ],
+      "overall": "This ambient excerpt features clear source articulation and a pleasing balance between warm pitched pads and subtle granular texture, though the tail ends somewhat abruptly.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 160,
+    "report": {
+      "muddy": 20,
+      "harsh": 10,
+      "sibilant": 5,
+      "bright": 35,
+      "valence": 2,
+      "arousal": -6,
+      "mood": "Serene",
+      "issues": [
+        {
+          "t_seconds": 17.5,
+          "desc": "The ambient tail drops off slightly abruptly before fully decaying."
+        }
+      ],
+      "overall": "A serene and beautifully textured ambient pad with clear harmonic legibility and a balanced tonal spectrum, though the final decay fades out slightly abruptly.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 180,
+    "report": {
+      "muddy": 35,
+      "harsh": 15,
+      "sibilant": 10,
+      "bright": 30,
+      "valence": 0,
+      "arousal": -6,
+      "mood": "ethereal",
+      "issues": [
+        {
+          "t_seconds": 2.5,
+          "desc": "Abrupt drop-off of the initial choral texture into the continuous drone pad."
+        }
+      ],
+      "overall": "The excerpt features smooth drone textures with useful subtle grain and clear harmonic continuity, though the opening vocal element cuts off somewhat abruptly.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 200,
+    "report": {
+      "muddy": 32,
+      "harsh": 12,
+      "sibilant": 8,
+      "bright": 48,
+      "valence": 2.5,
+      "arousal": -5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 11.5,
+          "desc": "Dense harmonic swell creates a slight low-mid buildup that subtly reduces source separation."
+        },
+        {
+          "t_seconds": 18.5,
+          "desc": "The ambient tail cuts off somewhat abruptly rather than resolving naturally into a sustained room decay."
+        }
+      ],
+      "overall": "The ambient mix exhibits strong source legibility and smooth harmonic continuity, though peak swells accumulate mild low-mid density right before a slightly abrupt decay.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 220,
+    "report": {
+      "muddy": 25,
+      "harsh": 15,
+      "sibilant": 10,
+      "bright": 48,
+      "valence": 3,
+      "arousal": -6.5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 14.5,
+          "desc": "The primary pitched drone cuts off somewhat abruptly, causing a slightly unmotivated transition into the remaining environmental room noise."
+        }
+      ],
+      "overall": "The ambient excerpt features excellent harmonic continuity and legible source articulation with gentle textural grain, though the final tail transition feels slightly sudden.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 240,
+    "report": {
+      "muddy": 32,
+      "harsh": 12,
+      "sibilant": 5,
+      "bright": 42,
+      "valence": 1.5,
+      "arousal": -6.5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 11.2,
+          "desc": "Abrupt brightness shift and harmonic swell creates a slight discontinuity in the ambient drone tail."
+        }
+      ],
+      "overall": "A well-balanced, atmospheric ambient mix with clear pitched legibility and subtle granular texture, though the mid-track harmonic swell enters slightly abruptly.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 260,
+    "report": {
+      "muddy": 40,
+      "harsh": 12,
+      "sibilant": 8,
+      "bright": 35,
+      "valence": -1.5,
+      "arousal": -6.5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 4.5,
+          "desc": "Low-mid frequency accumulation around 300Hz creates mild muddiness as the pad layers expand."
+        },
+        {
+          "t_seconds": 14,
+          "desc": "Low-end tail overlap during the chord swell slightly masks the bowed string articulation."
+        }
+      ],
+      "overall": "The excerpt maintains excellent harmonic continuity and organic string grain without feeling generic, though minor low-mid control would enhance source articulation.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 280,
+    "report": {
+      "muddy": 28,
+      "harsh": 12,
+      "sibilant": 5,
+      "bright": 25,
+      "valence": -2,
+      "arousal": -7.5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 12.5,
+          "desc": "A subtle upper-mid harmonic layer enters slightly abruptly compared to the rest of the gradual ambient swell."
+        }
+      ],
+      "overall": "A lush, immersive ambient drone with good source articulation and balanced harmonic depth, maintaining delicate warmth without becoming overly muddy.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "start_s": 320,
+    "report": {
+      "muddy": 25,
+      "harsh": 12,
+      "sibilant": 8,
+      "bright": 40,
+      "valence": 1.5,
+      "arousal": -6.5,
+      "mood": "Ethereal",
+      "issues": [
+        {
+          "t_seconds": 6,
+          "desc": "The pitched synth pad cuts off abruptly into the rain noise texture without a smooth reverb tail or natural musical transition."
+        }
+      ],
+      "overall": "The ambient pad features pleasant harmonic clarity and useful granular texture, but the abrupt transition into the environmental noise tail disrupts the piece's flow.",
+      "audio_sent_seconds": 16,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  }
+]

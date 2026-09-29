@@ -1,0 +1,1 @@
+Supermassive Clear explicitly released to 0; other settings as final_fx_parameters.tsv. Native render returned.

@@ -1,0 +1,12 @@
+{
+  "duration_s": 336,
+  "sample_rate": 48000,
+  "input_active_rms": 0.011182138902572901,
+  "normalization_gain_db": -1.2894528576481334,
+  "output_active_rms": 0.0095,
+  "peak": 0.05833720913953996,
+  "source": "Native Surge XT print, Physical String - Pink Bed.rpp",
+  "print_gain_db": 40,
+  "pitch_modulation": "Portamento, drift, second-string detune disabled; no pitch LFO",
+  "filter": "110-2400Hz second-order bandpass after VST print"
+}

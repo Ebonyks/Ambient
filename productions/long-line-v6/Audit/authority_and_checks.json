@@ -1,0 +1,17 @@
+{
+  "handoff_revision": "6e33f20c5da4e43444f8052110d0d8f709836614",
+  "measured_study_revision": "163d5a9d79c12476bbc7fad41ca4f59397ebf66d",
+  "protocol_sha256": "02b262c2bf1ef8ceef800cf6ce3db88605ccf1a612cd60f4430a71d1eef85501",
+  "source_study_sha256": "5fba8dc3030b6455e861f3708ea582891067d114790b2de53e1430b1db6238c2",
+  "study_scope": [
+    "Radio Amor",
+    "Mirages",
+    "Mort aux Vaches"
+  ],
+  "Haunt_Me_not_in_this_protocol": true,
+  "rule_pass_means": "encoded core construction compliance, not audio artistic acceptance",
+  "successful_new_listens": 29,
+  "cumulative_successful_listens": 70,
+  "ten_protocol_unit_tests": "passed",
+  "production_python_syntax": "passed"
+}

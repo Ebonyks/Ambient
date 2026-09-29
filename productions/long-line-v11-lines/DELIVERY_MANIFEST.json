@@ -1,0 +1,255 @@
+{
+  "scope": "Differentiated fast lines, native sessions, source media, reference review records. Owner acceptance pending.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3408,
+      "sha256": "ee2544436561f2886b43acd4ebe880c0d646e9eb2bea223127a096835b4145fd"
+    },
+    {
+      "path": "productions/long-line-v10-flow/texture.json",
+      "bytes": 1249867,
+      "sha256": "9d4a45587d5025b37776d5016db971da4d4509990879bd04922f5d5e305a2e02"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/QA.json",
+      "bytes": 939,
+      "sha256": "4af294b366c40d4be9dd01cfc2db2bf518a7a09819174bf2d3eae2c98839f741"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/QA_B.json",
+      "bytes": 938,
+      "sha256": "b3375f6da578d921a80b850ba0ececdcf4f77ff79531a6c93bd1952575fb1f2a"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/bed_sources.json",
+      "bytes": 341,
+      "sha256": "dc5785d72366df382664c87bfc8b2c6606174a23a0ac83ace42c1bb6749fc046"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lanes_returned.txt",
+      "bytes": 49,
+      "sha256": "ee630ad0bdfa2bafea4384321815252ef7ae97574ab72a9202f9f8a6bbf94e65"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/line_activity.json",
+      "bytes": 4488,
+      "sha256": "4c0617e4319aa1f2724aafec07ac58f56a113a9cc4d3607c9ab28dee1171a66e"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lines_B_effects.tsv",
+      "bytes": 1074,
+      "sha256": "6ad2bd662bafc6b9fd757edb1dbddbb59337e49c9d31456061bfdf7b39a4dc92"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lines_B_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lines_B_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lines_effects.tsv",
+      "bytes": 1074,
+      "sha256": "6ad2bd662bafc6b9fd757edb1dbddbb59337e49c9d31456061bfdf7b39a4dc92"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lines_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/lines_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/native_patches.tsv",
+      "bytes": 2793,
+      "sha256": "76dce15a191b4fb5e85ca7b3a5f181b283b01c4c808e2726a399cef485c47c0d"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/print_calibration.json",
+      "bytes": 1261,
+      "sha256": "2253c770b6ca03399a4081d398e87fce59de7a2ca63c12ad5a1a0d6e970886ee"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/reference_listening_sources.json",
+      "bytes": 1427,
+      "sha256": "53fad1c09c7b57e13a2ec09dcae8083057585b0bba87aefd0443ddb1a9e370f2"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Audit/texture_render_returned.txt",
+      "bytes": 22,
+      "sha256": "a6b2d1d8e4ea0c365abb4b26d77d352453a5e5be0ba65843c75381a45fbb007f"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Listening/101-Parasol-reference.json",
+      "bytes": 966,
+      "sha256": "d62221ef5f7080380ce2cc083eeb0f76fb2d42896ceeb9e92f9a9269b07cac1c"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Listening/102-Parasol-reference.json",
+      "bytes": 849,
+      "sha256": "66b5fde9e8057dae3e46efa4781568eb77e0a4758bfbca39a5127cccd1acf9af"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Long Line - Differentiated Flow B.rpp",
+      "bytes": 9362,
+      "sha256": "28fd06b2318bfec59f30fd7c96b9e202c4dd733e086206738b99c54597a365b7"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Long Line - Differentiated Flow.rpp",
+      "bytes": 9357,
+      "sha256": "6348464f30c37f0a0fbc33ff80db90902a314450930840a72bb7660df79612dd"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Media/01_Nature_bed.flac",
+      "bytes": 15621849,
+      "sha256": "1d0535ddbd70b4c39053e4f0f92acef66a7adae62ecda058971631db3c3ce8c5"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Media/02_Inner_lane_0.flac",
+      "bytes": 5758362,
+      "sha256": "a1e29a4f40a16fe0f7d182e6bca2a9d2e7abbe9a7f448317f7d1a1d83e5c6f3e"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Media/03_Inner_lane_1.flac",
+      "bytes": 7985783,
+      "sha256": "bbc6e7a5fe36d888e19846f9e6de047850b57d82b4f747cf7b679fbaeaff0f61"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Media/04_Inner_lane_2.flac",
+      "bytes": 5758353,
+      "sha256": "fefed8962ef48cb38a6746d1a1d16e14b0a2fc1758c14f20b43527c181c3c26c"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Media/05_Inner_lane_3.flac",
+      "bytes": 8396718,
+      "sha256": "7f28daa4fe2c10128ce4eabbdd104e914b57035c920a8e50137d9b6c0e895c4f"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Media/06_Inner_texture.flac",
+      "bytes": 11442681,
+      "sha256": "7b5897f947fadad97cae7b56239bdb37f7bc9c6b18995a3b5303a18f2948ec19"
+    },
+    {
+      "path": "productions/long-line-v11-lines/README.md",
+      "bytes": 5739,
+      "sha256": "41f0efde51d40afda2ef4079c829088e9919b936729496c0e59f95f0fea16fdd"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Renders/Long Line - Differentiated Flow - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "7df7cd38f487ed5d84de4ebfc7fb8181711b28ce6454353e2a6b051a649060fa"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Renders/Long Line - Differentiated Flow B - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "ebd5bdb1c63143a6c8bc1f25dba2f1a95776b13ba4763a037221d4dd0a146cff"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/audit_activity.py",
+      "bytes": 1802,
+      "sha256": "98ea431740e37d3fb530639d6777941c95593db3621ea360265a38a614d162da"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/build_lines.lua",
+      "bytes": 3584,
+      "sha256": "658202afca9781d058f0d3f3b611e72fc47d1898bb2d31569dbaae8f7ab2f28a"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/build_lines_b.lua",
+      "bytes": 3668,
+      "sha256": "8a2e4e630bbd5134132e202ef61c78386e72eaf355dd06e7efaa4e87bbb50040"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/demo_notes.lua",
+      "bytes": 153123,
+      "sha256": "526f789f38b81e63a90a3166579075a777b2b4849b1cb0fc6632869ba0db588e"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/prepare_demo.py",
+      "bytes": 1924,
+      "sha256": "d94756ad4e3981a41c27a9c7ec8d022cb28b5240a58b1514f14a447fb739f43a"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/print_lanes.lua",
+      "bytes": 1012,
+      "sha256": "385248df40996150ec579163356950eea3d2a141fcc9c0987a32e2a2b99ae8ed"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/render_instruments.lua",
+      "bytes": 3057,
+      "sha256": "6f82a9b0ee978160936bc96644cd6e45e7b10398ff0f3ab39dfbd35226a8498f"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/verify_lines.py",
+      "bytes": 1554,
+      "sha256": "89bf87923ce3b35655d59e98676f599ff8195d447ae3d7f003e0c411215e2c29"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Scripts/verify_lines_b.py",
+      "bytes": 1564,
+      "sha256": "1d94014aa8f1cfb0e5370b3934b64dcf45bb7ed89534277b4aaa7d3f9b766555"
+    },
+    {
+      "path": "productions/long-line-v11-lines/Texture Instruments.rpp",
+      "bytes": 286743,
+      "sha256": "7d1e28031235b7ebf9b8846ad633de385be948468d05431ecc13a29843a30a58"
+    },
+    {
+      "path": "productions/long-line-v11-lines/texture.json",
+      "bytes": 5372902,
+      "sha256": "3fc43685f322c2e144a4539d53bea3338f4db76aa1ffb2f0b7103d458c842753"
+    },
+    {
+      "path": "productions/long-line-v11-lines/texture.mid",
+      "bytes": 221282,
+      "sha256": "004812be70e7cc830eb1beff3eb68361becf97976954f9a398d524b6f3f94a14"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "productions/long-line-v8/weave.json",
+      "bytes": 58482,
+      "sha256": "5b116a0239a59347e867bec1e915a9285c1f27135bc1cad724d416d26ad53b55"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 9475,
+      "sha256": "c07b3a2d88a73b2c0e96cfdc8a5af5ef2d1a70353a2e90e5c15dfeef0c5642ca"
+    },
+    {
+      "path": "tools/melodic_weave/continuous_field.py",
+      "bytes": 4247,
+      "sha256": "3221c4dca58f0dc8f44491a0f2caf4fce3f5018f09cace80aa5d76381eb0d0ea"
+    },
+    {
+      "path": "tools/melodic_weave/flowing_lines.py",
+      "bytes": 3969,
+      "sha256": "f050cc7e041340976f954d8ff4b14a8756a58847b8cfa44a89c878c196e54e74"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/test_flowing_lines.py",
+      "bytes": 1605,
+      "sha256": "b6409da96870a1064f01dece9fec9017dfae186909aff45bb86872e13f761f47"
+    },
+    {
+      "path": "tools/melodic_weave/texture_weave.py",
+      "bytes": 8725,
+      "sha256": "2f36c0535bf6a690ebd291e2123897d2637539c4c0cd95eac17d3f77bb7aaa48"
+    }
+  ]
+}

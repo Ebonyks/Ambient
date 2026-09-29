@@ -1,4 +1,4 @@
-# Ambient — music production research
+# Ambient â€” music production research
 
 ## Harmony protocol and construction tools
 
@@ -24,3 +24,27 @@ An audio-derived study covering all 22 Bandcamp recordings in 233 analysis windo
 - [Publication manifest and hashes](DELIVERY_MANIFEST.json)
 
 Measured spectral components, inferred harmonies and proposed settings are distinguished. This is not a verified score, a recovered original session, or a trained model. Source recordings are not redistributed.
+
+## Original production in progress
+
+[Long Line — 5:36 full-length study draft](productions/long-line-v6/README.md): editable REAPER session, source media, synthesis and harmony audit, listening log and production-impact journal.
+
+[Long Line v7 - Moving Voices](productions/long-line-v7/README.md): faster staggered voicing and a reusable [melody tool](tools/melodic_weave/README.md), with reference comparison and a new 5:36 REAPER render.
+
+[Long Line v8 - Tonal Revision](productions/long-line-v8/README.md): revised 5:36 mix, removal of repeated semitone rocking, native modeled-string/tape/granular processing, and an evidence-based plugin audit.
+
+[Inner-note composition study](productions/long-line-v9-study/README.md): Melnyk/Fourman reference audit, new dense inner-pattern mode, eight-track MIDI and a 96-second TyrellN6/FB-3300 example with exposed-layer diagnostics.
+
+[Context blend revision](productions/long-line-v9-blend/README.md): softer analog patches, matching tape processing and context-aware inner voicing; revised integrated 96-second audition after the prior blend was rejected.
+
+[Continuous flow revision](productions/long-line-v10-flow/README.md): replaces the old melodic foreground with distributed continuous voicing, slow harmonic transitions and a revised 96-second audition. Candidate B remains pending listening acceptance.
+
+[Differentiated fast-line revision](productions/long-line-v11-lines/README.md): fresh Parasol reference review, fourfold note activity, independent contour/register behavior and an explicit changing tonal itinerary; new 96-second draft pending owner listening.
+
+[3.5-second tonal shifts](productions/long-line-v12-quick-shifts/README.md): shorter synth attack and more frequent harmonic changes, with the previous note flow, effects and gains preserved.
+
+[Upper-octave harmonies](productions/long-line-v13-octaves/README.md): intermittent one- and two-octave companions broaden the range while preserving the existing fast lines, 3.5-second harmony changes and mix.
+
+[Phrase-weight revision](productions/long-line-v14-touch/README.md): distinct touch for every contour repetition, native lane automation, Fourman-guided tonal cleanup and a revised 96-second excerpt. Listening results remain inconclusive; 44 of the new 50 reviews remain.
+
+[Chest Pain technique study](studies/eric-fourman/chest-pain/TECHNIQUES.md): owner-confirmed main-line MIDI, three fresh recording excerpts, and phrase/voice-role principles for the next revision. 41 of the additional Google listens remain.

@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"muddy\": 78,\n  \"harsh\": 20,\n  \"sibilant\": 12,\n  \"bright\": 18,\n  \"valence\": -6.5,\n  \"arousal\": -4.2,\n  \"mood\": \"Ominous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.5,\n      \"desc\": \"Heavy low-mid boom and sub-bass resonance obscure subtle high-frequency noise textures.\"\n    },\n    {\n      \"t_seconds\": 9.0,\n      \"desc\": \"Low-end rumble accumulates heavily in the 200-500Hz region, overwhelming the soundstage.\"\n    }\n  ],\n  \"overall\": \"The track is a dark, continuous noise drone with heavy low-mid rumble, lacking prominent melodic notes or bright treble definition.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+    }
+  ],
+  "isError": false
+}

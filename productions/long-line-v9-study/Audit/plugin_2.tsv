@@ -1,0 +1,363 @@
+0	Preset	0.0	0.0000
+1	Tune C	0.5	0
+2	Tune C#	0.5	0
+3	Tune D	0.5	0
+4	Tune D#	0.5	0
+5	Tune E	0.5	0
+6	Tune F	0.5	0
+7	Tune F#	0.5	0
+8	Tune G	0.5	0
+9	Tune G#	0.5	0
+10	Tune A	0.5	0
+11	Tune A#	0.5	0
+12	Tune B	0.5	0
+13	Waveform	0.20000000298023	Sawtooth
+14	PWM Int	0.5	50.0
+15	Fine	0.5	0
+16	Coarse	0.5	0
+17	Octave	0.33333334326744	8'
+18	FM Mod	0.0	off
+19	FM rev	0.0	Positive
+20	FM MG1	0.0	0.0
+21	FM GEG	0.0	0.0
+22	FM Src	0.0	off
+23	PWM Src	0.0	off
+24	Cutoff	1.0	1.00
+25	Peak	0.0	0.00
+26	fC Bal	0.5	0.00
+27	Expand	0.0	0.00
+28	fC Mod	0.0	off
+29	fC MG1	0.0	0.00
+30	fC GEG	0.0	0.00
+31	fC Src	0.0	off
+32	EM Atk	0.0	0.00
+33	EM Dcy	0.0	0.00
+34	EM Sus	1.0	1.00
+35	EM Rel	0.0	Damp
+36	EM Hold	0.0	off
+37	EM A Src	0.0	off
+38	EM R Src	0.0	off
+39	RS Int	0.0	0.00
+40	RS Freq1	0.20000000298023	0.20
+41	RS Freq2	0.5	0.50
+42	RS Freq3	0.80000001192093	0.80
+43	RS Mod	0.0	off
+44	RfC Src	0.0	off
+45	AM Int	0.0	0.00
+46	AM Mod	0.0	off
+47	MG1 Wave	0.0	Triangle
+48	MG1 Freq	0.21544466912746	0.2
+49	MG1 FSrc	0.0	off
+50	MG1 MSrc	0.0	off
+51	MG1 Host	0.0	off
+52	MG2 Freq	0.097492322325706	0.2
+53	MG2 Host	0.0	off
+54	KBD Bal	0.5	0.50
+55	Volume	0.5	0.25
+56	Pan	0.5	0.50
+57	VCA FSrc	0.0	off
+58	ChEnable	1.0	on
+59	Ch Gate	0.0	off
+60	Over Rel	0.0	off
+61	EM O.Rel	0.0	0.000
+62	Tune C	0.5	0
+63	Tune C#	0.5	0
+64	Tune D	0.5	0
+65	Tune D#	0.5	0
+66	Tune E	0.5	0
+67	Tune F	0.5	0
+68	Tune F#	0.5	0
+69	Tune G	0.5	0
+70	Tune G#	0.5	0
+71	Tune A	0.5	0
+72	Tune A#	0.5	0
+73	Tune B	0.5	0
+74	Waveform	0.20000000298023	Sawtooth
+75	PWM Int	0.5	50.0
+76	Fine	0.5	0
+77	Coarse	0.5	0
+78	Octave	0.33333334326744	8'
+79	FM Mod	0.0	off
+80	FM rev	0.0	Positive
+81	FM MG1	0.0	0.0
+82	FM GEG	0.0	0.0
+83	FM Src	0.0	off
+84	PWM Src	0.0	off
+85	Cutoff	1.0	1.00
+86	Peak	0.0	0.00
+87	fC Bal	0.5	0.00
+88	Expand	0.0	0.00
+89	fC Mod	0.0	off
+90	fC MG1	0.0	0.00
+91	fC GEG	0.0	0.00
+92	fC Src	0.0	off
+93	EM Atk	0.0	0.00
+94	EM Dcy	0.0	0.00
+95	EM Sus	1.0	1.00
+96	EM Rel	0.0	Damp
+97	EM Hold	0.0	off
+98	EM A Src	0.0	off
+99	EM R Src	0.0	off
+100	RS Int	0.0	0.00
+101	RS Freq1	0.20000000298023	0.20
+102	RS Freq2	0.5	0.50
+103	RS Freq3	0.80000001192093	0.80
+104	RS Mod	0.0	off
+105	RfC Src	0.0	off
+106	AM Int	0.0	0.00
+107	AM Mod	0.0	off
+108	MG1 Wave	0.0	Triangle
+109	MG1 Freq	0.21544466912746	0.2
+110	MG1 FSrc	0.0	off
+111	MG1 MSrc	0.0	off
+112	MG1 Host	0.0	off
+113	MG2 Freq	0.097492322325706	0.2
+114	MG2 Host	0.0	off
+115	KBD Bal	0.5	0.50
+116	Volume	0.5	0.25
+117	Pan	0.5	0.50
+118	VCA FSrc	0.0	off
+119	ChEnable	1.0	on
+120	Ch Gate	0.0	off
+121	Over Rel	0.0	off
+122	EM O.Rel	0.0	0.000
+123	Tune C	0.5	0
+124	Tune C#	0.5	0
+125	Tune D	0.5	0
+126	Tune D#	0.5	0
+127	Tune E	0.5	0
+128	Tune F	0.5	0
+129	Tune F#	0.5	0
+130	Tune G	0.5	0
+131	Tune G#	0.5	0
+132	Tune A	0.5	0
+133	Tune A#	0.5	0
+134	Tune B	0.5	0
+135	Waveform	0.20000000298023	Sawtooth
+136	PWM Int	0.5	50.0
+137	Fine	0.5	0
+138	Coarse	0.5	0
+139	Octave	0.33333334326744	8'
+140	FM Mod	0.0	off
+141	FM rev	0.0	Positive
+142	FM MG1	0.0	0.0
+143	FM GEG	0.0	0.0
+144	FM Src	0.0	off
+145	PWM Src	0.0	off
+146	Cutoff	1.0	1.00
+147	Peak	0.0	0.00
+148	fC Bal	0.5	0.00
+149	Expand	0.0	0.00
+150	fC Mod	0.0	off
+151	fC MG1	0.0	0.00
+152	fC GEG	0.0	0.00
+153	fC Src	0.0	off
+154	EM Atk	0.0	0.00
+155	EM Dcy	0.0	0.00
+156	EM Sus	1.0	1.00
+157	EM Rel	0.0	Damp
+158	EM Hold	0.0	off
+159	EM A Src	0.0	off
+160	EM R Src	0.0	off
+161	RS Int	0.0	0.00
+162	RS Freq1	0.20000000298023	0.20
+163	RS Freq2	0.5	0.50
+164	RS Freq3	0.80000001192093	0.80
+165	RS Mod	0.0	off
+166	RfC Src	0.0	off
+167	AM Int	0.0	0.00
+168	AM Mod	0.0	off
+169	MG1 Wave	0.0	Triangle
+170	MG1 Freq	0.21544466912746	0.2
+171	MG1 FSrc	0.0	off
+172	MG1 MSrc	0.0	off
+173	MG1 Host	0.0	off
+174	MG2 Freq	0.097492322325706	0.2
+175	MG2 Host	0.0	off
+176	KBD Bal	0.5	0.50
+177	Volume	0.5	0.25
+178	Pan	0.5	0.50
+179	VCA FSrc	0.0	off
+180	ChEnable	1.0	on
+181	Ch Gate	0.0	off
+182	Over Rel	0.0	off
+183	EM O.Rel	0.0	0.000
+184	Final	0.5	0.25
+185	TVCA Src	0.0	off
+186	KBD Trig	0.0	Off
+187	PB Range	0.5	0
+188	S/H Freq	0.097492322325706	0.2
+189	S/H Sync	0.0	off
+190	S/H In	0.0	off
+191	S/H Host	0.0	off
+192	GEG Dly	0.0	0.00
+193	GEG Atk	0.0	0.00
+194	GEG Rel	0.0	0.00
+195	GEG Auto	0.0	off
+196	GEG Src1	0.0	off
+197	GEG Src2	0.0	off
+198	VP1 A	0.5	0.00
+199	VP1 B	0.5	0.00
+200	VP1 Src	0.0	off
+201	VP2 A	0.5	0.00
+202	VP2 B	0.5	0.00
+203	VP2 Sel	1.0	VP2 Input
+204	VP2 Src	0.0	off
+205	Clk1 Src	0.0	off
+206	Clk2 Src	0.0	off
+207	Clk3 Src	0.0	off
+208	Clk4 Src	0.0	off
+209	Trg1 Src	0.0	000    Bank Select
+210	Trg2 Src	0.0	000    Bank Select
+211	VC1 Src	0.0	000    Bank Select
+212	VC2 Src	0.0	000    Bank Select
+213	VC3 Src	0.0	000    Bank Select
+214	VC4 Src	0.0	000    Bank Select
+215	VC5 Src	0.0	000    Bank Select
+216	VC6 Src	0.0	000    Bank Select
+217	VC7 Src	0.0	000    Bank Select
+218	VC8 Src	0.0	000    Bank Select
+219	Use Hold	1.0	on
+220	LAG 1	0.0	0.00
+221	LAG1 Src	0.0	off
+222	LAG 2	0.0	0.00
+223	LAG2 Src	0.0	off
+224	ATN 1	0.5	0.00
+225	ATN1 Src	0.0	off
+226	ATN 2	0.5	0.00
+227	ATN2 Src	0.0	off
+228	ATN 3	0.5	0.00
+229	ATN3 Src	0.0	off
+230	BankSel.MSB	0.0	0.0000
+231	Modulation	0.0	0.0000
+232	BreathCtrl	0.0	0.0000
+233	Contr. 3	0.0	0.0000
+234	Foot Ctrl	0.0	0.0000
+235	Porta.Time	0.0	0.0000
+236	DataEntMSB	0.0	0.0000
+237	MainVolume	0.0	0.0000
+238	Balance	0.0	0.0000
+239	Contr. 9	0.0	0.0000
+240	Pan	0.0	0.0000
+241	Expression	0.0	0.0000
+242	FXControl1	0.0	0.0000
+243	FXControl2	0.0	0.0000
+244	Contr. 14	0.0	0.0000
+245	Contr. 15	0.0	0.0000
+246	Gen.Purp.1	0.0	0.0000
+247	Gen.Purp.2	0.0	0.0000
+248	Gen.Purp.3	0.0	0.0000
+249	Gen.Purp.4	0.0	0.0000
+250	Contr. 20	0.0	0.0000
+251	Contr. 21	0.0	0.0000
+252	Contr. 22	0.0	0.0000
+253	Contr. 23	0.0	0.0000
+254	Contr. 24	0.0	0.0000
+255	Contr. 25	0.0	0.0000
+256	Contr. 26	0.0	0.0000
+257	Contr. 27	0.0	0.0000
+258	Contr. 28	0.0	0.0000
+259	Contr. 29	0.0	0.0000
+260	Contr. 30	0.0	0.0000
+261	Contr. 31	0.0	0.0000
+262	BankSel.LSB	0.0	0.0000
+263	Modul. LSB	0.0	0.0000
+264	BrthCt LSB	0.0	0.0000
+265	Contr. 35	0.0	0.0000
+266	FootCt LSB	0.0	0.0000
+267	Port.T LSB	0.0	0.0000
+268	DataEntLSB	0.0	0.0000
+269	MainVolLSB	0.0	0.0000
+270	BalanceLSB	0.0	0.0000
+271	Contr. 41	0.0	0.0000
+272	Pan LSB	0.0	0.0000
+273	Expr. LSB	0.0	0.0000
+274	Contr. 44	0.0	0.0000
+275	Contr. 45	0.0	0.0000
+276	Contr. 46	0.0	0.0000
+277	Contr. 47	0.0	0.0000
+278	Gen.P.1LSB	0.0	0.0000
+279	Gen.P.2LSB	0.0	0.0000
+280	Gen.P.3LSB	0.0	0.0000
+281	Gen.P.4LSB	0.0	0.0000
+282	Contr. 52	0.0	0.0000
+283	Contr. 53	0.0	0.0000
+284	Contr. 54	0.0	0.0000
+285	Contr. 55	0.0	0.0000
+286	Contr. 56	0.0	0.0000
+287	Contr. 57	0.0	0.0000
+288	Contr. 58	0.0	0.0000
+289	Contr. 59	0.0	0.0000
+290	Contr. 60	0.0	0.0000
+291	Contr. 61	0.0	0.0000
+292	Contr. 62	0.0	0.0000
+293	Contr. 63	0.0	0.0000
+294	Damper Ped	0.0	0.0000
+295	Porta. Ped	0.0	0.0000
+296	Sostenuto 	0.0	0.0000
+297	Soft Pedal	0.0	0.0000
+298	Legato Sw	0.0	0.0000
+299	Hold 2	0.0	0.0000
+300	SoundCont 1	0.0	0.0000
+301	SoundCont 2	0.0	0.0000
+302	SoundCont 3	0.0	0.0000
+303	SoundCont 4	0.0	0.0000
+304	SoundCont 5	0.0	0.0000
+305	SoundCont 6	0.0	0.0000
+306	SoundCont 7	0.0	0.0000
+307	SoundCont 8	0.0	0.0000
+308	SoundCont 9	0.0	0.0000
+309	SoundCont 10	0.0	0.0000
+310	Gen.Purp.5	0.0	0.0000
+311	Gen.Purp.6	0.0	0.0000
+312	Gen.Purp.7	0.0	0.0000
+313	Gen.Purp.8	0.0	0.0000
+314	Portamento	0.0	0.0000
+315	Contr. 85	0.0	0.0000
+316	Contr. 86	0.0	0.0000
+317	Contr. 87	0.0	0.0000
+318	Contr. 88	0.0	0.0000
+319	Contr. 89	0.0	0.0000
+320	Contr. 90	0.0	0.0000
+321	FX 1 Depth	0.0	0.0000
+322	FX 2 Depth	0.0	0.0000
+323	FX 3 Depth	0.0	0.0000
+324	FX 4 Depth	0.0	0.0000
+325	FX 5 Depth	0.0	0.0000
+326	Data Incr	0.0	0.0000
+327	Data Decr	0.0	0.0000
+328	Non-RegLSB	0.0	0.0000
+329	Non-RegMSB	0.0	0.0000
+330	Reg LSB	0.0	0.0000
+331	Reg MSB	0.0	0.0000
+332	Contr. 102	0.0	0.0000
+333	Contr. 103	0.0	0.0000
+334	Contr. 104	0.0	0.0000
+335	Contr. 105	0.0	0.0000
+336	Contr. 106	0.0	0.0000
+337	Contr. 107	0.0	0.0000
+338	Contr. 108	0.0	0.0000
+339	Contr. 109	0.0	0.0000
+340	Contr. 110	0.0	0.0000
+341	Contr. 111	0.0	0.0000
+342	Contr. 112	0.0	0.0000
+343	Contr. 113	0.0	0.0000
+344	Contr. 114	0.0	0.0000
+345	Contr. 115	0.0	0.0000
+346	Contr. 116	0.0	0.0000
+347	Contr. 117	0.0	0.0000
+348	Contr. 118	0.0	0.0000
+349	Contr. 119	0.0	0.0000
+350	Contr. 120	0.0	0.0000
+351	Reset Ctrl	0.0	0.0000
+352	Local Ctrl	0.0	0.0000
+353	AllNoteOff	0.0	0.0000
+354	OmniModOff	0.0	0.0000
+355	OmniModeOn	0.0	0.0000
+356	MonoModeOn	0.0	0.0000
+357	PolyModeOn	0.0	0.0000
+358	Channel Aftertouch	0.0	0.0000
+359	Pitch Bend	0.5	0.5000
+360	Bypass	0.0	normal
+361	Wet	1.0	100
+362	Delta	0.0	normal

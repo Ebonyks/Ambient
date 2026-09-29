@@ -1,0 +1,47 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "F_168.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 40,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 30,\n  \"valence\": -4.0,\n  \"arousal\": -7.5,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.0,\n      \"desc\": \"Sustained low-mid drone accumulation slightly masks delicate upper-harmonic shimmer.\"\n    },\n    {\n      \"t_seconds\": 12.5,\n      \"desc\": \"Harmonic transition brings out a mild resonant bloom in the lower midrange.\"\n    }\n  ],\n  \"overall\": \"A serene ambient pad texture with rich tonal body and soft attack envelopes, though dense low-mid resonance slightly compromises upper-frequency transparency.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "F_248.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 30,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 35,\n  \"valence\": 3.0,\n  \"arousal\": -6.0,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 8.5,\n      \"desc\": \"Accumulating synth pad layers create slight low-mid resonance and mild clarity masking.\"\n    }\n  ],\n  \"overall\": \"The piece features a slow-ascending melodic drone with a smooth, soft attack texture and warm tonal body, exhibiting minimal harshness though slightly muffled by low-mid masking.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "F_308.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 38,\n  \"harsh\": 12,\n  \"sibilant\": 5,\n  \"bright\": 30,\n  \"valence\": -2.5,\n  \"arousal\": -5.5,\n  \"mood\": \"Hypnotic\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"Sustained low-end drone builds up resonance, slightly masking the subtle high-frequency air and upper harmonic textures.\"\n    }\n  ],\n  \"overall\": \"The excerpt features a smooth, sustained ambient drone with a warm tonal body and soft attack, though static low-frequency accumulation subtly masks the upper shimmer.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  }
+]

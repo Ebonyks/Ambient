@@ -1,0 +1,12 @@
+{
+  "duration_s": 336,
+  "sample_rate": 48000,
+  "input_active_rms": 0.007974566370474483,
+  "normalization_gain_db": 2.9419051756225616,
+  "output_active_rms": 0.011,
+  "peak": 0.07325552166609198,
+  "source": "Native Surge XT print, Physical String Source - High Resolution.rpp",
+  "print_gain_db": 40,
+  "pitch_modulation": "Portamento, drift, second-string detune disabled; no pitch LFO",
+  "filter": "110-2400Hz second-order bandpass after VST print"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "texture_168.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 48,\n  \"harsh\": 12,\n  \"sibilant\": 0,\n  \"bright\": 38,\n  \"valence\": 1.5,\n  \"arousal\": -2.0,\n  \"mood\": \"Contemplative\",\n  \"issues\": [\n    {\n      \"t_seconds\": 3.5,\n      \"desc\": \"Low-mid resonance accumulates as arpeggiated notes overlap in the lower register.\"\n    },\n    {\n      \"t_seconds\": 11.2,\n      \"desc\": \"Individual note attacks become blurred together, losing transient clarity in the chord movement.\"\n    },\n    {\n      \"t_seconds\": 16.0,\n      \"desc\": \"Slight chorusing beating and pitch modulation creates mild phase smearing across the mid frequencies.\"\n    }\n  ],\n  \"overall\": \"The exposed synth organ inner arrangement features gentle harmonic movement, but overlapping repeated note attacks and low-mid voice accumulation blur transient detail and create a slightly resonant low-mid buildup.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "pair_A.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 35,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 38,\n  \"valence\": -1.5,\n  \"arousal\": -7.5,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 5.0,\n      \"desc\": \"Slight low-mid accumulation in the 250-400Hz region during the pad swell.\"\n    },\n    {\n      \"t_seconds\": 15.0,\n      \"desc\": \"Low-mid accumulation recurs in B with identical frequency distribution.\"\n    }\n  ],\n  \"overall\": \"The mix is clean and immersive, with sections A (0-10s) and B (10-20s) being perceptually indistinguishable in tonal complexity, harmonic detail, and internal movement.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "A_60.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 32,\n  \"harsh\": 12,\n  \"sibilant\": 5,\n  \"bright\": 38,\n  \"valence\": 1.5,\n  \"arousal\": -7.2,\n  \"mood\": \"Serene\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.0,\n      \"desc\": \"Sustaining pad tones accumulate mild resonance around 300Hz, subtly softening low-mid definition.\"\n    },\n    {\n      \"t_seconds\": 8.5,\n      \"desc\": \"Inner voice movement slightly overlaps in frequency, creating a subtle harmonic buildup in the low-mid spectrum.\"\n    }\n  ],\n  \"overall\": \"The mix successfully presents subtle moving pitches contained within a smooth, sustained tonal surface rather than a rhythmic arpeggio, avoiding excessive density or vocal/melodic masking.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  }
+]

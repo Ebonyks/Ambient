@@ -1,0 +1,129 @@
+{
+  "prior_successful_listens": 70,
+  "new_successful_listens": 8,
+  "budget": 100,
+  "comparison_design": "20-second excerpts at matching -26 dBFS RMS; six new excerpts, two old excerpts; no artist label in questions.",
+  "interpretation": "Reports hear movement and soft attacks in v7 but describe v6 similarly. This does not validate superiority or artist similarity. Do not optimize to generic 300-Hz complaints.",
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v7_024",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 38,\n  \"harsh\": 12,\n  \"sibilant\": 5,\n  \"bright\": 25,\n  \"valence\": -2.5,\n  \"arousal\": -6.8,\n  \"mood\": \"Somber\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"Low-mid resonant buildup near 300Hz creates slight warmth overload.\"\n    },\n    {\n      \"t_seconds\": 11.2,\n      \"desc\": \"Slight mid-range crowding as additional inner voice pitches enter.\"\n    }\n  ],\n  \"overall\": \"The excerpt maintains a coherent, slow-moving melodic thread across subtle inner-voicing pitch changes rather than mere filter modulation, featuring soft, non-harsh attacks in a warm, dark mix.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v7_043",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 28,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 38,\n  \"valence\": 1.5,\n  \"arousal\": -5.5,\n  \"mood\": \"Serene\",\n  \"issues\": [\n    {\n      \"t_seconds\": 8.5,\n      \"desc\": \"Slight accumulation of warm low-mid resonance around 300Hz as inner voices cross.\"\n    }\n  ],\n  \"overall\": \"A clear, continuous linear thread remains audible across gentle step-like inner pitch shifts and evolving voice leading with soft, non-harsh attacks, creating a lush and well-balanced ambient mix.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v7_107",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 32,\n  \"harsh\": 12,\n  \"sibilant\": 5,\n  \"bright\": 25,\n  \"valence\": -2.5,\n  \"arousal\": -7.2,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 3.5,\n      \"desc\": \"Low-mid energy around 300Hz builds slightly as upper voicing swells.\"\n    },\n    {\n      \"t_seconds\": 11.8,\n      \"desc\": \"Minor frequency masking in the 250-400Hz region during legato pitch transition.\"\n    }\n  ],\n  \"overall\": \"Slow legato inner-voice pitch transitions maintain a clear, continuous melodic thread across sustained drones with extremely soft, non-harsh attacks and gentle filter swells.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v7_165",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 25,\n  \"harsh\": 10,\n  \"sibilant\": 5,\n  \"bright\": 45,\n  \"valence\": -1.5,\n  \"arousal\": -6.5,\n  \"mood\": \"Atmospheric\",\n  \"issues\": [\n    {\n      \"t_seconds\": 3.5,\n      \"desc\": \"Low-mid resonance swells slightly around 300Hz, softening detail.\"\n    },\n    {\n      \"t_seconds\": 12.2,\n      \"desc\": \"Upper harmonic voicing blooms with a mild peak in the 6-8kHz air frequency band.\"\n    }\n  ],\n  \"overall\": \"A smooth, continuous ambient pad texture with extremely soft attacks and slow, sustained inner pitch movement held together by an audible central thread.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v7_248",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 35,\n  \"harsh\": 8,\n  \"sibilant\": 5,\n  \"bright\": 22,\n  \"valence\": -1.5,\n  \"arousal\": -6.5,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 1.5,\n      \"desc\": \"Low-mid energy around 300Hz builds up slightly as the lower chord voicing enters.\"\n    },\n    {\n      \"t_seconds\": 11.0,\n      \"desc\": \"High frequencies are heavily attenuated, resulting in a slightly dark, recessed top end.\"\n    }\n  ],\n  \"overall\": \"A lush, atmospheric pad mix featuring smooth harmonic voice leading and gentle transients, maintaining a clear continuous thread despite a slightly congested low-mid response.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v7_310",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 25,\n  \"harsh\": 12,\n  \"sibilant\": 5,\n  \"bright\": 48,\n  \"valence\": -1.5,\n  \"arousal\": -6.5,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"Slight low-mid resonance buildup around 250-350Hz in the lower sustained pad.\"\n    },\n    {\n      \"t_seconds\": 13.8,\n      \"desc\": \"Minor accumulation of high-mid resonance as a new upper-register note enters.\"\n    }\n  ],\n  \"overall\": \"A coherent harmonic thread remains audible across slow inner voicing changes and top-register pitch shifts rather than simple filter modulation, maintaining smooth, non-harsh attacks throughout the ambient excerpt.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v6_043",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 25,\n  \"harsh\": 15,\n  \"sibilant\": 10,\n  \"bright\": 45,\n  \"valence\": -2.0,\n  \"arousal\": -6.0,\n  \"mood\": \"Atmospheric\",\n  \"issues\": [\n    {\n      \"t_seconds\": 5.5,\n      \"desc\": \"Low-mid frequency accumulation in the pad texture creates a subtle build around 250-350 Hz.\"\n    },\n    {\n      \"t_seconds\": 14.2,\n      \"desc\": \"High-frequency sheen swells around 6-8 kHz, though transients remain gentle without harshness.\"\n    }\n  ],\n  \"overall\": \"The mix exhibits a smooth, continuous harmonic thread with subtle pitch and inner-voicing movements across sustained pad layers, maintaining clear tonal definition without harsh attacks or static filter-only shifts.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "clip": "v6_165",
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"muddy\": 25,\n  \"harsh\": 12,\n  \"sibilant\": 8,\n  \"bright\": 38,\n  \"valence\": 1.5,\n  \"arousal\": -6.0,\n  \"mood\": \"Serene\",\n  \"issues\": [\n    {\n      \"t_seconds\": 4.5,\n      \"desc\": \"Mild low-mid buildup near 300Hz as the inner voice pitch shifts.\"\n    },\n    {\n      \"t_seconds\": 13.2,\n      \"desc\": \"Slight upper-mid resonance peak at 2.5kHz on the vocal swell entry.\"\n    }\n  ],\n  \"overall\": \"A continuous, fluid harmonic thread guides gentle inner pitch movement and vocal swells with very soft attacks, maintaining a warm and spacious balance without harshness.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+            }
+          ],
+          "isError": false
+        }
+      }
+    }
+  ]
+}

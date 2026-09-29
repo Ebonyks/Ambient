@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"muddy\": 18,\n  \"harsh\": 28,\n  \"sibilant\": 12,\n  \"bright\": 74,\n  \"valence\": 7.2,\n  \"arousal\": 6.8,\n  \"mood\": \"playful\",\n  \"issues\": [\n    {\n      \"t_seconds\": 6.2,\n      \"desc\": \"Slight mid-frequency build-up during rapid left-hand movement.\"\n    },\n    {\n      \"t_seconds\": 15.1,\n      \"desc\": \"Upper-register transients sound slightly sharp on staccato accents.\"\n    }\n  ],\n  \"overall\": \"The mix features crisp, rapid articulations with clear separation between the descending bass line and soaring treble melody, maintaining energetic rhythmic continuity without losing transient detail.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+    }
+  ],
+  "isError": false
+}

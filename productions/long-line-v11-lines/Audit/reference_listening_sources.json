@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "track": "Parasol",
+      "artist": "Lubomyr Melnyk",
+      "page": "https://lubomyrmelnyk.bandcamp.com/track/parasol",
+      "window_s": [
+        120,
+        140
+      ],
+      "excerpt_sha256": "bc06937c937a3778c82977e1b7c970aa978bb86789dd3b6be13d2b1617e4c17b",
+      "source_sha256": "7e0a6b5f013b6712782aca87583aa62f267669e08970a63b797135284307d971",
+      "resampled_source_correlation": 0.9989062788587799,
+      "excerpt_sample_rate": 24000,
+      "comparison_note": "Zero-lag correlation using independent scipy resampler; 16-bit excerpt and resampling filters differ."
+    },
+    {
+      "track": "Parasol",
+      "artist": "Lubomyr Melnyk",
+      "page": "https://lubomyrmelnyk.bandcamp.com/track/parasol",
+      "window_s": [
+        360,
+        380
+      ],
+      "excerpt_sha256": "932ec5e9dd12943107c6c5bd546b4204ff2b4b13cf26aab744581db841aaec28",
+      "source_sha256": "7e0a6b5f013b6712782aca87583aa62f267669e08970a63b797135284307d971",
+      "resampled_source_correlation": 0.9992698366463769,
+      "excerpt_sample_rate": 24000,
+      "comparison_note": "Zero-lag correlation using independent scipy resampler; 16-bit excerpt and resampling filters differ."
+    }
+  ],
+  "scope": "Two fresh reference listens explicitly requested after the earlier allowance; no new open-ended review budget assumed.",
+  "reference_audio_redistributed": false
+}

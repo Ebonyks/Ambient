@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 52,\n  \"harsh\": 28,\n  \"sibilant\": 8,\n  \"bright\": 26,\n  \"valence\": -4.2,\n  \"arousal\": -5.5,\n  \"mood\": \"Somber\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.5,\n      \"desc\": \"Low-mid energy buildup around 250-400Hz during the initial low reed entry creates a slightly resonant boom.\"\n    },\n    {\n      \"t_seconds\": 7.8,\n      \"desc\": \"Upper-mid reed harmonic swell introduces a narrow peak near 3kHz as tone pitch shifts.\"\n    }\n  ],\n  \"overall\": \"A sustained, low-mid dominant drone featuring soft attack audibility and a heavily damped top end that creates a restrained, neutral sonic profile.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

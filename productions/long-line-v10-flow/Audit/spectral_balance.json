@@ -1,0 +1,15 @@
+{
+  "measurements": [
+    {
+      "version": "A",
+      "fraction_200_500_hz": 0.4236778876910919,
+      "rms": 0.0796476912223902
+    },
+    {
+      "version": "B",
+      "fraction_200_500_hz": 0.3597401810399189,
+      "rms": 0.06704863297016957
+    }
+  ],
+  "meaning": "Linear power fraction of mono-summed Welch spectrum, not a perceptual muddiness score."
+}

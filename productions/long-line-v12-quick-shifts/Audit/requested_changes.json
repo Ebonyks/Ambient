@@ -1,0 +1,38 @@
+{
+  "native_parameter_changes_only": [
+    {
+      "track": 0,
+      "parameter": 18,
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "track": 1,
+      "parameter": 32,
+      "before": 0.014,
+      "after": 0.007
+    },
+    {
+      "track": 2,
+      "parameter": 18,
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "track": 3,
+      "parameter": 32,
+      "before": 0.014,
+      "after": 0.007
+    }
+  ],
+  "harmonic_period_s": 3.5,
+  "harmonic_stagger_s": [
+    0.0,
+    0.2625,
+    0.6125,
+    1.05
+  ],
+  "note_onset_velocity_and_count_preserved": true,
+  "gain_policy": "Frozen preceding lane/composite/bus gains; export B master 1.72 -> 0.86 only to eliminate observed clipping",
+  "listening_model_calls": 0
+}

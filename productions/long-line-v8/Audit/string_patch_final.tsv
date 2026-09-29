@@ -1,0 +1,16 @@
+230	A Portamento	0	0.0 ms
+331	A Amp EG Decay	0.73	2.81 s
+334	A Amp EG Release	0.63	1.14 s
+333	A Amp EG Sustain	0.62	62.00 %
+259	A Osc 1 Exciter	0.56	Constant Pink Noise
+260	A Osc 1 Exciter Level	0.24	24.00 %
+261	A Osc 1 String 1 Decay	0.64	64.00 %
+262	A Osc 1 String 2 Decay	0.8	80.00 %
+263	A Osc 1 String 2 Detune	0.5	0.00 cents
+234	A Osc Drift	0	0.00 %
+265	A Osc 1 Stiffness	0.18	-64.00 %
+319	A Filter 1 Cutoff	0.57	993.49 Hz
+12	Global Volume	0.72	-13.44 dB
+320	A Filter 1 Resonance	0.05	5.00 %
+329	A Amp EG Attack	0.55	554.8 ms
+264	A Osc 1 String Balance	0	-100.00 % (String 1)

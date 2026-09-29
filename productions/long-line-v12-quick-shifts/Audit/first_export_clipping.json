@@ -1,0 +1,6 @@
+{
+  "version": "A",
+  "peak": 1.0,
+  "samples_at_or_above_0_999": 1745,
+  "disposition": "Rejected clipped export. Render B changes only master gain from 1.72 to 0.86 for headroom."
+}

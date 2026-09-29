@@ -1,0 +1,13 @@
+{
+  "phrase_repetitions": 1652,
+  "distinct_control_sets": 1652,
+  "timing_limit_ms": 5,
+  "velocity_touch_limit": 2.2,
+  "duration_variation_percent": 5,
+  "native_volume_envelopes": 4,
+  "gain_bounds_db": [
+    -0.6488999816736818,
+    0.6492352359036194
+  ],
+  "note": "Distinct bounded phrasing controls are verified; this is authored performance variation, not proof of sounding human."
+}

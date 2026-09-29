@@ -1,0 +1,21 @@
+{
+  "duration_s": 336,
+  "synthesis_rate_hz": 24000,
+  "delivery_rate_hz": 48000,
+  "new_saturation_oversampling": 4,
+  "source_rms_reference_dbfs": -18,
+  "new_parallel_drive_db": 12,
+  "pitch_jitter_cents": 0,
+  "seed": 260926,
+  "common_source_events": 19,
+  "harmony_states": 7,
+  "legacy_motif_processing": "Preserved transformed piano/grain source, including prior distortion; not claimed to have been oversampled retroactively.",
+  "independent_roles": [
+    "anchor",
+    "pitched body",
+    "clearer upper motif",
+    "distorted returns",
+    "residue",
+    "environment"
+  ]
+}

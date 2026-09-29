@@ -1,0 +1,98 @@
+[
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_C2_pp_RR1.wav",
+    "source_sha256": "965d05d098e65226bfebbfff2951aa649d527c4a90545e6437e8ced9d703de08",
+    "derived_file": "Sources\\UR1_C2_pp_RR1.flac",
+    "sha256": "ef606a71e18d931e063bab6ee4ea6575db02ee658a8018450748128067a2ca41",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_C3_pp_RR1.wav",
+    "source_sha256": "2fbe80d44b96c24980762eb805594cff6b84a5b4ed06ddfed70a8f8c692b856f",
+    "derived_file": "Sources\\UR1_C3_pp_RR1.flac",
+    "sha256": "d1673b64c67c5366cbb3448c8c42feabfc42a6c52a1a61458c59db40b08fd483",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_C4_pp_RR1.wav",
+    "source_sha256": "0354bf405b644eb16b0d1223e304de93b4abef4e2191c552665563784d40f1ea",
+    "derived_file": "Sources\\UR1_C4_pp_RR1.flac",
+    "sha256": "6bdb9476c22945889b35fb663e43e7519ce814b21049d0c0fdcd96a8c5f83758",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_C5_pp_RR1.wav",
+    "source_sha256": "e0d5353f67afe55e4d6d49253651f2a8aa0c456603f538175e103769e1e1e73c",
+    "derived_file": "Sources\\UR1_C5_pp_RR1.flac",
+    "sha256": "5e818755d80243c2f0411b9080259df60372ce9bd48bbe7c39e8dab4eb204a1e",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_G2_pp_RR1.wav",
+    "source_sha256": "3ac70e5610a9fd33e0b5512fdd29a29e2d4abeecea7edda53644cab5a16a6aa8",
+    "derived_file": "Sources\\UR1_G2_pp_RR1.flac",
+    "sha256": "095280c44de6a2fd26df5b2dde2094a1919905e70a8db027f066480026a925d2",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_G3_pp_RR1.wav",
+    "source_sha256": "328f35968d8c52f854baae364529e41d4b1eeffc3c42de6fefe506617ddb4e88",
+    "derived_file": "Sources\\UR1_G3_pp_RR1.flac",
+    "sha256": "e69ed2c7be4f073f7036ed82e2e26e28c1b0fa48b382f5f6d5d0d36a7c1f3496",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_G4_pp_RR1.wav",
+    "source_sha256": "23c25a7d2757a0aaca9292b6e9a9197223fd34a946dc4fa19883fda1f7bed9a2",
+    "derived_file": "Sources\\UR1_G4_pp_RR1.flac",
+    "sha256": "a3f4ec851943553fef1ce0ebc56a8cad26bbf6a5f2c1a73f17193f1deea12a04",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 2\\Sources\\VSCO\\Keys\\Upright Nr1\\UR1_G5_pp_RR1.wav",
+    "source_sha256": "6006fc831f64d3f459825d58d5a51474ba77d59a009bd8282788abb410f7c174",
+    "derived_file": "Sources\\UR1_G5_pp_RR1.flac",
+    "sha256": "bb131eb44004829482dc4d8c244a189f7185164a689b27ff2035d4aa2d7ec5aa",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 3\\Media\\02_Eroded_arch_and_pitch_drift.wav",
+    "source_sha256": "93effe067205bb3e593623ddf13fe6b099c210bcdcfc06e7d817b9dba2e6f044",
+    "derived_file": "Sources\\02_Eroded_arch_and_pitch_drift.flac",
+    "sha256": "8163826992366855b1e9127f0d1487a68cfce1a01b9e07d8b6ac0f817738541e",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Revision 5\\Media\\K_continuous_arch.wav",
+    "source_sha256": "700eb8a3f9e89742b3bdaa1874d8768d316575723c744fdb3c812a11256a3831",
+    "derived_file": "Sources\\K_continuous_arch.flac",
+    "sha256": "596b13835c13d9585327d7673c39039a0ec6338a0f51ef77c2e2e8a1d2801afa",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Sources\\stream.wav",
+    "source_sha256": "79150a6e09db091228c2db8205d93161154f69c3959d53355cb441f1009052d3",
+    "derived_file": "Sources\\stream.flac",
+    "sha256": "2a263a2dc90f60cbead923c21abf8c3d3aa8ec1da3332c9fa5d839b8ff27b180",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  },
+  {
+    "source": "C:\\Users\\Peter\\Music\\Estuary Glass\\Sources\\tree_ms.wav",
+    "source_sha256": "61998288bdb0c0e1cb9a371a4888aa1d7605ea212b37c70c801e2def64cedba4",
+    "derived_file": "Sources\\tree_ms.flac",
+    "sha256": "1c017707a2571a1735ed8bea81b12d7f9dc0c26bbab9825b0eaee2c162fd72a8",
+    "modification": "lossless PCM-to-FLAC encoding; no timbral change",
+    "license": "CC0 source lineage; original transformed stems authored in previous revisions"
+  }
+]

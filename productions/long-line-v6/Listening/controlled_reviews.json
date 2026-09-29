@@ -1,0 +1,46 @@
+[
+  {
+    "sample": "X",
+    "report": {
+      "muddy": 40,
+      "harsh": 15,
+      "sibilant": 0,
+      "bright": 25,
+      "valence": -1.5,
+      "arousal": -5,
+      "mood": "Meditative",
+      "issues": [
+        {
+          "t_seconds": 9,
+          "desc": "A sudden amplitude drop and quick re-articulation interrupt the smooth sustain of the middle pitches, introducing an unnecessary new attack."
+        }
+      ],
+      "overall": "This warm harmonic body excerpt maintains a stable tone until a brief amplitude drop around the nine-second mark causes a faint re-triggering effect.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  },
+  {
+    "sample": "Y",
+    "report": {
+      "muddy": 25,
+      "harsh": 20,
+      "sibilant": 0,
+      "bright": 35,
+      "valence": -1.5,
+      "arousal": -5,
+      "mood": "Meditative",
+      "issues": [
+        {
+          "t_seconds": 5,
+          "desc": "Sustained pitches maintain steady amplitude and pitch continuity through the middle section with no envelope interruptions or unintended re-attacks."
+        }
+      ],
+      "overall": "A warm, resonant harmonic sustain excerpt that exhibits smooth amplitude continuity and stable pitch throughout without artificial re-triggering.",
+      "audio_sent_seconds": 20,
+      "backend": "Gemini cloud; inline WAV; first 20 seconds maximum"
+    },
+    "isError": false
+  }
+]

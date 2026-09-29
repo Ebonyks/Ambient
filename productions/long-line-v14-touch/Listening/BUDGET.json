@@ -1,0 +1,33 @@
+{
+  "prior_successful_total": 102,
+  "new_authorized_allowance": 50,
+  "used_this_revision": 6,
+  "remaining_new_allowance": 44,
+  "cumulative_successful_total": 108,
+  "reviews": [
+    {
+      "id": 103,
+      "subject": "Fourman Refrigerate 2:00-2:20"
+    },
+    {
+      "id": 104,
+      "subject": "Fourman Heed 2:00-2:20"
+    },
+    {
+      "id": 105,
+      "subject": "RMS-matched previous draft vs first touch render"
+    },
+    {
+      "id": 106,
+      "subject": "First touch render 0:48-1:08"
+    },
+    {
+      "id": 107,
+      "subject": "RMS-matched previous draft vs final render"
+    },
+    {
+      "id": 108,
+      "subject": "Final render 1:04-1:24"
+    }
+  ]
+}

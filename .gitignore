@@ -1,0 +1,14 @@
+.venv/
+**/__pycache__/
+**/*_float.wav
+**/*.reapeaks
+**/*.rpp-bak
+**/Listening/*.wav
+**/Scripts/analysis/audio_analysis/*.wav
+**/Renders/*.wav
+**/Renders/*Full Length - 5m36.mp3
+**/Renders/*Refined*.mp3
+**/Long Line - Rebuilt.rpp
+**/Media/03_Pitched_motif_route.flac
+**/Media/04_Eroded_motif_return.flac
+**/Scripts/build_reaper.lua

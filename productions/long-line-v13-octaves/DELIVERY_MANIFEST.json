@@ -1,0 +1,195 @@
+{
+  "scope": "Intermittent upper octave harmonies; source notes, patches and mix settings preserved",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3817,
+      "sha256": "95ddccfc0446090e8af15140e94ea6acb123cf2fea74c312a45e9a67fde02ed0"
+    },
+    {
+      "path": "productions/long-line-v12-quick-shifts/texture.json",
+      "bytes": 5436736,
+      "sha256": "f3a44264f2160e7a4a2eed37d50d333cd390dfe05d73afb3a77cc344003988ec"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/QA.json",
+      "bytes": 816,
+      "sha256": "ab6a2b00233a39a5241c0344df35f3fa72416b6bc08b72f721aba97c5be29a93"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/bed_sources.json",
+      "bytes": 341,
+      "sha256": "dc5785d72366df382664c87bfc8b2c6606174a23a0ac83ace42c1bb6749fc046"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/inherited_gains.json",
+      "bytes": 291,
+      "sha256": "588b62c5993ad6ac7d1419cc898f36079000a140a0aa8b47c78f91fd10aea63a"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/lanes_returned.txt",
+      "bytes": 49,
+      "sha256": "ee630ad0bdfa2bafea4384321815252ef7ae97574ab72a9202f9f8a6bbf94e65"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/native_patches.tsv",
+      "bytes": 2793,
+      "sha256": "be8322ec080be67c39aa0ff17dc27c3c2d68aea3402cc2f6d5293f5e8aa56e37"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/octave_changes.json",
+      "bytes": 225,
+      "sha256": "a2dbcafbb330fba6bb3cc470695bff1abb58bce4be3e27130c3c98ae8a9f2dab"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/octaves_effects.tsv",
+      "bytes": 1006,
+      "sha256": "5c0e865cdeb1672bd0fc0f66c5bff6270bb33a018847d2787b49ac569a1bdb83"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/octaves_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/octaves_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/print_calibration.json",
+      "bytes": 1271,
+      "sha256": "6f056b2e049e58c1eabf878a61ad603ddcc4744c162389b718931e4bce786c69"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Audit/texture_render_returned.txt",
+      "bytes": 22,
+      "sha256": "a6b2d1d8e4ea0c365abb4b26d77d352453a5e5be0ba65843c75381a45fbb007f"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Long Line - Upper Octaves.rpp",
+      "bytes": 9644,
+      "sha256": "bc268326ebcb4cd2dbbbb41da453c7e663c41d49f375831d8634acf23474f562"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Media/01_Nature_bed.flac",
+      "bytes": 15621849,
+      "sha256": "1d0535ddbd70b4c39053e4f0f92acef66a7adae62ecda058971631db3c3ce8c5"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Media/02_Inner_lane_0.flac",
+      "bytes": 5821667,
+      "sha256": "a5a0053cad87cd65ef909f455b44aac77111bc5f77849fb56a5fae14c21e17aa"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Media/03_Inner_lane_1.flac",
+      "bytes": 7975361,
+      "sha256": "a7e1e99befd90dde7c08cddf3dd95cc86a93905987b2197fce9c66b93a771b10"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Media/04_Inner_lane_2.flac",
+      "bytes": 5876210,
+      "sha256": "0a73929c97d815c981a1fbf5c50a0ca8320916369d6d8ed9bef278c2f23545b8"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Media/05_Inner_lane_3.flac",
+      "bytes": 8404242,
+      "sha256": "57072afb204763dc1a0c61bdeb2dbe56759c267792cceb0cfd79b4d88da03431"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Media/06_Inner_texture.flac",
+      "bytes": 11480102,
+      "sha256": "93aac3e788db91fef29b217ed3ec1ab419b881e75a699e384a2b3270872a2333"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/README.md",
+      "bytes": 2516,
+      "sha256": "22fcf265c257439e38e22ac54b660b83d95ddeae109c5334c046c6477cb3f6d7"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Renders/Long Line - Upper Octaves - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "18915445d482a2d8d3934317e47ab61689ecd3ec3fe4f27ff4e0d3ee03828a77"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Scripts/build_octaves.lua",
+      "bytes": 3643,
+      "sha256": "d5a21c2e65cf322ec8188782fb49c49085a16c7e974f9b98a8d76cc0209b233f"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Scripts/demo_notes.lua",
+      "bytes": 158791,
+      "sha256": "59266e51acf1bf217b02716ebd6f9db7dcaca88418ffcade0a3e58030336b491"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Scripts/prepare_demo.py",
+      "bytes": 2049,
+      "sha256": "34fddaf21707d14511088497c69b88c0470e8e2498a98264609fe23ead7144bd"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Scripts/print_lanes.lua",
+      "bytes": 1012,
+      "sha256": "385248df40996150ec579163356950eea3d2a141fcc9c0987a32e2a2b99ae8ed"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Scripts/render_instruments.lua",
+      "bytes": 3057,
+      "sha256": "142536b4fa48916dc872b8a98ac343d5f096fa6176e882b608273660024c4b7c"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Scripts/verify_octaves.py",
+      "bytes": 1469,
+      "sha256": "3654ef680b5d0de8461221267ff1ba89fd36056391ddef25691d7b8403e47b68"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/Texture Instruments.rpp",
+      "bytes": 295769,
+      "sha256": "09b6b7ab6d1a3fdfb969f2dc14956d6355c1f1b72fcfc0f5b6b79d032f3a7717"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/texture.json",
+      "bytes": 5665685,
+      "sha256": "6e61b247f0ea55647c321483c3ba47877606116453d99456e097c82aa95208d6"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/texture.mid",
+      "bytes": 229694,
+      "sha256": "ad58266ec225d86b9e6853f3f86725ffe61c5390824fdab38d09aa988dd89a4c"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 10120,
+      "sha256": "3526d7d5ab399e9d46794567069e45e8a4c3f5c923bc102e3e30f160c4ec1728"
+    },
+    {
+      "path": "tools/melodic_weave/continuous_field.py",
+      "bytes": 4247,
+      "sha256": "3221c4dca58f0dc8f44491a0f2caf4fce3f5018f09cace80aa5d76381eb0d0ea"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/test_upper_octaves.py",
+      "bytes": 1593,
+      "sha256": "a4d819aa8e661a72734ee6a72184ee2aad76ab6cddc8bd51b9693900ff1b2495"
+    },
+    {
+      "path": "tools/melodic_weave/texture_weave.py",
+      "bytes": 8725,
+      "sha256": "2f36c0535bf6a690ebd291e2123897d2637539c4c0cd95eac17d3f77bb7aaa48"
+    },
+    {
+      "path": "tools/melodic_weave/upper_octaves.py",
+      "bytes": 1832,
+      "sha256": "b40ac89611806011c4f2b0f0d4c0e3b59b060dc0d67ef1016a3e2c273a4aac2e"
+    }
+  ]
+}

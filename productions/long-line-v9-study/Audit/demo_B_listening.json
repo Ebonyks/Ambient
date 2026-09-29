@@ -1,0 +1,32 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "pair_B.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 25,\n  \"harsh\": 10,\n  \"sibilant\": 5,\n  \"bright\": 30,\n  \"valence\": -2.0,\n  \"arousal\": -8.0,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"Minor low-mid accumulation in synth pad tail.\"\n    }\n  ],\n  \"overall\": \"A serene, well-balanced ambient mix where A (0-10s) and B (10-20s) are virtually indistinguishable in inner harmonic activity, attack transients, and overall density.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "file": "B_60.wav",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n  \"muddy\": 35,\n  \"harsh\": 12,\n  \"sibilant\": 5,\n  \"bright\": 28,\n  \"valence\": 2.0,\n  \"arousal\": -6.0,\n  \"mood\": \"Ethereal\",\n  \"issues\": [\n    {\n      \"t_seconds\": 3.5,\n      \"desc\": \"Slight low-mid resonance accumulation around 300Hz during the initial pad swell.\"\n    },\n    {\n      \"t_seconds\": 12.0,\n      \"desc\": \"Subtle mid-range masking as inner voice movements overlap, slightly muddying the pitch definition.\"\n    }\n  ],\n  \"overall\": \"The track features a warm, tranquil ambient pad with subtly interlocking pitched swells that enrich the harmony, though a dynamic EQ dip around 300Hz would subtly clarify the inner voice movement.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  }
+]

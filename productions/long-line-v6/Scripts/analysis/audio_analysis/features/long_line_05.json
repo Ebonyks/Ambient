@@ -1,0 +1,1384 @@
+{
+  "album": "long_line",
+  "track_num": 5,
+  "title": "Revision 5 baseline",
+  "duration": 112,
+  "page": "local original composition",
+  "stream_sha256": "b7ae9e1f3fab7fcdc270681bef5213fcd30ab59926f413b534c7bc1c22bc55a9",
+  "source_quality": "48 kHz 24-bit original rendered WAV; decoded to 22050 Hz for identical extractor",
+  "analysis_wav_path": "C:\\Users\\Peter\\Music\\Ambient\\productions\\long-line-v6\\Scripts\\analysis\\audio_analysis\\baseline.wav",
+  "id": "long_line_05",
+  "decoded_duration_s": 112.0,
+  "analysis_hop_s": 0.5,
+  "status": "audio_measured_with_inferred_pitch_candidates",
+  "sections": [
+    {
+      "section": 1,
+      "start_s": 0.0,
+      "end_s": 15.5,
+      "boundary_kind": "measured novelty candidate or 90s analysis cap",
+      "pitch_class_ranking": [
+        "A",
+        "B",
+        "E",
+        "D",
+        "F#",
+        "F",
+        "C#"
+      ],
+      "key_profile_candidates": [
+        {
+          "label": "A major",
+          "correlation": 0.778
+        },
+        {
+          "label": "A minor",
+          "correlation": 0.668
+        },
+        {
+          "label": "D major",
+          "correlation": 0.519
+        }
+      ],
+      "direct_spectrum_key_candidates": [
+        {
+          "label": "A major",
+          "correlation": 0.838
+        },
+        {
+          "label": "A minor",
+          "correlation": 0.662
+        },
+        {
+          "label": "F# minor",
+          "correlation": 0.549
+        }
+      ],
+      "key_model_agreement": true,
+      "voicing_candidates": [
+        {
+          "note": "A3",
+          "midi": 57,
+          "relative_salience": 1.0,
+          "fundamental_support_fraction": 0.516,
+          "measured_peak_hz": 219.83,
+          "peak_cents_from_note": -1.3,
+          "local_peak_prominence_db": 13.0,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "A4",
+          "midi": 69,
+          "relative_salience": 0.837,
+          "fundamental_support_fraction": 0.806,
+          "measured_peak_hz": 439.12,
+          "peak_cents_from_note": -3.5,
+          "local_peak_prominence_db": 14.0,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "B4",
+          "midi": 71,
+          "relative_salience": 0.684,
+          "fundamental_support_fraction": 0.548,
+          "measured_peak_hz": 495.87,
+          "peak_cents_from_note": 6.9,
+          "local_peak_prominence_db": 11.2,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "E4",
+          "midi": 64,
+          "relative_salience": 0.325,
+          "fundamental_support_fraction": 0.581,
+          "measured_peak_hz": 328.93,
+          "peak_cents_from_note": -3.7,
+          "local_peak_prominence_db": 12.9,
+          "narrow_peak_supported": true
+        }
+      ],
+      "prominent_spectral_partials": [
+        {
+          "hz": 982.7,
+          "nearest_note": "B5",
+          "cents_from_A440_note": -8.9,
+          "relative_db": 0.0,
+          "local_peak_prominence_db": 16.8
+        },
+        {
+          "hz": 439.12,
+          "nearest_note": "A4",
+          "cents_from_A440_note": -3.5,
+          "relative_db": -0.0,
+          "local_peak_prominence_db": 14.1
+        },
+        {
+          "hz": 440.14,
+          "nearest_note": "A4",
+          "cents_from_A440_note": 0.6,
+          "relative_db": -1.9,
+          "local_peak_prominence_db": 12.1
+        },
+        {
+          "hz": 876.92,
+          "nearest_note": "A5",
+          "cents_from_A440_note": -6.1,
+          "relative_db": -2.0,
+          "local_peak_prominence_db": 15.5
+        },
+        {
+          "hz": 436.37,
+          "nearest_note": "A4",
+          "cents_from_A440_note": -14.3,
+          "relative_db": -2.1,
+          "local_peak_prominence_db": 12.3
+        },
+        {
+          "hz": 328.93,
+          "nearest_note": "E4",
+          "cents_from_A440_note": -3.7,
+          "relative_db": -2.8,
+          "local_peak_prominence_db": 12.9
+        },
+        {
+          "hz": 437.71,
+          "nearest_note": "A4",
+          "cents_from_A440_note": -9.0,
+          "relative_db": -3.2,
+          "local_peak_prominence_db": 11.0
+        },
+        {
+          "hz": 877.87,
+          "nearest_note": "A5",
+          "cents_from_A440_note": -4.2,
+          "relative_db": -3.9,
+          "local_peak_prominence_db": 13.6
+        },
+        {
+          "hz": 219.83,
+          "nearest_note": "A3",
+          "cents_from_A440_note": -1.3,
+          "relative_db": -4.1,
+          "local_peak_prominence_db": 13.0
+        },
+        {
+          "hz": 874.99,
+          "nearest_note": "A5",
+          "cents_from_A440_note": -9.9,
+          "relative_db": -4.2,
+          "local_peak_prominence_db": 13.3
+        }
+      ],
+      "rms_dbfs": -32.53,
+      "power_centroid_hz": 1129.5,
+      "side_to_mid_db": -3.32,
+      "spectral_flatness": 0.0349,
+      "supported_pitch_components": [
+        "A3",
+        "A4",
+        "B4",
+        "E4"
+      ],
+      "tonality_status": "pitched_components_supported_mode_unverified",
+      "amplitude_period_candidate_s": 0.16,
+      "amplitude_period_autocorrelation": 0.372,
+      "detected_envelope_attack_rate_hz": 5.097
+    },
+    {
+      "section": 2,
+      "start_s": 15.5,
+      "end_s": 47.0,
+      "boundary_kind": "measured novelty candidate or 90s analysis cap",
+      "pitch_class_ranking": [
+        "D",
+        "A",
+        "E",
+        "B",
+        "G",
+        "F#",
+        "C#"
+      ],
+      "key_profile_candidates": [
+        {
+          "label": "D major",
+          "correlation": 0.899
+        },
+        {
+          "label": "D minor",
+          "correlation": 0.639
+        },
+        {
+          "label": "A major",
+          "correlation": 0.597
+        }
+      ],
+      "direct_spectrum_key_candidates": [
+        {
+          "label": "D major",
+          "correlation": 0.904
+        },
+        {
+          "label": "A major",
+          "correlation": 0.716
+        },
+        {
+          "label": "B minor",
+          "correlation": 0.616
+        }
+      ],
+      "key_model_agreement": true,
+      "voicing_candidates": [
+        {
+          "note": "D5",
+          "midi": 74,
+          "relative_salience": 1.0,
+          "fundamental_support_fraction": 0.921,
+          "measured_peak_hz": 585.17,
+          "peak_cents_from_note": -6.4,
+          "local_peak_prominence_db": 21.5,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "A4",
+          "midi": 69,
+          "relative_salience": 0.581,
+          "fundamental_support_fraction": 0.73,
+          "measured_peak_hz": 440.26,
+          "peak_cents_from_note": 1.0,
+          "local_peak_prominence_db": 18.9,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "E4",
+          "midi": 64,
+          "relative_salience": 0.284,
+          "fundamental_support_fraction": 0.365,
+          "measured_peak_hz": 328.74,
+          "peak_cents_from_note": -4.7,
+          "local_peak_prominence_db": 18.3,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "B4",
+          "midi": 71,
+          "relative_salience": 0.227,
+          "fundamental_support_fraction": 0.508,
+          "measured_peak_hz": 486.76,
+          "peak_cents_from_note": -25.1,
+          "local_peak_prominence_db": 12.9,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "G3",
+          "midi": 55,
+          "relative_salience": 0.196,
+          "fundamental_support_fraction": 0.175,
+          "measured_peak_hz": 194.62,
+          "peak_cents_from_note": -12.2,
+          "local_peak_prominence_db": 19.0,
+          "narrow_peak_supported": false
+        },
+        {
+          "note": "B3",
+          "midi": 59,
+          "relative_salience": 0.158,
+          "fundamental_support_fraction": 0.238,
+          "measured_peak_hz": 244.47,
+          "peak_cents_from_note": -17.4,
+          "local_peak_prominence_db": 18.1,
+          "narrow_peak_supported": false
+        }
+      ],
+      "prominent_spectral_partials": [
+        {
+          "hz": 585.17,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -6.4,
+          "relative_db": 0.0,
+          "local_peak_prominence_db": 21.5
+        },
+        {
+          "hz": 586.17,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -3.4,
+          "relative_db": -1.6,
+          "local_peak_prominence_db": 19.9
+        },
+        {
+          "hz": 584.09,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -9.6,
+          "relative_db": -1.9,
+          "local_peak_prominence_db": 19.5
+        },
+        {
+          "hz": 440.26,
+          "nearest_note": "A4",
+          "cents_from_A440_note": 1.0,
+          "relative_db": -4.5,
+          "local_peak_prominence_db": 18.8
+        },
+        {
+          "hz": 582.56,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -14.1,
+          "relative_db": -4.6,
+          "local_peak_prominence_db": 16.7
+        },
+        {
+          "hz": 588.07,
+          "nearest_note": "D5",
+          "cents_from_A440_note": 2.2,
+          "relative_db": -5.1,
+          "local_peak_prominence_db": 16.4
+        },
+        {
+          "hz": 589.74,
+          "nearest_note": "D5",
+          "cents_from_A440_note": 7.1,
+          "relative_db": -5.7,
+          "local_peak_prominence_db": 15.8
+        },
+        {
+          "hz": 590.78,
+          "nearest_note": "D5",
+          "cents_from_A440_note": 10.1,
+          "relative_db": -5.9,
+          "local_peak_prominence_db": 15.6
+        },
+        {
+          "hz": 581.39,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -17.6,
+          "relative_db": -6.2,
+          "local_peak_prominence_db": 15.1
+        },
+        {
+          "hz": 437.64,
+          "nearest_note": "A4",
+          "cents_from_A440_note": -9.3,
+          "relative_db": -6.5,
+          "local_peak_prominence_db": 17.4
+        }
+      ],
+      "rms_dbfs": -30.03,
+      "power_centroid_hz": 758.8,
+      "side_to_mid_db": 1.3,
+      "spectral_flatness": 0.0054,
+      "supported_pitch_components": [
+        "D5",
+        "A4",
+        "E4",
+        "B4"
+      ],
+      "tonality_status": "pitched_components_supported_mode_unverified",
+      "amplitude_period_candidate_s": 1.62,
+      "amplitude_period_autocorrelation": 0.116,
+      "detected_envelope_attack_rate_hz": 5.587
+    },
+    {
+      "section": 3,
+      "start_s": 47.0,
+      "end_s": 67.5,
+      "boundary_kind": "measured novelty candidate or 90s analysis cap",
+      "pitch_class_ranking": [
+        "E",
+        "A",
+        "C",
+        "D",
+        "G",
+        "B",
+        "F"
+      ],
+      "key_profile_candidates": [
+        {
+          "label": "A minor",
+          "correlation": 0.746
+        },
+        {
+          "label": "E minor",
+          "correlation": 0.722
+        },
+        {
+          "label": "A major",
+          "correlation": 0.616
+        }
+      ],
+      "direct_spectrum_key_candidates": [
+        {
+          "label": "E minor",
+          "correlation": 0.761
+        },
+        {
+          "label": "A minor",
+          "correlation": 0.75
+        },
+        {
+          "label": "E major",
+          "correlation": 0.618
+        }
+      ],
+      "key_model_agreement": false,
+      "voicing_candidates": [
+        {
+          "note": "E4",
+          "midi": 64,
+          "relative_salience": 1.0,
+          "fundamental_support_fraction": 0.976,
+          "measured_peak_hz": 328.46,
+          "peak_cents_from_note": -6.1,
+          "local_peak_prominence_db": 23.5,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "A4",
+          "midi": 69,
+          "relative_salience": 0.56,
+          "fundamental_support_fraction": 0.634,
+          "measured_peak_hz": 439.82,
+          "peak_cents_from_note": -0.7,
+          "local_peak_prominence_db": 18.0,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "D5",
+          "midi": 74,
+          "relative_salience": 0.325,
+          "fundamental_support_fraction": 0.439,
+          "measured_peak_hz": 586.05,
+          "peak_cents_from_note": -3.8,
+          "local_peak_prominence_db": 12.3,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "C5",
+          "midi": 72,
+          "relative_salience": 0.291,
+          "fundamental_support_fraction": 0.854,
+          "measured_peak_hz": 522.25,
+          "peak_cents_from_note": -3.3,
+          "local_peak_prominence_db": 12.8,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "B4",
+          "midi": 71,
+          "relative_salience": 0.235,
+          "fundamental_support_fraction": 0.488,
+          "measured_peak_hz": 494.98,
+          "peak_cents_from_note": 3.8,
+          "local_peak_prominence_db": 12.6,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "G4",
+          "midi": 67,
+          "relative_salience": 0.212,
+          "fundamental_support_fraction": 0.512,
+          "measured_peak_hz": 390.37,
+          "peak_cents_from_note": -7.2,
+          "local_peak_prominence_db": 19.2,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "E5",
+          "midi": 76,
+          "relative_salience": 0.152,
+          "fundamental_support_fraction": 0.829,
+          "measured_peak_hz": 656.29,
+          "peak_cents_from_note": -7.8,
+          "local_peak_prominence_db": 21.8,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "F5",
+          "midi": 77,
+          "relative_salience": 0.138,
+          "fundamental_support_fraction": 0.293,
+          "measured_peak_hz": 696.11,
+          "peak_cents_from_note": -5.8,
+          "local_peak_prominence_db": 18.3,
+          "narrow_peak_supported": true
+        }
+      ],
+      "prominent_spectral_partials": [
+        {
+          "hz": 439.82,
+          "nearest_note": "A4",
+          "cents_from_A440_note": -0.7,
+          "relative_db": 0.0,
+          "local_peak_prominence_db": 18.0
+        },
+        {
+          "hz": 440.73,
+          "nearest_note": "A4",
+          "cents_from_A440_note": 2.9,
+          "relative_db": -0.9,
+          "local_peak_prominence_db": 16.8
+        },
+        {
+          "hz": 328.46,
+          "nearest_note": "E4",
+          "cents_from_A440_note": -6.1,
+          "relative_db": -1.0,
+          "local_peak_prominence_db": 23.5
+        },
+        {
+          "hz": 329.62,
+          "nearest_note": "E4",
+          "cents_from_A440_note": -0.0,
+          "relative_db": -1.1,
+          "local_peak_prominence_db": 23.4
+        },
+        {
+          "hz": 656.29,
+          "nearest_note": "E5",
+          "cents_from_A440_note": -7.8,
+          "relative_db": -2.0,
+          "local_peak_prominence_db": 21.6
+        },
+        {
+          "hz": 522.25,
+          "nearest_note": "C5",
+          "cents_from_A440_note": -3.3,
+          "relative_db": -3.6,
+          "local_peak_prominence_db": 12.8
+        },
+        {
+          "hz": 660.11,
+          "nearest_note": "E5",
+          "cents_from_A440_note": 2.2,
+          "relative_db": -3.6,
+          "local_peak_prominence_db": 20.2
+        },
+        {
+          "hz": 659.03,
+          "nearest_note": "E5",
+          "cents_from_A440_note": -0.6,
+          "relative_db": -3.7,
+          "local_peak_prominence_db": 20.0
+        },
+        {
+          "hz": 657.62,
+          "nearest_note": "E5",
+          "cents_from_A440_note": -4.3,
+          "relative_db": -4.0,
+          "local_peak_prominence_db": 19.6
+        },
+        {
+          "hz": 586.05,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -3.8,
+          "relative_db": -4.2,
+          "local_peak_prominence_db": 12.3
+        }
+      ],
+      "rms_dbfs": -29.0,
+      "power_centroid_hz": 792.0,
+      "side_to_mid_db": 3.4,
+      "spectral_flatness": 0.004,
+      "supported_pitch_components": [
+        "E4",
+        "A4",
+        "D5",
+        "C5",
+        "B4",
+        "G4",
+        "E5",
+        "F5"
+      ],
+      "tonality_status": "pitched_components_supported_mode_unverified",
+      "amplitude_period_candidate_s": 3.34,
+      "amplitude_period_autocorrelation": 0.154,
+      "detected_envelope_attack_rate_hz": 5.024
+    },
+    {
+      "section": 4,
+      "start_s": 67.5,
+      "end_s": 112.0,
+      "boundary_kind": "measured novelty candidate or 90s analysis cap",
+      "pitch_class_ranking": [
+        "D",
+        "A",
+        "E",
+        "Bb",
+        "B",
+        "G",
+        "F"
+      ],
+      "key_profile_candidates": [
+        {
+          "label": "D major",
+          "correlation": 0.777
+        },
+        {
+          "label": "D minor",
+          "correlation": 0.767
+        },
+        {
+          "label": "B minor",
+          "correlation": 0.488
+        }
+      ],
+      "direct_spectrum_key_candidates": [
+        {
+          "label": "D major",
+          "correlation": 0.83
+        },
+        {
+          "label": "D minor",
+          "correlation": 0.775
+        },
+        {
+          "label": "B minor",
+          "correlation": 0.513
+        }
+      ],
+      "key_model_agreement": true,
+      "voicing_candidates": [
+        {
+          "note": "D5",
+          "midi": 74,
+          "relative_salience": 1.0,
+          "fundamental_support_fraction": 0.955,
+          "measured_peak_hz": 585.96,
+          "peak_cents_from_note": -4.0,
+          "local_peak_prominence_db": 25.8,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "D4",
+          "midi": 62,
+          "relative_salience": 0.279,
+          "fundamental_support_fraction": 0.427,
+          "measured_peak_hz": 290.84,
+          "peak_cents_from_note": -16.8,
+          "local_peak_prominence_db": 13.7,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "A4",
+          "midi": 69,
+          "relative_salience": 0.194,
+          "fundamental_support_fraction": 0.506,
+          "measured_peak_hz": 441.65,
+          "peak_cents_from_note": 6.5,
+          "local_peak_prominence_db": 11.7,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "B4",
+          "midi": 71,
+          "relative_salience": 0.194,
+          "fundamental_support_fraction": 0.427,
+          "measured_peak_hz": 492.52,
+          "peak_cents_from_note": -4.8,
+          "local_peak_prominence_db": 10.9,
+          "narrow_peak_supported": true
+        },
+        {
+          "note": "E4",
+          "midi": 64,
+          "relative_salience": 0.145,
+          "fundamental_support_fraction": 0.236,
+          "measured_peak_hz": 331.01,
+          "peak_cents_from_note": 7.3,
+          "local_peak_prominence_db": 10.3,
+          "narrow_peak_supported": false
+        },
+        {
+          "note": "Bb4",
+          "midi": 70,
+          "relative_salience": 0.139,
+          "fundamental_support_fraction": 0.596,
+          "measured_peak_hz": 465.25,
+          "peak_cents_from_note": -3.4,
+          "local_peak_prominence_db": 5.9,
+          "narrow_peak_supported": false
+        },
+        {
+          "note": "A3",
+          "midi": 57,
+          "relative_salience": 0.127,
+          "fundamental_support_fraction": 0.281,
+          "measured_peak_hz": 218.97,
+          "peak_cents_from_note": -8.1,
+          "local_peak_prominence_db": 16.6,
+          "narrow_peak_supported": true
+        }
+      ],
+      "prominent_spectral_partials": [
+        {
+          "hz": 585.96,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -4.0,
+          "relative_db": 0.0,
+          "local_peak_prominence_db": 25.8
+        },
+        {
+          "hz": 582.97,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -12.9,
+          "relative_db": -3.8,
+          "local_peak_prominence_db": 22.0
+        },
+        {
+          "hz": 584.14,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -9.4,
+          "relative_db": -4.1,
+          "local_peak_prominence_db": 21.8
+        },
+        {
+          "hz": 588.3,
+          "nearest_note": "D5",
+          "cents_from_A440_note": 2.9,
+          "relative_db": -5.7,
+          "local_peak_prominence_db": 19.9
+        },
+        {
+          "hz": 590.11,
+          "nearest_note": "D5",
+          "cents_from_A440_note": 8.2,
+          "relative_db": -9.2,
+          "local_peak_prominence_db": 16.3
+        },
+        {
+          "hz": 579.61,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -22.9,
+          "relative_db": -9.4,
+          "local_peak_prominence_db": 16.5
+        },
+        {
+          "hz": 441.65,
+          "nearest_note": "A4",
+          "cents_from_A440_note": 6.5,
+          "relative_db": -9.9,
+          "local_peak_prominence_db": 11.4
+        },
+        {
+          "hz": 580.78,
+          "nearest_note": "D5",
+          "cents_from_A440_note": -19.4,
+          "relative_db": -10.4,
+          "local_peak_prominence_db": 15.5
+        },
+        {
+          "hz": 440.46,
+          "nearest_note": "A4",
+          "cents_from_A440_note": 1.8,
+          "relative_db": -10.4,
+          "local_peak_prominence_db": 11.0
+        },
+        {
+          "hz": 437.77,
+          "nearest_note": "A4",
+          "cents_from_A440_note": -8.8,
+          "relative_db": -10.8,
+          "local_peak_prominence_db": 11.1
+        }
+      ],
+      "rms_dbfs": -28.83,
+      "power_centroid_hz": 934.6,
+      "side_to_mid_db": -1.78,
+      "spectral_flatness": 0.0171,
+      "supported_pitch_components": [
+        "D5",
+        "D4",
+        "A4",
+        "B4",
+        "A3"
+      ],
+      "tonality_status": "pitched_components_supported_mode_unverified",
+      "amplitude_period_candidate_s": 3.8,
+      "amplitude_period_autocorrelation": 0.04,
+      "detected_envelope_attack_rate_hz": 4.607
+    }
+  ],
+  "candidate_events": [
+    {
+      "pitch_midi": 30,
+      "note": "F#1",
+      "start_s": 0.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.636,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 65,
+      "note": "F4",
+      "start_s": 0.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.907,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 27,
+      "note": "Eb1",
+      "start_s": 1.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 1.0,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 28,
+      "note": "E1",
+      "start_s": 1.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.735,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 82,
+      "note": "Bb5",
+      "start_s": 2.5,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.443,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 54,
+      "note": "F#3",
+      "start_s": 3.0,
+      "duration_s": 3.0,
+      "mean_relative_salience": 0.742,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 59,
+      "note": "B3",
+      "start_s": 3.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 1.0,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 70,
+      "note": "Bb4",
+      "start_s": 3.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.328,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 61,
+      "note": "C#4",
+      "start_s": 4.0,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.55,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 66,
+      "note": "F#4",
+      "start_s": 4.0,
+      "duration_s": 2.5,
+      "mean_relative_salience": 0.662,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 77,
+      "note": "F5",
+      "start_s": 4.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.52,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 50,
+      "note": "D3",
+      "start_s": 5.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.341,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 51,
+      "note": "Eb3",
+      "start_s": 5.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.647,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 7.0,
+      "duration_s": 6.0,
+      "mean_relative_salience": 0.836,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 8.0,
+      "duration_s": 2.5,
+      "mean_relative_salience": 0.336,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 57,
+      "note": "A3",
+      "start_s": 10.0,
+      "duration_s": 6.5,
+      "mean_relative_salience": 0.842,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 71,
+      "note": "B4",
+      "start_s": 11.5,
+      "duration_s": 4.5,
+      "mean_relative_salience": 0.802,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 12.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.35,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 74,
+      "note": "D5",
+      "start_s": 15.0,
+      "duration_s": 18.0,
+      "mean_relative_salience": 0.778,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 59,
+      "note": "B3",
+      "start_s": 21.5,
+      "duration_s": 7.0,
+      "mean_relative_salience": 0.719,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 71,
+      "note": "B4",
+      "start_s": 22.5,
+      "duration_s": 4.0,
+      "mean_relative_salience": 0.695,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 26.5,
+      "duration_s": 5.5,
+      "mean_relative_salience": 0.937,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 76,
+      "note": "E5",
+      "start_s": 28.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.357,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 55,
+      "note": "G3",
+      "start_s": 31.0,
+      "duration_s": 5.5,
+      "mean_relative_salience": 0.659,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 31.5,
+      "duration_s": 4.0,
+      "mean_relative_salience": 0.765,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 76,
+      "note": "E5",
+      "start_s": 33.0,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.788,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 74,
+      "note": "D5",
+      "start_s": 34.0,
+      "duration_s": 6.0,
+      "mean_relative_salience": 0.959,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 38.5,
+      "duration_s": 6.5,
+      "mean_relative_salience": 0.789,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 41.0,
+      "duration_s": 9.5,
+      "mean_relative_salience": 0.688,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 71,
+      "note": "B4",
+      "start_s": 43.0,
+      "duration_s": 5.0,
+      "mean_relative_salience": 0.782,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 73,
+      "note": "C#5",
+      "start_s": 43.0,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.476,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 67,
+      "note": "G4",
+      "start_s": 45.0,
+      "duration_s": 2.5,
+      "mean_relative_salience": 0.47,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 45.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.805,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 74,
+      "note": "D5",
+      "start_s": 47.5,
+      "duration_s": 5.5,
+      "mean_relative_salience": 0.956,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 67,
+      "note": "G4",
+      "start_s": 49.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.448,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 72,
+      "note": "C5",
+      "start_s": 49.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.379,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 51.0,
+      "duration_s": 5.5,
+      "mean_relative_salience": 0.859,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 72,
+      "note": "C5",
+      "start_s": 51.5,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.334,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 67,
+      "note": "G4",
+      "start_s": 52.0,
+      "duration_s": 4.5,
+      "mean_relative_salience": 0.543,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 71,
+      "note": "B4",
+      "start_s": 53.0,
+      "duration_s": 6.0,
+      "mean_relative_salience": 0.662,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 74,
+      "note": "D5",
+      "start_s": 53.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.445,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 57.0,
+      "duration_s": 12.5,
+      "mean_relative_salience": 0.76,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 77,
+      "note": "F5",
+      "start_s": 58.5,
+      "duration_s": 3.5,
+      "mean_relative_salience": 0.429,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 59.0,
+      "duration_s": 6.0,
+      "mean_relative_salience": 0.955,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 74,
+      "note": "D5",
+      "start_s": 67.5,
+      "duration_s": 39.0,
+      "mean_relative_salience": 0.889,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 62,
+      "note": "D4",
+      "start_s": 69.5,
+      "duration_s": 5.0,
+      "mean_relative_salience": 0.56,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 72.5,
+      "duration_s": 3.5,
+      "mean_relative_salience": 0.599,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 71,
+      "note": "B4",
+      "start_s": 76.0,
+      "duration_s": 3.5,
+      "mean_relative_salience": 0.474,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 65,
+      "note": "F4",
+      "start_s": 78.0,
+      "duration_s": 2.5,
+      "mean_relative_salience": 0.481,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 77,
+      "note": "F5",
+      "start_s": 78.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.344,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 71,
+      "note": "B4",
+      "start_s": 86.0,
+      "duration_s": 4.5,
+      "mean_relative_salience": 0.895,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 62,
+      "note": "D4",
+      "start_s": 88.5,
+      "duration_s": 6.0,
+      "mean_relative_salience": 0.752,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 89.5,
+      "duration_s": 5.0,
+      "mean_relative_salience": 0.781,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 58,
+      "note": "Bb3",
+      "start_s": 93.5,
+      "duration_s": 2.5,
+      "mean_relative_salience": 0.825,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 69,
+      "note": "A4",
+      "start_s": 95.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.576,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 57,
+      "note": "A3",
+      "start_s": 95.5,
+      "duration_s": 5.0,
+      "mean_relative_salience": 0.691,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 95.5,
+      "duration_s": 4.0,
+      "mean_relative_salience": 0.864,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 76,
+      "note": "E5",
+      "start_s": 97.0,
+      "duration_s": 3.0,
+      "mean_relative_salience": 0.793,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 54,
+      "note": "F#3",
+      "start_s": 105.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.405,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 65,
+      "note": "F4",
+      "start_s": 105.5,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.698,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 55,
+      "note": "G3",
+      "start_s": 106.0,
+      "duration_s": 6.0,
+      "mean_relative_salience": 0.619,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 58,
+      "note": "Bb3",
+      "start_s": 106.0,
+      "duration_s": 4.0,
+      "mean_relative_salience": 0.744,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 63,
+      "note": "Eb4",
+      "start_s": 106.0,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.739,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 81,
+      "note": "A5",
+      "start_s": 106.5,
+      "duration_s": 3.5,
+      "mean_relative_salience": 0.741,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 52,
+      "note": "E3",
+      "start_s": 107.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.54,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 64,
+      "note": "E4",
+      "start_s": 107.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.535,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 65,
+      "note": "F4",
+      "start_s": 108.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.954,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 73,
+      "note": "C#5",
+      "start_s": 108.0,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.433,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 61,
+      "note": "C#4",
+      "start_s": 109.0,
+      "duration_s": 3.0,
+      "mean_relative_salience": 0.804,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 63,
+      "note": "Eb4",
+      "start_s": 109.5,
+      "duration_s": 2.0,
+      "mean_relative_salience": 0.724,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 60,
+      "note": "C4",
+      "start_s": 110.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.419,
+      "status": "machine_pitch_candidate_not_verified_note"
+    },
+    {
+      "pitch_midi": 65,
+      "note": "F4",
+      "start_s": 110.5,
+      "duration_s": 1.5,
+      "mean_relative_salience": 0.729,
+      "status": "machine_pitch_candidate_not_verified_note"
+    }
+  ],
+  "cautions": [
+    "MP3 stream, not lossless mastering reference",
+    "Tonal profile correlation is not confidence probability",
+    "Spectral partials can be harmonics rather than played notes",
+    "Voicing candidates summarize a section and are not necessarily simultaneous",
+    "No automatic meter or monophonic transcription assumed"
+  ]
+}

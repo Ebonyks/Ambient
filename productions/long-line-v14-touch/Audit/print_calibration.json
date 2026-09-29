@@ -1,0 +1,35 @@
+{
+  "lanes": [
+    {
+      "lane": 0,
+      "native_rms": 0.0015616636911894826,
+      "native_sha256": "f910b0108de2537309a6c017a1b437bb9e724fbb0edaf44b9217192d14d6a559",
+      "gain_db": 16.794059520173356,
+      "printed_rms": 0.010796686449245007
+    },
+    {
+      "lane": 1,
+      "native_rms": 0.0002724235275820435,
+      "native_sha256": "c8f3bf029dd5017b1bebdfdec838983a42e9e8cefd35175fed32e3f7266ee7df",
+      "gain_db": 32.93055240119233,
+      "printed_rms": 0.012071805578343845
+    },
+    {
+      "lane": 2,
+      "native_rms": 0.0017567041925816535,
+      "native_sha256": "ec5cbe2b58813069a4b60e973614b92596bf504e8d510680d7ea6c82789dbfe9",
+      "gain_db": 15.842435588705388,
+      "printed_rms": 0.010884799087993642
+    },
+    {
+      "lane": 3,
+      "native_rms": 0.0003256264486245864,
+      "native_sha256": "bc3fec39bc59458c5f029808067deb2d3fca461b44bc91acc1a3998fe2131673",
+      "gain_db": 31.371009978946695,
+      "printed_rms": 0.012057858182885883
+    }
+  ],
+  "texture_bus_rms_before_fader": 0.0958241165142764,
+  "calibration": "Inherited v11 gains, no renormalization",
+  "note": "FB-3300 has no ordinary per-note velocity response; use envelopes, register and lane/bus gain. Tyrell velocity is enabled."
+}

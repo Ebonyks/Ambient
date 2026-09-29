@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "meaning": "protocol compliance only, not measured artist similarity",
+  "errors": [],
+  "warnings": []
+}

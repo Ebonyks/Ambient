@@ -1,0 +1,175 @@
+{
+  "core_protocol": {
+    "passed": true,
+    "meaning": "protocol compliance only, not measured artist similarity",
+    "errors": [],
+    "warnings": []
+  },
+  "retained_boundary_identities": [
+    {
+      "boundary_s": 70,
+      "midi": 57,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 70,
+      "midi": 54,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 112,
+      "midi": 54,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 112,
+      "midi": 62,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 160,
+      "midi": 59,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 208,
+      "midi": 59,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 208,
+      "midi": 55,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 252,
+      "midi": 62,
+      "single_continuous_event": true
+    },
+    {
+      "boundary_s": 294,
+      "midi": 62,
+      "single_continuous_event": true
+    }
+  ],
+  "retained_identities_all_continuous": true,
+  "maximum_nominal_source_voices_including_motif_overlaps": 6,
+  "source_voice_count_excludes_derived_distortion_and_reverb_partials": true,
+  "anchor_pitch_checks": [
+    {
+      "state": 0,
+      "time_s": 35.0,
+      "midi": 38,
+      "expected_hz": 73.49893193629228,
+      "source_measured_hz": 73.49884434733798,
+      "source_error_hz": -8.75889543010544e-05,
+      "mix_measured_hz": 73.49918402509427,
+      "mix_error_hz": 0.0002520888019859058
+    },
+    {
+      "state": 1,
+      "time_s": 91.0,
+      "midi": 35,
+      "expected_hz": 61.665915247320285,
+      "source_measured_hz": 61.665853620527336,
+      "source_error_hz": -6.162679294874351e-05,
+      "mix_measured_hz": 61.6657904518561,
+      "mix_error_hz": -0.00012479546418830978
+    },
+    {
+      "state": 2,
+      "time_s": 136.0,
+      "midi": 43,
+      "expected_hz": 97.92529834870771,
+      "source_measured_hz": 97.92405173201843,
+      "source_error_hz": -0.001246616689286384,
+      "mix_measured_hz": 97.92404340287939,
+      "mix_error_hz": -0.0012549458283217518
+    },
+    {
+      "state": 3,
+      "time_s": 184.0,
+      "midi": 36,
+      "expected_hz": 65.3082364948893,
+      "source_measured_hz": 65.30635783060406,
+      "source_error_hz": -0.0018786642852433033,
+      "mix_measured_hz": 65.30607816969514,
+      "mix_error_hz": -0.0021583251941592607
+    },
+    {
+      "state": 4,
+      "time_s": 230.0,
+      "midi": 40,
+      "expected_hz": 82.43783509299176,
+      "source_measured_hz": 82.43551947955409,
+      "source_error_hz": -0.0023156134376733917,
+      "mix_measured_hz": 82.43563669058149,
+      "mix_error_hz": -0.002198402410272138
+    },
+    {
+      "state": 5,
+      "time_s": 273.0,
+      "midi": 43,
+      "expected_hz": 97.92529834870771,
+      "source_measured_hz": 97.92405173263525,
+      "source_error_hz": -0.001246616072464235,
+      "mix_measured_hz": 97.92353862411358,
+      "mix_error_hz": -0.001759724594137424
+    },
+    {
+      "state": 6,
+      "time_s": 315.0,
+      "midi": 38,
+      "expected_hz": 73.49893193629228,
+      "source_measured_hz": 73.4988443475893,
+      "source_error_hz": -8.758870298208876e-05,
+      "mix_measured_hz": 73.49904093908636,
+      "mix_error_hz": 0.00010900279407621838
+    }
+  ],
+  "pitch_tolerance_hz": 0.5,
+  "all_anchors_meet_tolerance_in_source_and_mix": true,
+  "media": [
+    {
+      "path": "Media\\01_Anchor_bypasses_drive.flac",
+      "duration": 336,
+      "sha256": "08a06b60b27c7d0d02959633b7da566e6fddc8d0e96f575879d536875c117aa4"
+    },
+    {
+      "path": "Media\\02_Tied_inner_voices.flac",
+      "duration": 336,
+      "sha256": "e95b16f6b5c2ab4faebc14e35d80d19ebc2ab45495bbcc25aa4adea2074a3130"
+    },
+    {
+      "path": "Media\\03_Pitched_motif_coda.flac",
+      "duration": 336,
+      "sha256": "d4b471ed439e7aa766e47a6b66f7e72bc4fb6062fdac52d94d330e2c818a9203"
+    },
+    {
+      "path": "Media\\04_Eroded_motif_coda.flac",
+      "duration": 336,
+      "sha256": "b72d5ecbf9c8b8f8ae52497511d73045066b0a8bdf273066279578799e36f36a"
+    },
+    {
+      "path": "Media\\05_Independent_distorted_body.flac",
+      "duration": 336,
+      "sha256": "2468df99ea53bc2e72dd8be8a6fbb3d96c30b3c6abbdc2c650cf07af26ac1dbe"
+    },
+    {
+      "path": "Media\\06_Source_residue.flac",
+      "duration": 336,
+      "sha256": "dac16843ee313f44f3d3dcfee8aebbce0817ac86e2cd13dff76be13374620dc3"
+    },
+    {
+      "path": "Media\\07_Water.flac",
+      "duration": 336,
+      "sha256": "b1a73487cdea40bec9101ab8fd8b2afb8ffbaf6594130a50b4d1ffcf63da5a5c"
+    },
+    {
+      "path": "Media\\08_Wood_air.flac",
+      "duration": 336,
+      "sha256": "e06c37041b1db50eb20461039dda620db750ac5623af4590ef35fefd6b4152a6"
+    }
+  ],
+  "limitations": "No claim that audible harmonics are source notes; body-sample tuning and legacy distorted motif are not claimed to meet the sub-0.5Hz oscillator test. Listening acceptance remains separate."
+}

@@ -1,0 +1,672 @@
+{
+  "scope": "v8 final F, editable instrument and processing projects, melody tool and source dependencies; local experimental projects excluded",
+  "final_project": "productions/long-line-v8/Long Line - Tonal Revision F.rpp",
+  "final_audio": "productions/long-line-v8/Renders/Long Line - Tonal Revision - 5m36.mp3",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2433,
+      "sha256": "1b154c530eed5e6ee93b5c7eb399f6fb136e7a77008f796c7bc30faf9c141fd5"
+    },
+    {
+      "path": "productions/long-line-v6/Media/01_Anchor_bypasses_drive.flac",
+      "bytes": 5156895,
+      "sha256": "08a06b60b27c7d0d02959633b7da566e6fddc8d0e96f575879d536875c117aa4"
+    },
+    {
+      "path": "productions/long-line-v6/Media/02_Tied_inner_voices.flac",
+      "bytes": 29000051,
+      "sha256": "e95b16f6b5c2ab4faebc14e35d80d19ebc2ab45495bbcc25aa4adea2074a3130"
+    },
+    {
+      "path": "productions/long-line-v6/Media/03_Pitched_motif_coda.flac",
+      "bytes": 27148044,
+      "sha256": "d4b471ed439e7aa766e47a6b66f7e72bc4fb6062fdac52d94d330e2c818a9203"
+    },
+    {
+      "path": "productions/long-line-v6/Media/04_Eroded_motif_coda.flac",
+      "bytes": 31101219,
+      "sha256": "b72d5ecbf9c8b8f8ae52497511d73045066b0a8bdf273066279578799e36f36a"
+    },
+    {
+      "path": "productions/long-line-v6/Media/05_Independent_distorted_body.flac",
+      "bytes": 17577847,
+      "sha256": "2468df99ea53bc2e72dd8be8a6fbb3d96c30b3c6abbdc2c650cf07af26ac1dbe"
+    },
+    {
+      "path": "productions/long-line-v6/Media/06_Source_residue.flac",
+      "bytes": 18968594,
+      "sha256": "dac16843ee313f44f3d3dcfee8aebbce0817ac86e2cd13dff76be13374620dc3"
+    },
+    {
+      "path": "productions/long-line-v6/Media/07_Water.flac",
+      "bytes": 41125613,
+      "sha256": "b1a73487cdea40bec9101ab8fd8b2afb8ffbaf6594130a50b4d1ffcf63da5a5c"
+    },
+    {
+      "path": "productions/long-line-v6/Media/08_Wood_air.flac",
+      "bytes": 21758825,
+      "sha256": "e06c37041b1db50eb20461039dda620db750ac5623af4590ef35fefd6b4152a6"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/02_Eroded_arch_and_pitch_drift.flac",
+      "bytes": 15806733,
+      "sha256": "8163826992366855b1e9127f0d1487a68cfce1a01b9e07d8b6ac0f817738541e"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/INHERITED_PROVENANCE.md",
+      "bytes": 7820,
+      "sha256": "f73e30a2f94cc40503ea7f5f29890fe9678cf2b160e2d72c98d028022972aeb8"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/K_continuous_arch.flac",
+      "bytes": 15144243,
+      "sha256": "596b13835c13d9585327d7673c39039a0ec6338a0f51ef77c2e2e8a1d2801afa"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C2_pp_RR1.flac",
+      "bytes": 295740,
+      "sha256": "ef606a71e18d931e063bab6ee4ea6575db02ee658a8018450748128067a2ca41"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C3_pp_RR1.flac",
+      "bytes": 240430,
+      "sha256": "d1673b64c67c5366cbb3448c8c42feabfc42a6c52a1a61458c59db40b08fd483"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C4_pp_RR1.flac",
+      "bytes": 298264,
+      "sha256": "6bdb9476c22945889b35fb663e43e7519ce814b21049d0c0fdcd96a8c5f83758"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C5_pp_RR1.flac",
+      "bytes": 236436,
+      "sha256": "5e818755d80243c2f0411b9080259df60372ce9bd48bbe7c39e8dab4eb204a1e"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G2_pp_RR1.flac",
+      "bytes": 351284,
+      "sha256": "095280c44de6a2fd26df5b2dde2094a1919905e70a8db027f066480026a925d2"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G3_pp_RR1.flac",
+      "bytes": 276054,
+      "sha256": "e69ed2c7be4f073f7036ed82e2e26e28c1b0fa48b382f5f6d5d0d36a7c1f3496"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G4_pp_RR1.flac",
+      "bytes": 276873,
+      "sha256": "a3f4ec851943553fef1ce0ebc56a8cad26bbf6a5f2c1a73f17193f1deea12a04"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G5_pp_RR1.flac",
+      "bytes": 229868,
+      "sha256": "bb131eb44004829482dc4d8c244a189f7185164a689b27ff2035d4aa2d7ec5aa"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/VSCO_CC0_LICENSE.txt",
+      "bytes": 6555,
+      "sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/provenance.json",
+      "bytes": 6215,
+      "sha256": "7e687f3be68271568b1c5b300d05d2cf39959fa3c18bc4ac250e220e562c6415"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/stream.flac",
+      "bytes": 13202544,
+      "sha256": "2a263a2dc90f60cbead923c21abf8c3d3aa8ec1da3332c9fa5d839b8ff27b180"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/tree_ms.flac",
+      "bytes": 40127478,
+      "sha256": "1c017707a2571a1735ed8bea81b12d7f9dc0c26bbab9825b0eaee2c162fd72a8"
+    },
+    {
+      "path": "productions/long-line-v6/harmony.json",
+      "bytes": 7387,
+      "sha256": "2e95cb2fc0e472aaad2dc9405976edc5cba8cce315ee1c5f012fa9c8049ed2bc"
+    },
+    {
+      "path": "productions/long-line-v7/weave.json",
+      "bytes": 54590,
+      "sha256": "96d5517ce4e4b88f30526d77df4bd895ecad0ac579f5f735e06276068d72ea01"
+    },
+    {
+      "path": "productions/long-line-v8/.gitignore",
+      "bytes": 441,
+      "sha256": "11dce769a1166859adcd97dedafe89f5be3c3306a77495e538deef015c8a4739"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/QA.json",
+      "bytes": 4846,
+      "sha256": "c202f8252be52907e57269ad1db6c47fb7aa07bc4e4fcd73197c5a2d4fb36815"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/branch_calibration.json",
+      "bytes": 645,
+      "sha256": "3d71e1ac5af31584abf84154a6fea0b6aed5bbfad4b991d22c91a4f1df1c9274"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/calibration_returned.txt",
+      "bytes": 71,
+      "sha256": "dd77dd66103249566791b2d8982031c06165ffc7f0669996bb4cd1e011fb4727"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/eq_probe.tsv",
+      "bytes": 146,
+      "sha256": "dd494f32e5a23033ffdb91cbb19f72e8a42e681e0740cdd26de51213036aafd3"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/exciters.tsv",
+      "bytes": 300,
+      "sha256": "cb94fecc53e691e0221e976a4469ff0696ea277a5db43eaa74721ae1b579ad28"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/final_fx_parameters.tsv",
+      "bytes": 4760,
+      "sha256": "9825e6878f5dfac15753e0d6737229d101335eff09071b4ab8caec018d969f1e"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/final_fx_parameters_C.tsv",
+      "bytes": 4843,
+      "sha256": "4e514ecd6294d6e95215446e709f239c360c6430c19e2bddbc5daa81d496b0c8"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/final_fx_parameters_D.tsv",
+      "bytes": 7886,
+      "sha256": "2e534d0d6a697b16a6549729a612863abb8394b4f7070ad4ad288f1faf15cb65"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/final_fx_parameters_E.tsv",
+      "bytes": 3646,
+      "sha256": "2ad1e8569e4bc84f0f3912b07890c80456f0f4f11ff82c5d449bd7de1703ca86"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/final_fx_parameters_F.tsv",
+      "bytes": 4238,
+      "sha256": "16d1935d48c0ed1026871547a25f809e53c3dcff2df038132af1d750a3d78506"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/input_gain_calibration.json",
+      "bytes": 319,
+      "sha256": "8f8dc3429162e9d375603c2313e4616286c11d5f5cc34a6e03f4306088f37769"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/listening_b.json",
+      "bytes": 4623,
+      "sha256": "e37a92b44b3dca8395d5420c3ea03ada79622543cc7525fe49a81523567e6ff0"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/listening_e.json",
+      "bytes": 3786,
+      "sha256": "b7a35f520e70f7e662e5cd3aa3539fe463e2f4e9feb5279691f4c18d97bf6b7c"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/listening_f.json",
+      "bytes": 2749,
+      "sha256": "9c13d2e428cd84f9119d0b55fee260a01c17bed39aab05029aaa381af0526d95"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/plugin_inventory.json",
+      "bytes": 850,
+      "sha256": "251f2802f08ad023f2235658871290577c29af0d9361c7aaf8472928eea0b4f1"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/plugin_modes.tsv",
+      "bytes": 1644,
+      "sha256": "744cb1fe9007fe0a9795ab0a4f77d39c4ff09c6d2f52b36502c25a041e99ced5"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/plugin_probe.tsv",
+      "bytes": 90445,
+      "sha256": "3e19ebad4332c14b8df0f1600f161cfec407d59eef9b358d671c646b55a2c4fd"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/printed_tape_levels.json",
+      "bytes": 757,
+      "sha256": "1b1520c1524a03b5924ae54a349503259075a2ebc466b6615f8fcf37d33edfa1"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/render_C_returned.txt",
+      "bytes": 58,
+      "sha256": "7b0ae48d5c3496dd2ef9e8a4e76e6c752379ac490ef4bb6d482e3ffd585bdfcf"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/render_D_returned.txt",
+      "bytes": 58,
+      "sha256": "7b0ae48d5c3496dd2ef9e8a4e76e6c752379ac490ef4bb6d482e3ffd585bdfcf"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/render_E_returned.txt",
+      "bytes": 58,
+      "sha256": "7b0ae48d5c3496dd2ef9e8a4e76e6c752379ac490ef4bb6d482e3ffd585bdfcf"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/render_F_returned.txt",
+      "bytes": 58,
+      "sha256": "7b0ae48d5c3496dd2ef9e8a4e76e6c752379ac490ef4bb6d482e3ffd585bdfcf"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/render_returned.txt",
+      "bytes": 58,
+      "sha256": "7b0ae48d5c3496dd2ef9e8a4e76e6c752379ac490ef4bb6d482e3ffd585bdfcf"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/revision_b.txt",
+      "bytes": 111,
+      "sha256": "ab8c8785edb8bc7c5b328dda478ff6987e29a35e3ff18f09b6ab06342fb3b99f"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/safe_tape_print.txt",
+      "bytes": 150,
+      "sha256": "a9bb8dd2933437c79ccd5382dcd09ee56a6266b73fe378d93fd046af6b777ad8"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/selected_parameters.tsv",
+      "bytes": 15530,
+      "sha256": "054128ab2530148ab5afe2be7f20c6babe85770b537632dda9a1a4d4741b1b53"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/settled_parameters.tsv",
+      "bytes": 5430,
+      "sha256": "430d556af6962c188d948e948ecb45ba3a8efe3aff2d9fd33e4ff2f87223c60f"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_final_print.json",
+      "bytes": 456,
+      "sha256": "e9ee815866d6948cc39d1a9f6944d6cc28c69751edc34910f209c1490a5aa5a6"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_final_returned.txt",
+      "bytes": 55,
+      "sha256": "64db756fd0ee97380b1120cb50e6f14d3d15404cc0412fb46c42be6ff40a2df1"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_patch.tsv",
+      "bytes": 592,
+      "sha256": "d34b922edc307d5839adebc040ec0461b921a173dfcf0fa91360eb5cda0ffcca"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_patch_final.tsv",
+      "bytes": 597,
+      "sha256": "eb787eb26cba103d7b31da5dcfb24abde4cc3422ac8d50d7e4359b516b5f85fc"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_patch_pink.tsv",
+      "bytes": 594,
+      "sha256": "107ab46401b7decde441695fd96a518e886536bb7a0922244ce96c6635749a2b"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_pink_returned.txt",
+      "bytes": 55,
+      "sha256": "64db756fd0ee97380b1120cb50e6f14d3d15404cc0412fb46c42be6ff40a2df1"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_print.json",
+      "bytes": 468,
+      "sha256": "ff1c0e86ee878bd5405d4644ae2bdf2dff93907d1779b8a494acb927090f32a3"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/string_render_returned.txt",
+      "bytes": 55,
+      "sha256": "64db756fd0ee97380b1120cb50e6f14d3d15404cc0412fb46c42be6ff40a2df1"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/tape_prints_returned.txt",
+      "bytes": 106,
+      "sha256": "ba7f34f6c4dac59849c030d40294a3dcd0781454c0754378fa7103e048ca77c4"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/tonal_comparison.json",
+      "bytes": 9890,
+      "sha256": "40b8db7afa2f7fb1a91c8482654fe0b3ff83b68b4b93f5c17603ee49180aa27f"
+    },
+    {
+      "path": "productions/long-line-v8/Audit/voicing_revision.json",
+      "bytes": 4275,
+      "sha256": "fc3f16a14fdb87f2717ca30781569284db9a7cd049e690801a5b1cec0a1cf5ec"
+    },
+    {
+      "path": "productions/long-line-v8/Calibrated Tape Sources.rpp",
+      "bytes": 15873,
+      "sha256": "43dc5ba8f30ae0128e78f3957b0547a4420b6c560ffc03ea6697b744e72964ab"
+    },
+    {
+      "path": "productions/long-line-v8/Long Line - Tonal Revision F.rpp",
+      "bytes": 23581,
+      "sha256": "44d5e4f8cdd1ac2bd33719a653a6541f7a696a4c83e039a04a010362768c3e18"
+    },
+    {
+      "path": "productions/long-line-v8/Media/02_Inner_piano.flac",
+      "bytes": 23415443,
+      "sha256": "3ea31502a95df9ab298c8085ba4f6006b299426cca44ac0e9472a0ba3b48358b"
+    },
+    {
+      "path": "productions/long-line-v8/Media/03_Foreground_piano.flac",
+      "bytes": 25717234,
+      "sha256": "cfd11c3892af22cbc64e139eb6eebefabd6131135ff4ded1e0f07e50743bf590"
+    },
+    {
+      "path": "productions/long-line-v8/Media/04_Final_string.flac",
+      "bytes": 8238270,
+      "sha256": "96de1987259050ca620c3aa8697c225e2fc3b3b22b405641e3c291fce1cabae5"
+    },
+    {
+      "path": "productions/long-line-v8/Media/05_Tape_inner.flac",
+      "bytes": 15988807,
+      "sha256": "b38e800b862a8ab46cc10b3b8a8f463fea50eb2f8333a907417f8195c622f39e"
+    },
+    {
+      "path": "productions/long-line-v8/Media/06_Tape_foreground.flac",
+      "bytes": 17251175,
+      "sha256": "6e14277e1c44b438331fca33a3652c607d4cd8fc7746c4341fe1c71d42daeaec"
+    },
+    {
+      "path": "productions/long-line-v8/Media/07_Tape_string.flac",
+      "bytes": 6387981,
+      "sha256": "c4713ba34d458c1786ac538e20aadd78f45bc745b40514ab95fe94f9807b730e"
+    },
+    {
+      "path": "productions/long-line-v8/PLUGIN_AUDIT.md",
+      "bytes": 7020,
+      "sha256": "e10bcaf8ea83436f36278981cad4949624cb94c56ac59ce25f0d34cdb6873d65"
+    },
+    {
+      "path": "productions/long-line-v8/Physical String - Pink Bed.rpp",
+      "bytes": 78254,
+      "sha256": "df81bfc011235f9dd34aea7eb4a3f7fd5a0f909907e19bc6b93c7bedb241cb37"
+    },
+    {
+      "path": "productions/long-line-v8/README.md",
+      "bytes": 4771,
+      "sha256": "ed62ffeaf030d4820c7a9b8f781cacc210289ac94b89781293fbaf6f3c468542"
+    },
+    {
+      "path": "productions/long-line-v8/Renders/Long Line - Tonal Revision - 5m36.mp3",
+      "bytes": 10753649,
+      "sha256": "59076fe53c680be0e6c622d13649a458e81763cb9ebd9df703af0eaf92002144"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/build_calibrated_mix.lua",
+      "bytes": 7666,
+      "sha256": "b7e750305948a6934e7bfda5ae8815054d1c268123d2b1dd444530771ed62805"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/build_final_mix.lua",
+      "bytes": 7734,
+      "sha256": "09e40d7c0028abd0b0f3275a0ed6c3ecf71bad226d803b81273149e206cd7e05"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/build_mix.lua",
+      "bytes": 7270,
+      "sha256": "09ec5e973d5bd839094d3dbb56a4235f505e8a4df1045e2eebe198fd23318f0c"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/calibrate_branches.lua",
+      "bytes": 2009,
+      "sha256": "990e17ece8574cce2459671f4db81823d7a60b6cf34e81297f86ee980b03841b"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/input_gains.lua",
+      "bytes": 63,
+      "sha256": "7eda3589a09740aa86f4ec567efb6964cf170416c91c4ef6f515024567e31ac0"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/normalize_final_string.py",
+      "bytes": 1115,
+      "sha256": "711eeca7a9bca9e664858ff48d62a89a9bdba57d226ec80ba22c3b431b0ba334"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/normalize_pink_string.py",
+      "bytes": 1117,
+      "sha256": "e85d815c0f3c95a97c2c6e666c1b08b8c4a70bda9a73054be727d18131a7b655"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/normalize_string.py",
+      "bytes": 1132,
+      "sha256": "70ef38f31f9085cf901e16f0ccccc0011ef18bad95c9dc828df70fd7ea8c488d"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/normalize_tape.py",
+      "bytes": 982,
+      "sha256": "7d4825b4b978ede79437d5577931e06e09826c45c754d6296831a5699b8c64d0"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/print_final_string.lua",
+      "bytes": 2842,
+      "sha256": "32d34689ce9a0019a3defa581859f1e1ea6411a9264587a811f05b1d1a2ae5ea"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/print_pink_string.lua",
+      "bytes": 2845,
+      "sha256": "f577718513c83738d14c936903f52ccd81e6b389c5c74464858e1864ed29c2c8"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/print_string.lua",
+      "bytes": 2878,
+      "sha256": "10351ea6971e91f72846914842144a3a029d3dab2fdd61b10950123db53291fd"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/print_tape_sources.lua",
+      "bytes": 2121,
+      "sha256": "0f54a30dd9babc48c9af92b4d81d1e3d8ee3c5cd246eb050a0acafd4ebb53a6c"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/probe_eq.lua",
+      "bytes": 584,
+      "sha256": "23abb0d3d9262a00de61297d642f9ad67781d861201877d381d0afdd318375ee"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/probe_exciter.lua",
+      "bytes": 717,
+      "sha256": "28f79042699b1ab3fe4bf59de64663319048c81cd1df6c048e8e87a0eedab1c7"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/probe_modes.lua",
+      "bytes": 639,
+      "sha256": "8df9ebcae3f9afcb7292ccc312c9fef09776d5916732ebd9ec241f5fdf7fdc1f"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/probe_plugins.lua",
+      "bytes": 846,
+      "sha256": "61a35fca05e6ec3dd458113d0b6459089a9f056a5046ae8364954184b12c902b"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/probe_selected.lua",
+      "bytes": 1005,
+      "sha256": "d411535a782f9ddaa34b3d7ceac1e7622d2c3e7d823bae9a1bbb075dcb93961d"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/probe_settled.lua",
+      "bytes": 1408,
+      "sha256": "d64cfd948ff1c386c7b9673a7fa29549ee486adf91c012f9d33c8e0503628f29"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/rebuild_d.lua",
+      "bytes": 7646,
+      "sha256": "3aa7bd9618168b9fb32935fcdb76f63dbdc537316c1130ab53cec3133e4c2faf"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/rebuild_final.lua",
+      "bytes": 7375,
+      "sha256": "e2ef9003bed9d8a929b140932c2b1d3228a951764122783b96316dea8600ca7c"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/release_clear.lua",
+      "bytes": 750,
+      "sha256": "9fd8194be95994749137baf50fd87c425d10bbb7dcfedbff743133c010603125"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/render_piano.py",
+      "bytes": 2846,
+      "sha256": "4f72d930f2f2538f20939a559452f26544aba0b600b821af02219916eb6b9504"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/reprint_string_safe.lua",
+      "bytes": 1009,
+      "sha256": "7dca6b7c69dc46c4c7f81e86276c969660dc1f9805fb9d51701069c77eeac9ce"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/revise.py",
+      "bytes": 1425,
+      "sha256": "ec6b39498b4ea7a3cba842c5d76b12b578694c6489cf3a86d77d48fc96437dfc"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/string_notes.lua",
+      "bytes": 847,
+      "sha256": "9a95d87e498bf4336994a556e24e0ac65f59ab256af08da8572adfca033f5cb7"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/verify_audio.py",
+      "bytes": 2452,
+      "sha256": "cc7c4023258ea1ffcd16dfb4e03a843f239e7e16365e0ddfccb5745a93c83189"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/verify_e.py",
+      "bytes": 2165,
+      "sha256": "fe6b81244014cd8b1c8c77cda0505298379de2c34801a08f8dd49a827ca373c0"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/verify_final.py",
+      "bytes": 2151,
+      "sha256": "24f10e4a877c3107c6d13eda158ad0d23194f358fb479c71b137555cc86d1043"
+    },
+    {
+      "path": "productions/long-line-v8/Scripts/verify_release.py",
+      "bytes": 2165,
+      "sha256": "599d719eba0346986bb5510c24755944f4c26d387c9a6802c84d6c96060f91b3"
+    },
+    {
+      "path": "productions/long-line-v8/weave.json",
+      "bytes": 58482,
+      "sha256": "5b116a0239a59347e867bec1e915a9285c1f27135bc1cad724d416d26ad53b55"
+    },
+    {
+      "path": "productions/long-line-v8/weave.mid",
+      "bytes": 2104,
+      "sha256": "c6a411f705865efc4ad31fe8378d85cf68d96979bd20d0fdd8f1ce58b11bb3ea"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/QA.json",
+      "bytes": 324,
+      "sha256": "b547e83201b323359de161f04988ea4009333db2eaf24710155fa48b4a857b0f"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/README.md",
+      "bytes": 24630,
+      "sha256": "b941ef7230cc272caec1ac1fe2d66552c90406f804450e7eeedc1c677a228360"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/build_protocol.py",
+      "bytes": 7837,
+      "sha256": "794555c656b1ccec366350e8ee1a4efa1aa8f136c32d08cbf0820a7f82628074"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/corpus_statistics.json",
+      "bytes": 4976,
+      "sha256": "c0ae2860cc42d0beccc92314bd1660f0e2899cf728e42b7779ec00eab9c42c4f"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/common_tone_clarity.json",
+      "bytes": 3814,
+      "sha256": "8152c33205c33bfdfdf0cefb2ed846a95b9dfd7ab01c4a57f09dc87b927fa878"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/common_tone_clarity.mid",
+      "bytes": 470,
+      "sha256": "15cb5542535098b2b1356f78cec8e0f55acb6fc9d91f45e4650bf7bfc3d14b30"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/low_beating_field.json",
+      "bytes": 3194,
+      "sha256": "c4d941acdecab59198f8d99d3a69a4a212dfe8ff32ca57daad5db4fef2ea9c1c"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/low_beating_field.mid",
+      "bytes": 433,
+      "sha256": "c1ae5f39de337f8abc333c12c61c7713125ccb94ccdcc94a49abbc91cb082010"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/mirages_pressure.json",
+      "bytes": 3461,
+      "sha256": "3d61f29ff4acd04f0e67baba5e362e8c5cb9a26c4840785b1a6ad85d8dc533ca"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/mirages_pressure.mid",
+      "bytes": 496,
+      "sha256": "7e76f107019d05b73ddfe8582201c930d8c4da383d8f498f64e2c0198925d272"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/radio_suspended.json",
+      "bytes": 4820,
+      "sha256": "9ebd90d1fe86b51099c85063f7ee9eba5af050cf699da0d9153fdbe774eb279c"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/radio_suspended.mid",
+      "bytes": 507,
+      "sha256": "48a06e6b41d7a8eb1ea18acf372fb04c1d60fd23f364e8458f3862f45eaaec8b"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/examples/validation.json",
+      "bytes": 1344,
+      "sha256": "6197002eebb9332b28e45e689e3dd389905b879df17ffccc23f3ce59efe81ac5"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/harmony_tool.py",
+      "bytes": 11118,
+      "sha256": "6836239457ebc4237e98caf5bd768bc1faca08fe1de8b9a0d9d242e28aef388e"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/make_examples.py",
+      "bytes": 846,
+      "sha256": "827a8bd4e64ddf0966e7537384ed896f75029472d84e8ff5fa7ed5b102f04aaf"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/protocol.json",
+      "bytes": 13443,
+      "sha256": "02b262c2bf1ef8ceef800cf6ce3db88605ccf1a612cd60f4430a71d1eef85501"
+    },
+    {
+      "path": "protocols/hecker-harmony-v1/test_harmony_tool.py",
+      "bytes": 3709,
+      "sha256": "8bf5ac70734d652405a051c9ac003a831673761193a617883084ca3b4f2fa9b1"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 5224,
+      "sha256": "946c1a25807b6d5fe4d06b5e08ead05a969b46695d9298cadac63136d006968e"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/refine_voicing.py",
+      "bytes": 3281,
+      "sha256": "ac9ac9577af9ee1d2b854be80cc7fb6ce1ef15f90e7d3b6524f15f15ff0f9972"
+    },
+    {
+      "path": "tools/melodic_weave/test_melody_tool.py",
+      "bytes": 3207,
+      "sha256": "6ace39228aba48535ed9df6b9aada3486413a0d62e1d01a9014eafeb5a1fde80"
+    },
+    {
+      "path": "tools/melodic_weave/test_refine_voicing.py",
+      "bytes": 1645,
+      "sha256": "6800c1cddb3af1171a92745aba92915f84d6cf49eeac60230abe5dcb0c051e86"
+    },
+    {
+      "path": "productions/long-line-v6/Scripts/ambience_bus.RTrackTemplate",
+      "bytes": 2703,
+      "sha256": "c02be587cee0c9c23cb68914c16792e6584cd3fce633626b9e3b7d5d3dce009a"
+    }
+  ]
+}

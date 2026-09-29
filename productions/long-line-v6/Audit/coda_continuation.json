@@ -1,0 +1,28 @@
+[
+  {
+    "stem": "03_Pitched_motif_coda",
+    "source": "02_Eroded_arch_and_pitch_drift",
+    "source_interval_s": [
+      70,
+      71.5
+    ],
+    "placement_s": [
+      323,
+      332
+    ],
+    "method": "Overlapped continuation of existing D; 2.8s entry / 6s release; no new pitch or source instrument"
+  },
+  {
+    "stem": "04_Eroded_motif_coda",
+    "source": "K_continuous_arch",
+    "source_interval_s": [
+      70,
+      71.5
+    ],
+    "placement_s": [
+      323,
+      332
+    ],
+    "method": "Overlapped continuation of existing D; 2.8s entry / 6s release; no new pitch or source instrument"
+  }
+]

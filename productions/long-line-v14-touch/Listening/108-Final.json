@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 65,\n  \"harsh\": 55,\n  \"sibilant\": 25,\n  \"bright\": 50,\n  \"valence\": -6.0,\n  \"arousal\": -1.0,\n  \"mood\": \"Monotonous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.0,\n      \"desc\": \"Dominant broadband noise floor and low-mid rumble heavily mask any underlying musical detail or dynamic nuance.\"\n    },\n    {\n      \"t_seconds\": 8.0,\n      \"desc\": \"Slight tonal shift in the lower synth drone occurs without clear transient definition or structural framing.\"\n    },\n    {\n      \"t_seconds\": 15.0,\n      \"desc\": \"Sustained noise intensity remains static with no perceptible variation in dynamic touch or phrase weight.\"\n    }\n  ],\n  \"overall\": \"The mix is dominated by a dense, unshaped noise floor and low-frequency resonance that conceals musical dynamics and offers insufficient clarity to discern subtle performance details.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

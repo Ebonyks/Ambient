@@ -1,0 +1,370 @@
+{
+  "scope": "Repeat-specific phrase touch, Fourman reference reviews and tonal cleanup; final audible success unconfirmed",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4092,
+      "sha256": "76e46a13468a4897abe088ff52eca270c01b8acba04a6ed3be20ed713b1e83aa"
+    },
+    {
+      "path": "productions/long-line-v13-octaves/texture.json",
+      "bytes": 5665685,
+      "sha256": "6e61b247f0ea55647c321483c3ba47877606116453d99456e097c82aa95208d6"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/QA.json",
+      "bytes": 817,
+      "sha256": "b7750a4f0f86a0e607f9d87ca3d2891ce55139bcd5ca3fa851bfb6ad454dc26f"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/QA_B.json",
+      "bytes": 817,
+      "sha256": "2b52d666c6d6392bef251e848811065017fce5d70444f16a9f3abedec73442e8"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/QA_FINAL.json",
+      "bytes": 816,
+      "sha256": "3944c2e789a51d58f6b40ba2e73ae911c2f7068ebc4aecd97130a8ae0db697de"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/bed_sources.json",
+      "bytes": 341,
+      "sha256": "dc5785d72366df382664c87bfc8b2c6606174a23a0ac83ace42c1bb6749fc046"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/chest_pain_confirmation.json",
+      "bytes": 816,
+      "sha256": "84c89302dc2f3e40bce3a4116ef904e53944c08efcf82f3427627007e53a109c"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/final_effects.tsv",
+      "bytes": 1007,
+      "sha256": "b1c0f2a96ca5541e2487e0297800361860773acaae537343fc77d3ab719c4645"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/final_eq.tsv",
+      "bytes": 408,
+      "sha256": "41ff1ccaef303f88941d774c37a7cd88f31085bf61f818f2802d4f44505245b9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/final_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/highpass_C_enabled.txt",
+      "bytes": 6,
+      "sha256": "19b732971d6c0c9d6d14fac4721baaf70193594ddb81ed60407dc998a5a7cb55"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/highpass_enabled.txt",
+      "bytes": 6,
+      "sha256": "19b732971d6c0c9d6d14fac4721baaf70193594ddb81ed60407dc998a5a7cb55"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/highpass_final_enabled.txt",
+      "bytes": 6,
+      "sha256": "19b732971d6c0c9d6d14fac4721baaf70193594ddb81ed60407dc998a5a7cb55"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/inherited_gains.json",
+      "bytes": 291,
+      "sha256": "588b62c5993ad6ac7d1419cc898f36079000a140a0aa8b47c78f91fd10aea63a"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/lanes_returned.txt",
+      "bytes": 49,
+      "sha256": "ee630ad0bdfa2bafea4384321815252ef7ae97574ab72a9202f9f8a6bbf94e65"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/native_patches.tsv",
+      "bytes": 2793,
+      "sha256": "59a581dce75be7e1daadd288ed34d9e55443d72b783a27fa71ab47e151bb33b9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/performance_changes.json",
+      "bytes": 405,
+      "sha256": "9c6ab8e33ef35fa3fcb2556e795b0056fcd6a65757d8fdb1d558ae4312cfdfb7"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/print_calibration.json",
+      "bytes": 1274,
+      "sha256": "3acbe2d8704ffc1a10f7bc4014d6ed9d55d5fb936075c6657312b290a2ce3419"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/reference_sources.json",
+      "bytes": 654,
+      "sha256": "518973f95dc1812cf454a17e97b76b2157c1c01364f05bf5808cd47a38229341"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/texture_render_returned.txt",
+      "bytes": 22,
+      "sha256": "a6b2d1d8e4ea0c365abb4b26d77d352453a5e5be0ba65843c75381a45fbb007f"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_B_effects.tsv",
+      "bytes": 1006,
+      "sha256": "997721bb597dede244ac5ddefc00e8926d4a8c75158b7433b38a92172795ca1a"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_B_eq.tsv",
+      "bytes": 473,
+      "sha256": "90cba481474fc8110c9aade262caabf90427e71b961536dd8eb1cdb30230cd30"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_B_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_C_effects.tsv",
+      "bytes": 1007,
+      "sha256": "b1c0f2a96ca5541e2487e0297800361860773acaae537343fc77d3ab719c4645"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_C_eq.tsv",
+      "bytes": 408,
+      "sha256": "41ff1ccaef303f88941d774c37a7cd88f31085bf61f818f2802d4f44505245b9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_C_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_effects.tsv",
+      "bytes": 1006,
+      "sha256": "0f12319748455ebe200cebd9286794efcd34f3c048fca5b80c356a7a7c1a3f1b"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_eq.tsv",
+      "bytes": 407,
+      "sha256": "f531327a31622ae01532770419f69b71e247bfd3ac3be8c1b49df1a9c5a3d9d3"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Audit/touch_returned.txt",
+      "bytes": 27,
+      "sha256": "94775c6d1ce04c6b354b2fd462828903bc93a6e97c7757dc0c4d6c1fd18f14c9"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/103-Fourman.json",
+      "bytes": 903,
+      "sha256": "c0006b6f9d672579a43b3cbf41d88f21bf21d120e80be0c4235331ba6be65b79"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/104-Fourman.json",
+      "bytes": 915,
+      "sha256": "58b015c69f7dd350803bb640bf01fbea5e37edd5783f1eac610841eddd426cac"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/105-Touch-A.json",
+      "bytes": 957,
+      "sha256": "b2141a4d89539af846f6d4220b7f50dd16eac1480715c7bc89ab12145c7e5c5b"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/106-Touch-A.json",
+      "bytes": 911,
+      "sha256": "fb8da2b023829aacac298308355a2f1e1c39bf0337f935af51dab63af6b58c9f"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/107-Final.json",
+      "bytes": 908,
+      "sha256": "245ae5f7210df48bf0209e3e487bfd62ed8622e41172b048221a24eaa2cc2ce5"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/108-Final.json",
+      "bytes": 1152,
+      "sha256": "cbf8ac84133183a594d60729b893e6e3ec86053f74576807e78e1f1b7c2a7ebc"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Listening/BUDGET.json",
+      "bytes": 709,
+      "sha256": "f661f5ce050a26bc040d448395117b6d1189d8badcc7585033ccc895624a4314"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Long Line - Phrase Touch B.rpp",
+      "bytes": 9527,
+      "sha256": "1a98e0310fc2c57edf27f8ed47023ee7a2e53f9ef30f9a41055e22bed97e276b"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Long Line - Phrase Touch C.rpp",
+      "bytes": 9679,
+      "sha256": "ff39ae1f589b75b33e780e89fe0dca70fcdd288509d3dbc8038c95c7907666a4"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Long Line - Phrase Touch.rpp",
+      "bytes": 9481,
+      "sha256": "886ce8f97e2f4938b43e66074214d3f6aa1827bece1b97f6713e7101422f1f2d"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Long Line - Phrase Weight.rpp",
+      "bytes": 9678,
+      "sha256": "c68f0ae9c3c45aeff380cf4ba145fffc1d2ce53acc221b2e0111063edb102422"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Media/01_Nature_bed.flac",
+      "bytes": 15621849,
+      "sha256": "1d0535ddbd70b4c39053e4f0f92acef66a7adae62ecda058971631db3c3ce8c5"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Media/02_Inner_lane_0.flac",
+      "bytes": 5722069,
+      "sha256": "77a46933a81073e0cbed88a11c76af1bd838e09705fab48b75661c98a7a5d278"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Media/03_Inner_lane_1.flac",
+      "bytes": 7972032,
+      "sha256": "7c69f01d81f4c5fca7d9b761c62b279b1631ebef15ba611662052f1e72680148"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Media/04_Inner_lane_2.flac",
+      "bytes": 5802328,
+      "sha256": "ff43e01667ce1043f92183bbbbf9632517226c5e634ebaf252db5f1cd41ebb70"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Media/05_Inner_lane_3.flac",
+      "bytes": 8396296,
+      "sha256": "4992709f6d54061a7bfea57da2fd9aff3f219966822d342f849e9778100c949b"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Media/06_Inner_texture.flac",
+      "bytes": 11445969,
+      "sha256": "d9c948fe0215c096a737f639cf454baa1a53ab1a1a55bc76fb32f70ceb15fb3d"
+    },
+    {
+      "path": "productions/long-line-v14-touch/README.md",
+      "bytes": 5099,
+      "sha256": "d97c1bc8cee650ee8ac7492b5657d2d7381b3ebdb18d888a9a54e36a23f9d417"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Renders/Long Line - Phrase Touch - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "2bcca1b4c68a381f867a10b9afc36dd75f68ec4c722efc9afb7b7b27ba6b8b1d"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Renders/Long Line - Phrase Touch B - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "4b276adeec4ae573a1e208a2f031b2518dc813fe07c6a4691a979e692739391f"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Renders/Long Line - Phrase Weight - 96s.mp3",
+      "bytes": 3073649,
+      "sha256": "b24dc0d7618f45a89d8af54e597827ccfc6bf201ed74ecb293edc2acb42ecec2"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/build_final.lua",
+      "bytes": 4084,
+      "sha256": "74f482715fdb8f20afddfb057af9a84940e732b91f9285b13c868a69611d0f58"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/build_touch.lua",
+      "bytes": 3634,
+      "sha256": "4aea5a3da3a044558a65a6492df6a28fa6379f5b11a191000498c2f30ae077be"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/build_touch_b.lua",
+      "bytes": 4086,
+      "sha256": "c354c8f7ed6a03b2a9c6853d5ab492f3507aaf10f5f00602c6e5d08387af5a21"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/build_touch_c.lua",
+      "bytes": 4088,
+      "sha256": "308c36059ce9c7213248887f628d7fc068ddc3067d74bed9a14251b1a64420f6"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/demo_notes.lua",
+      "bytes": 158791,
+      "sha256": "2d521cbadff89994a27948cd58c25ba8d4967a578b8d8c41bdc0cd5090a83266"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/phrase_gains.lua",
+      "bytes": 32558,
+      "sha256": "1827cf5294692719c58d62c8d9e58c37433e1bbc7a1b8c07103f904340392fa0"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/prepare_demo.py",
+      "bytes": 2551,
+      "sha256": "b5c01156e107b3f33ef9f1ee777ef852554c6b49eac5915256016edc09f6e8db"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/print_lanes.lua",
+      "bytes": 1012,
+      "sha256": "385248df40996150ec579163356950eea3d2a141fcc9c0987a32e2a2b99ae8ed"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/render_instruments.lua",
+      "bytes": 3615,
+      "sha256": "c665037e2f678155e61a788e673be42e4af46062bccb5214673ff3dd862b4b5a"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/verify_final.py",
+      "bytes": 1473,
+      "sha256": "341333caa81c3db41e96ff925f04cf06b0293c013800886b3bd41fe3cc9b4496"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/verify_touch.py",
+      "bytes": 1465,
+      "sha256": "4e9bfe12dbc8a7843910f895770c95a11ba5fc4ee268dfab84d9e17e7b90962a"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/verify_touch_b.py",
+      "bytes": 1473,
+      "sha256": "33146b3a835e9a1b953e31ecfc9a3fd054e83fd975ed4f50b1582fae7058fc45"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Scripts/verify_touch_c.py",
+      "bytes": 1473,
+      "sha256": "25dd601b2052e24045f9b0348ac0cd9773e671280cb4205164af3cb41f75d7b3"
+    },
+    {
+      "path": "productions/long-line-v14-touch/Texture Instruments.rpp",
+      "bytes": 342458,
+      "sha256": "73cde8781f9a9f9bbf459e15ea03b0ecfe8643bed04e55a82823b9d68112c2e5"
+    },
+    {
+      "path": "productions/long-line-v14-touch/texture.json",
+      "bytes": 7354115,
+      "sha256": "43e0382d6577dd42221a45b63f4a56505d1886427b5b1b894a758a187761ca3f"
+    },
+    {
+      "path": "productions/long-line-v14-touch/texture.mid",
+      "bytes": 229694,
+      "sha256": "d3958f487d3aa15bb392a3e1d30252323900f88673896401fdcbc2a08a000557"
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "bytes": 1417,
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e"
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "bytes": 10487,
+      "sha256": "a88f6eea2444eef7dc172b2bc4b6d252238c71e67911927d0dadc95642631e30"
+    },
+    {
+      "path": "tools/melodic_weave/continuous_field.py",
+      "bytes": 4247,
+      "sha256": "3221c4dca58f0dc8f44491a0f2caf4fce3f5018f09cace80aa5d76381eb0d0ea"
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "bytes": 8485,
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc"
+    },
+    {
+      "path": "tools/melodic_weave/phrase_touch.py",
+      "bytes": 2951,
+      "sha256": "be944260d517bc83f64bae1968778271d963a140f5ec7d521728cc14d3f34265"
+    },
+    {
+      "path": "tools/melodic_weave/test_phrase_touch.py",
+      "bytes": 1575,
+      "sha256": "c4c441875bea84fb7b6e020e537b5421b5e4df8930a7f59fa5787cdce0c0f13c"
+    },
+    {
+      "path": "tools/melodic_weave/texture_weave.py",
+      "bytes": 8725,
+      "sha256": "2f36c0535bf6a690ebd291e2123897d2637539c4c0cd95eac17d3f77bb7aaa48"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "file": "Eric Fourman - Wander To The Moon - 03 Refrigerate_120.wav",
+    "sha256": "a0d3cf9253bef864cf2d36e9780026c18f75003878d1f1f37baa1269fafea630",
+    "window_s": [
+      120,
+      140
+    ],
+    "artist_album": "https://ericfourman.bandcamp.com/album/wander-to-the-moon",
+    "reference_only": true
+  },
+  {
+    "file": "Eric Fourman - Wander To The Moon - 04 Heed_120.wav",
+    "sha256": "db9326c5fa4f31f3f097a1e5eb8f04dc06e08a1cf3ad52c45630fdf38c87c02e",
+    "window_s": [
+      120,
+      140
+    ],
+    "artist_album": "https://ericfourman.bandcamp.com/album/wander-to-the-moon",
+    "reference_only": true
+  }
+]

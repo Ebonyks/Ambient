@@ -1,0 +1,1 @@
+Native REAPER render action returned; verify WAV independently.

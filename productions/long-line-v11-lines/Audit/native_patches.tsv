@@ -1,0 +1,134 @@
+TRACK	0
+0	Output	0.35	70.00
+64	FreqModDepth1	0.52	4.80
+66	FreqModDepth2	0.5	0.00
+67	KeyFollow	0.3	30.00
+68	Resonance	0.03	3.00
+9	Voice Stack	0	1
+10	Mode	0	poly
+12	Glide	0	0.00
+77	Wet	0	0.00
+17	Transpose	0.5	0
+18	Attack	0.1	10.00
+19	Decay	0.28	28.00
+20	Sustain	0.18	18.00
+22	Release	0.18	18.00
+23	Velocity	0.65	65.00
+26	Attack	0.25	25.00
+28	Sustain	0.5	50.00
+30	Release	0.3	30.00
+38	Shape1	0.22	1.66
+40	TuneModDepth1	0.5	0.00
+41	Shape2	0.4	1.40
+42	Tune2	0	0.00
+43	FineTune2	0.5	0.00
+45	TuneModDepth2	0.5	0.00
+46	PWDepth	0	0.00
+48	Detune	0.5	0.00
+50	Vibrato	0	0.00
+54	OscVolume1	0.5	-37.50
+55	OscVolume2	0.36	-55.00
+56	SubVolume	0	-100.00
+57	NoiseVolume	0	-100.00
+58	RingModulator	0	-100.00
+59	Feedback	0.06	-92.50
+62	Cutoff	0.49	88.80
+72	XModDepth	0	0.00
+TRACK	1
+32	EM Atk	0.014	0.01
+33	EM Dcy	0.1	0.10
+34	EM Sus	0.1	0.10
+35	EM Rel	1	Release
+219	Use Hold	0	off
+184	Final	0.35	0.12
+39	RS Int	0.025	0.03
+40	RS Freq1	0.24	0.24
+41	RS Freq2	0.4	0.40
+42	RS Freq3	0.55	0.55
+43	RS Mod	0	off
+13	Waveform	0.0	Triangle
+14	PWM Int	0	0.0
+15	Fine	0.5	0
+16	Coarse	0.5	0
+180	ChEnable	0	off
+18	FM Mod	0	off
+55	Volume	0.38	0.14
+20	FM MG1	0	0.0
+21	FM GEG	0	0.0
+177	Volume	0	0.00
+116	Volume	0	0.00
+24	Cutoff	0.43	0.43
+25	Peak	0.06	0.06
+119	ChEnable	0	off
+27	Expand	0.05	0.05
+60	Over Rel	1	on
+29	fC MG1	0	0.00
+61	EM O.Rel	0.045	0.045
+45	AM Int	0	0.00
+TRACK	2
+0	Output	0.35	70.00
+64	FreqModDepth1	0.52	4.80
+66	FreqModDepth2	0.5	0.00
+67	KeyFollow	0.3	30.00
+68	Resonance	0.03	3.00
+9	Voice Stack	0	1
+10	Mode	0	poly
+12	Glide	0	0.00
+77	Wet	0	0.00
+17	Transpose	0.5	0
+18	Attack	0.1	10.00
+19	Decay	0.28	28.00
+20	Sustain	0.18	18.00
+22	Release	0.18	18.00
+23	Velocity	0.65	65.00
+26	Attack	0.25	25.00
+28	Sustain	0.5	50.00
+30	Release	0.3	30.00
+38	Shape1	0.22	1.66
+40	TuneModDepth1	0.5	0.00
+41	Shape2	0.4	1.40
+42	Tune2	0	0.00
+43	FineTune2	0.5	0.00
+45	TuneModDepth2	0.5	0.00
+46	PWDepth	0	0.00
+48	Detune	0.5	0.00
+50	Vibrato	0	0.00
+54	OscVolume1	0.5	-37.50
+55	OscVolume2	0.36	-55.00
+56	SubVolume	0	-100.00
+57	NoiseVolume	0	-100.00
+58	RingModulator	0	-100.00
+59	Feedback	0.06	-92.50
+62	Cutoff	0.514	91.68
+72	XModDepth	0	0.00
+TRACK	3
+32	EM Atk	0.014	0.01
+33	EM Dcy	0.1	0.10
+34	EM Sus	0.1	0.10
+35	EM Rel	1	Release
+219	Use Hold	0	off
+184	Final	0.35	0.12
+39	RS Int	0.025	0.03
+40	RS Freq1	0.24	0.24
+41	RS Freq2	0.4	0.40
+42	RS Freq3	0.55	0.55
+43	RS Mod	0	off
+13	Waveform	0.0	Triangle
+14	PWM Int	0	0.0
+15	Fine	0.5	0
+16	Coarse	0.5	0
+180	ChEnable	0	off
+18	FM Mod	0	off
+55	Volume	0.38	0.14
+20	FM MG1	0	0.0
+21	FM GEG	0	0.0
+177	Volume	0	0.00
+116	Volume	0	0.00
+24	Cutoff	0.43	0.43
+25	Peak	0.06	0.06
+119	ChEnable	0	off
+27	Expand	0.05	0.05
+60	Over Rel	1	on
+29	fC MG1	0	0.00
+61	EM O.Rel	0.045	0.045
+45	AM Int	0	0.00

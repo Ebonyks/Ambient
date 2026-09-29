@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 15,\n  \"harsh\": 38,\n  \"sibilant\": 12,\n  \"bright\": 78,\n  \"valence\": 4.5,\n  \"arousal\": 6.2,\n  \"mood\": \"Whimsical\",\n  \"issues\": [\n    {\n      \"t_seconds\": 3.8,\n      \"desc\": \"High transient accumulation in upper-register fast arpeggios creates a sudden spike in brightness.\"\n    },\n    {\n      \"t_seconds\": 11.5,\n      \"desc\": \"Uneven weight between lower bass anchor notes and rapid high-register runs shifts the focal register abruptly.\"\n    }\n  ],\n  \"overall\": \"The mix accentuates crisp treble transients and rapid register shifts in the performance, resulting in a very bright and lively presentation with dynamic high-end spikes.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sample_source": "../long-line-v6/Sources/UR1*.flac; existing CC0 VSCO upright tails",
+  "source_rate": 24000,
+  "delivery_rate": 48000,
+  "grain_ms": 110,
+  "grain_overlap": 4,
+  "position_jitter_ms": 35,
+  "pitch_jitter": 0,
+  "parallel_oversampling": 4,
+  "attack_seconds": {
+    "foreground": 0.38,
+    "inner": 0.65
+  },
+  "release_seconds": 0.8,
+  "held_tones": "One continuous source event; never retriggered at harmony boundary",
+  "inherited": "v6 anchor, water, wood and Valhalla Supermassive template",
+  "melody_residue": "Regenerated from new events, no old arch retained",
+  "caution": "Same source palette and routing; envelopes and parallel transfer adapted for shorter voices, not identical timbre"
+}

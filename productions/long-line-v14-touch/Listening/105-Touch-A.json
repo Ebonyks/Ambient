@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 45,\n  \"harsh\": 25,\n  \"sibilant\": 15,\n  \"bright\": 30,\n  \"valence\": -4.5,\n  \"arousal\": -1.5,\n  \"mood\": \"Ominous\",\n  \"issues\": [\n    {\n      \"t_seconds\": 2.5,\n      \"desc\": \"Accumulation of low-mid frequencies around 300Hz creates subtle mud in the synth drone.\"\n    },\n    {\n      \"t_seconds\": 10.0,\n      \"desc\": \"Transition to Version B introduces slightly elevated high-shelf noise floor and subtle upper-mid saturation roughness.\"\n    }\n  ],\n  \"overall\": \"Version A offers a smoother, darker drone continuity, while Version B introduces a slightly sharper upper-mid saturation edge, though overall tonal differences remain subtle.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

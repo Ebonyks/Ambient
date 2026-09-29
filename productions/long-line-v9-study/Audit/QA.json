@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "errors": [],
+  "max_key_polyphony": 13,
+  "source_events": 2821,
+  "texture_events": 2698,
+  "meaning": "Key overlap only; acoustic release tails are additional. No claim of perceived simplicity.",
+  "duration_s": 96,
+  "source_excerpt_s": [
+    140,
+    236
+  ],
+  "notes_in_demo": 809,
+  "old_source_events": 123,
+  "mean_full_source_onsets_per_s": 8.395833333333334,
+  "mean_texture_onsets_per_active_s": 8.301538461538462,
+  "native_peak": 0.5251072645187378,
+  "loudness": {
+    "input_i": "-20.39",
+    "input_tp": "-5.60",
+    "input_lra": "6.60",
+    "input_thresh": "-30.44"
+  },
+  "residual_to_scaffold_db": -9.641260498808618,
+  "old_new_waveform_correlation": 0.9414792685623766,
+  "render_sha256": "eac8a1ee0ed60f907337ba35079321c83bb85adbbd6ea1b5fbc7b121bb65f1d3",
+  "tests": {
+    "melody_tool_total": 22,
+    "harmony_protocol": 10,
+    "texture_seeded_trials": 100
+  },
+  "gemini_cumulative": 98,
+  "gemini_remaining": 2,
+  "review_status": "Construction and non-silent rendering verified. In-context superiority NOT established; paired Gemini reviews could not distinguish versions.",
+  "project_media": [
+    {
+      "project": "Long Line - Inner Detail B.rpp",
+      "source": "Media/01_v8_scaffold_excerpt.flac",
+      "sha256": "b982dcf6b247bda6e64f37ac35fbd5a34066e6486c22e9a983918ed734952085"
+    },
+    {
+      "project": "Long Line - Inner Detail B.rpp",
+      "source": "Media/06_Inner_texture.flac",
+      "sha256": "aa56631d06d64b09842391e85820d5396fc5633622639f7bf26b6b3b9889fd73"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"muddy\": 52,\n  \"harsh\": 18,\n  \"sibilant\": 5,\n  \"bright\": 28,\n  \"valence\": -4.5,\n  \"arousal\": -5.2,\n  \"mood\": \"Somber\",\n  \"issues\": [\n    {\n      \"t_seconds\": 0.5,\n      \"desc\": \"Dense low-mid accumulation between 250Hz and 450Hz creates a static booming baseline tone.\"\n    },\n    {\n      \"t_seconds\": 11.2,\n      \"desc\": \"Higher register shift introduces subtle narrow harmonic resonances near 2.5kHz.\"\n    }\n  ],\n  \"overall\": \"Sustained reedy tones with imperceptible note attacks create a static, restrained soundscape dominated by a thick low-mid resonance with minimal high-end air.\",\n  \"audio_sent_seconds\": 20.0,\n  \"backend\": \"Gemini cloud; inline WAV; first 20 seconds maximum\"\n}"
+      }
+    ],
+    "isError": false
+  }
+}

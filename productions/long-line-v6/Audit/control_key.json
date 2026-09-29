@@ -1,0 +1,5 @@
+{
+  "control_X": "tied original inner-body envelope",
+  "control_Y": "simulated synchronized reattack envelope at 112 seconds; source waveform preserved; no harmonic change",
+  "both": "20s, same source and RMS; tests one envelope behavior only, not complete synthesis quality"
+}

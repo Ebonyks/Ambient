@@ -1,0 +1,75 @@
+FX	0.0	Delay
+FX	0.018	Reverb 1
+FX	0.054	Phaser
+FX	0.09	Rotary Speaker
+FX	0.125	Distortion
+FX	0.161	EQ
+FX	0.197	Frequency Shifter
+FX	0.233	Conditioner
+FX	0.268	Chorus
+FX	0.304	Vocoder
+FX	0.34	Reverb 2
+FX	0.375	Flanger
+FX	0.411	Ring Modulator
+FX	0.447	Airwindows
+FX	0.483	Neuron
+FX	0.518	Graphic EQ
+FX	0.554	Resonator
+FX	0.59	CHOW
+FX	0.625	Exciter
+FX	0.661	Ensemble
+FX	0.697	Combulator
+FX	0.733	Nimbus
+FX	0.768	Tape
+FX	0.804	Treemonster
+FX	0.84	Waveshaper
+FX	0.875	Mid-Side Tool
+FX	0.911	Spring Reverb
+FX	0.947	Bonsai
+FX	0.983	Audio Input
+OSC	0.0	Classic
+OSC	0.05	Sine
+OSC	0.14	Wavetable
+OSC	0.23	S&H Noise
+OSC	0.321	Audio In
+OSC	0.411	FM3
+OSC	0.5	FM2
+OSC	0.591	Window
+OSC	0.68	Modern
+OSC	0.771	String
+OSC	0.86	Twist
+OSC	0.951	Alias
+FILTER	0.0	Off
+FILTER	0.021	LP 12 dB
+FILTER	0.05	LP 24 dB
+FILTER	0.081	LP Legacy Ladder
+FILTER	0.111	HP 12 dB
+FILTER	0.14	HP 24 dB
+FILTER	0.17	BP 12 dB
+FILTER	0.2	N 12 dB
+FILTER	0.23	FX Comb +
+FILTER	0.261	FX Sample & Hold
+FILTER	0.291	LP Vintage Ladder
+FILTER	0.321	LP OB-Xd 12 dB
+FILTER	0.351	LP OB-Xd 24 dB
+FILTER	0.381	LP K35
+FILTER	0.411	HP K35
+FILTER	0.441	LP Diode Ladder
+FILTER	0.471	LP Cutoff Warp
+FILTER	0.5	HP Cutoff Warp
+FILTER	0.531	N Cutoff Warp
+FILTER	0.56	BP Cutoff Warp
+FILTER	0.591	HP OB-Xd 12 dB
+FILTER	0.62	N OB-Xd 12 dB
+FILTER	0.651	BP OB-Xd 12 dB
+FILTER	0.68	BP 24 dB
+FILTER	0.711	N 24 dB
+FILTER	0.74	FX Comb -
+FILTER	0.771	FX Allpass
+FILTER	0.8	FX Cutoff Warp AP
+FILTER	0.831	LP Res Warp
+FILTER	0.86	HP Res Warp
+FILTER	0.891	N Res Warp
+FILTER	0.92	BP Res Warp
+FILTER	0.951	FX Res Warp AP
+FILTER	0.98	MULTI Tri-pole

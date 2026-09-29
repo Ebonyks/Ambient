@@ -1,0 +1,54 @@
+{
+  "phrases": [
+    {
+      "start_s": 16,
+      "source_start_s": 7,
+      "source_end_s": 38,
+      "variant": 0,
+      "gain": 0.9
+    },
+    {
+      "start_s": 57,
+      "source_start_s": 38,
+      "source_end_s": 72,
+      "variant": 1,
+      "gain": 1
+    },
+    {
+      "start_s": 103,
+      "source_start_s": 72,
+      "source_end_s": 108,
+      "variant": 2,
+      "gain": 0.85
+    },
+    {
+      "start_s": 150,
+      "source_start_s": 38,
+      "source_end_s": 72,
+      "variant": 1,
+      "gain": 0.95
+    },
+    {
+      "start_s": 202,
+      "source_start_s": 7,
+      "source_end_s": 38,
+      "variant": 0,
+      "gain": 1.08
+    },
+    {
+      "start_s": 250,
+      "source_start_s": 72,
+      "source_end_s": 108,
+      "variant": 2,
+      "gain": 0.96
+    },
+    {
+      "start_s": 292,
+      "source_start_s": 38,
+      "source_end_s": 72,
+      "variant": 1,
+      "gain": 0.82
+    }
+  ],
+  "intent": "Complete motif statements; trimmed before the following statement attacks. Local source event timing retained."
+}

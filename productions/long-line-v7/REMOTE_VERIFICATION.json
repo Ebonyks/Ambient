@@ -1,0 +1,254 @@
+{
+  "revision": "abecda13c1c2e0bbf9c996051383d94c6dd77d82",
+  "verified_utc": "2026-09-27T02:01:44.365389+00:00",
+  "access_mode": "Anonymous HTTPS GET, no credentials",
+  "verified_files": 41,
+  "results": [
+    {
+      "path": "productions/long-line-v7/Audit/comparison.json",
+      "sha256": "f012c623c5802d7e8db0b1d2ad63ce96490a267c67003eba64787d31742b63e6",
+      "bytes": 9023,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/listening.json",
+      "sha256": "ae7bafafea99f43980380f346aafc8c130d19b85c9837358799e53155ac1d786",
+      "bytes": 8576,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/QA.json",
+      "sha256": "af4d2136e98f6ebbb82ac1822887958e3f39196556a7d7fff3aac8d811f5b9f1",
+      "bytes": 4191,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/reaper_receipt.txt",
+      "sha256": "7b1ea4eb1c31763c1b174c1a540271049e6abdefd6ba57401da16c51a1058119",
+      "bytes": 287,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/render_complete.txt",
+      "sha256": "9e3369da2f412c8ae82bd9f8ac3cb99e2b02806355089869cecf5acda17ac563",
+      "bytes": 63,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/render_verification.json",
+      "sha256": "1de2c148948563380dbae4ace3ebb5398185c57bc58e71ca020727f385456fb8",
+      "bytes": 2200,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/synthesis.json",
+      "sha256": "74b7bfad6e8c4c3ea9e7c76156a34ac4346080b3131adedde82ad086a1ae93c1",
+      "bytes": 739,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Audit/voicing_comparison.png",
+      "sha256": "6172c9bf943e2c40b8f76351be13b97fe842da91bbea4e92bb27b1c7bd65ad62",
+      "bytes": 61578,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Long Line - Moving Voices.rpp",
+      "sha256": "140e50df457f663ecabeae8f64da1c1f8643071414c79473dc0fd057f67724bf",
+      "bytes": 17322,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Media/02_Moving_inner_voices.flac",
+      "sha256": "ea652f4ef30ce727520d21a6da09b369b61c679329614bfe354d9fca4fe3f21e",
+      "bytes": 31999040,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Media/03_Developing_foreground.flac",
+      "sha256": "c8e2f56032edfed2fc3077e6677f4e191776aee67aac82ea961b1fa5fabcc8fc",
+      "bytes": 31771641,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Media/04_Eroded_melodic_return.flac",
+      "sha256": "c64a830046f34afdcb52a9a6ac2d0e8a7425ed692f0c27eb40b7d5f8db6ca8bd",
+      "bytes": 27653069,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Media/05_Independent_distorted_body.flac",
+      "sha256": "678ba0912d46b6819b5448ff2976252c4bee6265eb2966506747d684d7e4edd2",
+      "bytes": 21918923,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Media/06_Source_residue.flac",
+      "sha256": "f30bbb7131607407277b1670c2c49ae2ff8355026bd34f23dd453cffa05a14fa",
+      "bytes": 16679517,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/README.md",
+      "sha256": "c812aa6ca76e319ff896d99691d917348e8a7403e61359559a20a131b8276129",
+      "bytes": 5264,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Renders/Long Line - Moving Voices - 5m36.mp3",
+      "sha256": "300f0408b92a45360517c4083b7e1e40d3afded3c5fe584c4efc50ee389c8265",
+      "bytes": 10753649,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Scripts/build_and_render.lua",
+      "sha256": "ef8f1661f9694c5f584ff9944e89071e28a08661343658b658378e0fe6346559",
+      "bytes": 6106,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Scripts/compare.py",
+      "sha256": "767549ea67e671fd3ecc64df0531dca2a6ba9f109eda4605af2d0c88ca80eb18",
+      "bytes": 2940,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Scripts/plot.py",
+      "sha256": "17342486560980b871cb4fa575a3e214e838efcf8546d996509a2a6fc1a31040",
+      "bytes": 1208,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Scripts/render_sources.py",
+      "sha256": "4399d95543a64290d775ca7259847e160e7964e1b9ec807dd947f60ebddb2a32",
+      "bytes": 4107,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/Scripts/verify_audio.py",
+      "sha256": "c8a28ae8857035f4586e77e85aef94e0c329af03f3e43631d7ff7f49d9fdd67a",
+      "bytes": 1860,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/weave.json",
+      "sha256": "96d5517ce4e4b88f30526d77df4bd895ecad0ac579f5f735e06276068d72ea01",
+      "bytes": 54590,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/weave.mid",
+      "sha256": "ee637f543990335827e7347f87804030618c680062fda7b4e4990491e9d9a71b",
+      "bytes": 2104,
+      "verified": true
+    },
+    {
+      "path": "tools/melodic_weave/melody_tool.py",
+      "sha256": "e214b64686ba173151c3d85d03cd15f90f9154d1ccf59188780fc5bbebabf4bc",
+      "bytes": 8485,
+      "verified": true
+    },
+    {
+      "path": "tools/melodic_weave/README.md",
+      "sha256": "b2b27263432dc0a25d82bad976893da16417bd951eae348d4f150263e8ba8db2",
+      "bytes": 4250,
+      "verified": true
+    },
+    {
+      "path": "tools/melodic_weave/test_melody_tool.py",
+      "sha256": "6ace39228aba48535ed9df6b9aada3486413a0d62e1d01a9014eafeb5a1fde80",
+      "bytes": 3207,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/harmony.json",
+      "sha256": "2e95cb2fc0e472aaad2dc9405976edc5cba8cce315ee1c5f012fa9c8049ed2bc",
+      "bytes": 7387,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Scripts/ambience_bus.RTrackTemplate",
+      "sha256": "c02be587cee0c9c23cb68914c16792e6584cd3fce633626b9e3b7d5d3dce009a",
+      "bytes": 2703,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/LICENSES.md",
+      "sha256": "0bbaeed490cbee6ea6bab9dc57a112c26ab3dceda7b4183e21c56767ede5df3e",
+      "bytes": 1417,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Media/01_Anchor_bypasses_drive.flac",
+      "sha256": "08a06b60b27c7d0d02959633b7da566e6fddc8d0e96f575879d536875c117aa4",
+      "bytes": 5156895,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Media/07_Water.flac",
+      "sha256": "b1a73487cdea40bec9101ab8fd8b2afb8ffbaf6594130a50b4d1ffcf63da5a5c",
+      "bytes": 41125613,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Media/08_Wood_air.flac",
+      "sha256": "e06c37041b1db50eb20461039dda620db750ac5623af4590ef35fefd6b4152a6",
+      "bytes": 21758825,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C2_pp_RR1.flac",
+      "sha256": "ef606a71e18d931e063bab6ee4ea6575db02ee658a8018450748128067a2ca41",
+      "bytes": 295740,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C3_pp_RR1.flac",
+      "sha256": "d1673b64c67c5366cbb3448c8c42feabfc42a6c52a1a61458c59db40b08fd483",
+      "bytes": 240430,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C4_pp_RR1.flac",
+      "sha256": "6bdb9476c22945889b35fb663e43e7519ce814b21049d0c0fdcd96a8c5f83758",
+      "bytes": 298264,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_C5_pp_RR1.flac",
+      "sha256": "5e818755d80243c2f0411b9080259df60372ce9bd48bbe7c39e8dab4eb204a1e",
+      "bytes": 236436,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G2_pp_RR1.flac",
+      "sha256": "095280c44de6a2fd26df5b2dde2094a1919905e70a8db027f066480026a925d2",
+      "bytes": 351284,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G3_pp_RR1.flac",
+      "sha256": "e69ed2c7be4f073f7036ed82e2e26e28c1b0fa48b382f5f6d5d0d36a7c1f3496",
+      "bytes": 276054,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G4_pp_RR1.flac",
+      "sha256": "a3f4ec851943553fef1ce0ebc56a8cad26bbf6a5f2c1a73f17193f1deea12a04",
+      "bytes": 276873,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v6/Sources/UR1_G5_pp_RR1.flac",
+      "sha256": "bb131eb44004829482dc4d8c244a189f7185164a689b27ff2035d4aa2d7ec5aa",
+      "bytes": 229868,
+      "verified": true
+    },
+    {
+      "path": "productions/long-line-v7/DELIVERY_MANIFEST.json",
+      "sha256": "766470042bee43b63cc99fac640abce22dcf5da406e41e10892fb152d7f7a503",
+      "bytes": 7570,
+      "verified": true
+    }
+  ]
+}
